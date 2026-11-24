@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 241" role="img">
+  <title>碳得到氧形成二氧化碳，氧化銅同時失去氧形成銅。</title>
+  <text x="180" y="21" font-size="14" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">氧化還原反應</text>
+  <defs><marker id="chem-redox-arrow" markerWidth="7" markerHeight="7" refX="6.5" refY="3.5" orient="auto" markerUnits="userSpaceOnUse"><path d="M0 0L7 3.5L0 7Z" fill="var(--fig-ink)"/></marker></defs>
+  <rect x="8" y="32" width="344" height="143" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <text x="216" y="53" font-size="13" text-anchor="middle" fill="var(--fig-ink)">得到氧：被氧化（還原劑）</text>
+  <path d="M140 89C140 53 288 53 288 89" fill="none" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#chem-redox-arrow)"/>
+  <text x="73" y="106" font-size="14" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">2CuO</text>
+  <text x="110" y="106" font-size="14" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">＋</text>
+  <text x="140" y="106" font-size="14" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">C</text>
+  <text x="176" y="106" font-size="14" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">→</text>
+  <text x="212" y="106" font-size="14" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">2Cu</text>
+  <text x="251" y="106" font-size="14" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">＋</text>
+  <text x="288" y="106" font-size="14" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">CO₂</text>
+  <path d="M73 114C73 150 212 150 212 114" fill="none" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#chem-redox-arrow)"/>
+  <text x="143" y="164" font-size="13" text-anchor="middle" fill="var(--fig-ink)">失去氧：被還原（氧化劑）</text>
+  <text x="211" y="196" font-size="12" text-anchor="middle" fill="var(--fig-ink)">Cu 紅棕色</text>
+  <text x="303" y="196" font-size="11" text-anchor="middle" fill="var(--fig-ink)">CO₂ 使石灰水變混濁</text>
+  <rect x="8" y="206" width="344" height="28" rx="5" fill="var(--fig-cool)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <text x="180" y="225" font-size="13" text-anchor="middle" fill="var(--fig-ink)">氧化和還原同時發生</text>
+</svg>

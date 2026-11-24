@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 221" role="img">
+  <title>右手開掌可判斷載流線圈的受力方向，直流馬達利用換向器與電刷讓線圈持續轉動。</title>
+  <defs><marker id="phy-motor-ink" markerWidth="7" markerHeight="7" refX="6.5" refY="3.5" orient="auto" markerUnits="userSpaceOnUse"><path d="M1 1L6.5 3.5L1 6" fill="none" stroke="var(--fig-ink)" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/></marker><marker id="phy-motor-soft" markerWidth="7" markerHeight="7" refX="6.5" refY="3.5" orient="auto" markerUnits="userSpaceOnUse"><path d="M1 1L6.5 3.5L1 6" fill="none" stroke="var(--fig-soft)" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/></marker><marker id="phy-motor-ic" markerWidth="7" markerHeight="7" refX="6.5" refY="3.5" orient="auto" markerUnits="userSpaceOnUse"><path d="M1 1L6.5 3.5L1 6" fill="none" stroke="var(--ic)" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>
+  <text x="180" y="20" font-size="14" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">電流與磁場的交互作用</text>
+  <path d="M166 35V202" fill="none" stroke="var(--fig-line)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M62 106h8v8M62 114l-10 9h11l10 -9" fill="none" stroke="var(--fig-line)" stroke-width="1"/>
+  <path d="M62 114V62" fill="none" stroke="var(--fig-ink)" stroke-width="2.1" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#phy-motor-ink)"/>
+  <path d="M62 114l-37 33" fill="none" stroke="var(--fig-soft)" stroke-width="2.1" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#phy-motor-soft)"/>
+  <path d="M62 114h84" fill="none" stroke="var(--ic)" stroke-width="2.1" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#phy-motor-ic)"/>
+  <circle cx="62" cy="114" r="2.8" fill="var(--fig-ink)" stroke="var(--fig-ink)" stroke-width="1"/>
+  <text x="62" y="48" font-size="12" text-anchor="middle" fill="var(--fig-ink)">大拇指：電流</text>
+  <text x="44" y="166" font-size="12" text-anchor="middle" fill="var(--fig-ink)">四指：磁場</text>
+  <text x="116" y="102" font-size="12" text-anchor="middle" fill="var(--fig-ink)">掌心：受力方向</text>
+  <text x="83" y="204" font-size="13" text-anchor="middle" fill="var(--fig-ink)">右手開掌定則</text>
+  <rect x="180" y="49" width="30" height="64" rx="3" fill="var(--fig-warm)" stroke="var(--fig-ink)" stroke-width="1.5"/>
+  <rect x="318" y="49" width="30" height="64" rx="3" fill="var(--fig-cool)" stroke="var(--fig-ink)" stroke-width="1.5"/>
+  <text x="195" y="86" font-size="14" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">N</text>
+  <text x="333" y="86" font-size="14" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">S</text>
+  <path d="M259 125l-1 -21h-29l10 -45h62l-10 45h-22l-1 21" fill="none" stroke="var(--fig-ink)" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M259 125l-1 -21h-29l10 -45h62l-10 45h-22l-1 21" fill="none" stroke="var(--fig-warm)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M261 122a11 11 0 0 0 0 21v-4a7 7 0 0 1 0 -13Zm5 0a11 11 0 0 1 0 21v-4a7 7 0 0 0 0 -13Z" fill="var(--fig-warm)" stroke="var(--fig-ink)" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="240" y="130" width="13" height="6" rx="1" fill="var(--fig-cool)" stroke="var(--fig-ink)" stroke-width="1"/>
+  <rect x="275" y="130" width="13" height="6" rx="1" fill="var(--fig-cool)" stroke="var(--fig-ink)" stroke-width="1"/>
+  <path d="M240 133h-14v43h35m6 0h33v-43h-12" fill="none" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M261 167v18 M267 171v10" fill="none" stroke="var(--fig-ink)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="203" y="154" font-size="12" text-anchor="middle" fill="var(--fig-ink)">電刷</text>
+  <path d="M211 144l13 -6 18 -2" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="320" y="160" font-size="12" text-anchor="middle" fill="var(--fig-ink)">換向器</text>
+  <path d="M310 147l-14 -6 -22 -3" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="263" y="204" font-size="13" text-anchor="middle" fill="var(--fig-ink)">電能→動能</text>
+</svg>

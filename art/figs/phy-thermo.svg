@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 244" role="img">
+  <title>攝氏與華氏溫標對齊水的冰點和沸點，兩點之間分別相差一百等分與一百八十等分。</title>
+  <text x="180" y="20" text-anchor="middle" font-size="14" fill="var(--fig-ink)" font-weight="600">攝氏與華氏</text>
+  <text x="105" y="46" text-anchor="middle" font-size="13" fill="var(--fig-ink)" font-weight="600">攝氏 °C</text>
+  <text x="265" y="46" text-anchor="middle" font-size="13" fill="var(--fig-ink)" font-weight="600">華氏 °F</text>
+  <path d="M84 168V65a4 4 0 0 1 8 0v103a9 9 0 1 1-8 0Z" fill="var(--fig-cool)" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M88 80v95" fill="none" stroke="var(--ic)" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="88" cy="176" rx="5" ry="5" fill="var(--fig-warm)" stroke="var(--fig-ink)" stroke-width="1.5"/>
+  <path d="M95 80h13 M95 87.2h5 M95 94.4h5 M95 101.6h5 M95 108.8h5 M95 116h5 M95 123.2h5 M95 130.4h5 M95 137.6h5 M95 144.8h5 M95 152h13" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="113" y="84" text-anchor="start" font-size="12" fill="var(--fig-ink)">100 °C</text>
+  <text x="113" y="156" text-anchor="start" font-size="12" fill="var(--fig-ink)">0 °C</text>
+  <text x="108" y="122" text-anchor="start" font-size="12" fill="var(--fig-ink)">100 等分</text>
+  <path d="M243 168V65a4 4 0 0 1 8 0v103a9 9 0 1 1-8 0Z" fill="var(--fig-cool)" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M247 80v95" fill="none" stroke="var(--ic)" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="247" cy="176" rx="5" ry="5" fill="var(--fig-warm)" stroke="var(--fig-ink)" stroke-width="1.5"/>
+  <path d="M254 80h13 M254 84h5 M254 88h5 M254 92h5 M254 96h5 M254 100h5 M254 104h5 M254 108h5 M254 112h5 M254 116h5 M254 120h5 M254 124h5 M254 128h5 M254 132h5 M254 136h5 M254 140h5 M254 144h5 M254 148h5 M254 152h13" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="272" y="84" text-anchor="start" font-size="12" fill="var(--fig-ink)">212 °F</text>
+  <text x="272" y="156" text-anchor="start" font-size="12" fill="var(--fig-ink)">32 °F</text>
+  <text x="267" y="122" text-anchor="start" font-size="12" fill="var(--fig-ink)">180 等分</text>
+  <text x="15" y="84" text-anchor="start" font-size="12" fill="var(--fig-ink)">沸點</text>
+  <text x="15" y="156" text-anchor="start" font-size="12" fill="var(--fig-ink)">冰點</text>
+  <path d="M45 80H80M45 152H80M160 80H239M160 152H239" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="3 3"/>
+  <rect x="8" y="207" width="344" height="28" rx="4" fill="var(--fig-cool)" stroke="var(--fig-line)"/>
+  <text x="180" y="226" text-anchor="middle" font-size="13" fill="var(--fig-ink)">°F＝9／5×°C＋32</text>
+</svg>

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 265" role="img">
+  <title>加入氫氧化鈉時溶液的 pH 上升，在十毫升時通過 pH 七的中和點。</title>
+  <text x="180" y="21" font-size="14" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">酸鹼中和</text>
+  <text x="20" y="31" font-size="13" text-anchor="middle" fill="var(--fig-ink)">pH</text>
+  <path d="M38 42V179H340" fill="none" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M38 108H187M187 108V179" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="3 4"/>
+  <path d="M34 168H38" fill="none" stroke="var(--fig-ink)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="26" y="172" font-size="12" text-anchor="end" fill="var(--fig-ink)">1</text>
+  <path d="M34 108H38" fill="none" stroke="var(--fig-ink)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="26" y="112" font-size="12" text-anchor="end" fill="var(--fig-ink)">7</text>
+  <path d="M34 48H38" fill="none" stroke="var(--fig-ink)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="26" y="52" font-size="12" text-anchor="end" fill="var(--fig-ink)">13</text>
+  <path d="M38 179v4" fill="none" stroke="var(--fig-ink)" stroke-width="1.1" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="38" y="198" font-size="12" text-anchor="middle" fill="var(--fig-ink)">0</text>
+  <path d="M112.5 179v4" fill="none" stroke="var(--fig-ink)" stroke-width="1.1" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="112.5" y="198" font-size="12" text-anchor="middle" fill="var(--fig-ink)">5</text>
+  <path d="M187 179v4" fill="none" stroke="var(--fig-ink)" stroke-width="1.1" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="187" y="198" font-size="12" text-anchor="middle" fill="var(--fig-ink)">10</text>
+  <path d="M261.5 179v4" fill="none" stroke="var(--fig-ink)" stroke-width="1.1" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="261.5" y="198" font-size="12" text-anchor="middle" fill="var(--fig-ink)">15</text>
+  <path d="M336 179v4" fill="none" stroke="var(--fig-ink)" stroke-width="1.1" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="336" y="198" font-size="12" text-anchor="middle" fill="var(--fig-ink)">20</text>
+  <path d="M38 168C76 167 130 165 159 156C178 150 183 142 187 108C191 74 195 65 213 59C239 50 290 49 336 48" fill="none" stroke="var(--fig-ink)" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="187" cy="108" r="4" fill="var(--fig-paper)" stroke="var(--ic)" stroke-width="2.3"/>
+  <path d="M194 110L207 118H213" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="218" y="123" font-size="13" text-anchor="start" fill="var(--fig-ink)" font-weight="600">恰好中和</text>
+  <text x="98" y="145" font-size="12" text-anchor="middle" fill="var(--fig-ink)">酚酞：無色</text>
+  <text x="281" y="75" font-size="12" text-anchor="middle" fill="var(--fig-ink)">酚酞：紅色</text>
+  <text x="187" y="216" font-size="13" text-anchor="middle" fill="var(--fig-ink)">加入氫氧化鈉的體積（mL）</text>
+  <rect x="8" y="223" width="344" height="28" rx="5" fill="var(--fig-cool)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <text x="180" y="242" font-size="13" text-anchor="middle" fill="var(--fig-ink)">H⁺ ＋ OH⁻ → H₂O</text>
+  <text x="350" y="262" font-size="11" text-anchor="end" fill="var(--fig-soft)">示意圖</text>
+</svg>

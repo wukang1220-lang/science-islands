@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 215" role="img">
+  <title>外力增加時靜摩擦力隨之增加，物體開始滑動後摩擦力稍微下降並保持固定。</title>
+  <defs><marker id="phy-friction-ink" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto" markerUnits="userSpaceOnUse"><path d="M1 1L6 3.5L1 6" fill="none" stroke="var(--fig-ink)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>
+  <text x="180" y="20" text-anchor="middle" font-size="14" fill="var(--fig-ink)" font-weight="600">摩擦力的變化</text>
+  <text x="38" y="49" text-anchor="middle" font-size="12" fill="var(--fig-ink)">摩擦力</text>
+  <path d="M37 180V59" fill="none" stroke="var(--fig-ink)" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#phy-friction-ink)"/>
+  <path d="M37 180H339" fill="none" stroke="var(--fig-ink)" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#phy-friction-ink)"/>
+  <path d="M37 180L158 59" fill="none" stroke="var(--ic)" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M158 59V84H329" fill="none" stroke="var(--fig-ink)" stroke-width="2.1" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="158" cy="59" rx="3" ry="3" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1.5"/>
+  <text x="165" y="47" text-anchor="start" font-size="13" fill="var(--fig-ink)" font-weight="600">最大靜摩擦力</text>
+  <path d="M164 51l-4 4" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="183" y="143" text-anchor="middle" font-size="12" fill="var(--fig-ink)">靜摩擦力＝外力（推不動）</text>
+  <path d="M98 122l10 11h7" fill="none" stroke="var(--fig-soft)" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="253" y="109" text-anchor="middle" font-size="12" fill="var(--fig-ink)">動摩擦力（滑動後大小固定）</text>
+  <path d="M252 88v7" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="337" y="200" text-anchor="end" font-size="12" fill="var(--fig-ink)">外力</text>
+</svg>

@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 272" role="img">
+  <title>實驗室安全包括用燈罩蓋熄酒精燈、用手搧聞、讓試管口朝向無人處，以及將酸慢慢加入水中。</title>
+  <text x="180" y="20" text-anchor="middle" font-size="14" fill="var(--fig-ink)" font-weight="600">實驗室安全</text>
+  <defs><marker id="x-safety-move" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto" markerUnits="userSpaceOnUse"><path d="M1 1L7 4L1 7" fill="none" stroke="var(--ic)" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>
+  <g transform="translate(8 31)">
+    <rect x="0" y="0" width="169" height="113" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1"/>
+    <text x="84.5" y="19" text-anchor="middle" font-size="14" fill="var(--fig-ink)" font-weight="600">酒精燈</text>
+    <path d="M57 58h15v7q13 6 14 15q1 5-5 5H49q-5 0-4-5q2-10 12-15Z" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M48 75q7-2 16 0t18 0l2 6q0 2-4 2H50q-5 0-2-8Z" fill="var(--fig-sea)" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M55 57h19v4H55Z" fill="var(--fig-cool)" stroke="var(--fig-ink)" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M61 55q-7-7 2-15q-1 5 3 4q4-4 3-10q9 15-1 21Z" fill="var(--fig-warm)" stroke="var(--fig-ink)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M100 30q3-4 10-2l7 19h-24Z" fill="var(--fig-cool)" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M100 53q-6 8-17 8" fill="none" stroke="var(--ic)" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#x-safety-move)"/>
+    <text x="84.5" y="101" text-anchor="middle" font-size="12" fill="var(--fig-ink)">酒精 1/3～2/3，用燈罩蓋熄</text>
+  </g>
+  <g transform="translate(183 31)">
+    <rect x="0" y="0" width="169" height="113" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1"/>
+    <text x="84.5" y="19" text-anchor="middle" font-size="14" fill="var(--fig-ink)" font-weight="600">聞氣味</text>
+    <path d="M39 53h16v11l9 6v14H31V70l8-6Z" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M33 74q7-1 14 0t15 0v8H33Z" fill="var(--fig-sea)" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M37 53h20" fill="none" stroke="var(--fig-ink)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M43 47q-4-4 0-8m7 7q4-4 1-8" fill="none" stroke="var(--fig-soft)" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M73 53l-11-7q-3-3 0-5q1-1 5 1l7 3-6-9q-2-4 1-5q2 0 4 3l6 7-3-10q0-4 3-3q2 0 3 4l4 9 1-8q1-4 4-2l1 13 3 8 8 6-8 8-10-8q-7-1-12-5Z" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M76 68q19 12 42-4" fill="none" stroke="var(--ic)" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#x-safety-move)"/>
+    <path d="M139 35q-9 1-11 10l-7 9q-2 3 5 4l1 6q1 5 12 4" fill="none" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M129 46h3" fill="none" stroke="var(--fig-soft)" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="84.5" y="101" text-anchor="middle" font-size="12" fill="var(--fig-ink)">用手搧聞</text>
+  </g>
+  <g transform="translate(8 150)">
+    <rect x="0" y="0" width="169" height="113" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1"/>
+    <text x="84.5" y="19" text-anchor="middle" font-size="14" fill="var(--fig-ink)" font-weight="600">加熱試管</text>
+    <circle cx="32" cy="51" r="9" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1.5"/>
+    <path d="M20 77q0-15 12-15t12 15" fill="none" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M73 75l29-38m9 7L83 82q-5 6-10 2q-4-4 0-9Z" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M75 75l10-4 3 1-7 9q-3 3-6 1q-3-2 0-7Z" fill="var(--fig-sea)" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M101 37l11 8" fill="none" stroke="var(--fig-ink)" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M60 50l26 12 6-9 6 4-7 11-32-15Z" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M114 36l12-12" fill="none" stroke="var(--ic)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#x-safety-move)"/>
+    <text x="84.5" y="101" text-anchor="middle" font-size="12" fill="var(--fig-ink)">管口朝向無人處</text>
+  </g>
+  <g transform="translate(183 150)">
+    <rect x="0" y="0" width="169" height="113" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1"/>
+    <text x="84.5" y="19" text-anchor="middle" font-size="14" fill="var(--fig-ink)" font-weight="600">稀釋濃硫酸</text>
+    <path d="M74 57l4 4v22q0 3 3 3h34q3 0 3-3V57" fill="none" stroke="var(--fig-ink)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M80 72q7-2 17 0t19 0v11H80Z" fill="var(--fig-sea)" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M80 72q8-2 17 0t19 0" fill="none" stroke="var(--fig-soft)" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M80 32l22 49" fill="none" stroke="var(--fig-ink)" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M83 44q7 18 14 29" fill="none" stroke="var(--ic)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M40 47l14 9 20-18 7 2-6-9-15-9Z" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M44 46l11 6 12-12-16 0Z" fill="var(--fig-cool)" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M79 39q4 1 6 9" fill="none" stroke="var(--ic)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="84.5" y="101" text-anchor="middle" font-size="12" fill="var(--fig-ink)">酸慢慢加入水中</text>
+  </g>
+</svg>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 259" role="img">
+  <title>密閉容器反應前後的讀數相同，開放容器因二氧化碳逸散而使讀數下降。</title>
+  <text x="180" y="20" text-anchor="middle" font-size="14" font-weight="600" fill="var(--fig-ink)">質量守恆定律</text>
+  <rect x="7" y="31" width="168" height="180" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <text x="91" y="51" text-anchor="middle" font-size="13" font-weight="600" fill="var(--fig-ink)">密閉容器</text>
+  <rect x="185" y="31" width="168" height="180" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <text x="269" y="51" text-anchor="middle" font-size="13" font-weight="600" fill="var(--fig-ink)">開放容器</text>
+  <path d="M85 91v14l-17 29q-3 7 4 7h38q7 0 4 -7l-17 -29V91Z" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M76 122q8 -3 15 0t15 0l8 13q2 6 -4 6H72q-6 0 -4 -6Z" fill="var(--fig-sea)" stroke="var(--fig-ink)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M86 91c0 -7 -14 -10 -14 -21c0 -9 8 -14 18 -14c12 0 20 6 20 15c0 11 -14 14 -14 20Z" fill="var(--fig-cool)" stroke="var(--fig-ink)" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M81 91h20 M81 94h20 M99 93l7 -3" fill="none" stroke="var(--ic)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="48" y="142" width="86" height="5" rx="2" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.2"/>
+  <path d="M58 149h66l8 11v4h-82v-4Z" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="79" y="153" width="24" height="6" rx="1" fill="var(--fig-cool)" stroke="var(--fig-soft)" stroke-width="1"/>
+  <circle cx="117" cy="156" r="2" fill="var(--fig-paper)" stroke="var(--fig-soft)" stroke-width="1"/>
+  <path d="M237 101h9v35q0 5 5 5h36q5 0 5 -5v-35h3" fill="none" stroke="var(--fig-ink)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M246 118q9 -3 22 0t24 0v18q0 5 -5 5h-36q-5 0 -5 -5Z" fill="var(--fig-sea)" stroke="var(--fig-ink)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="263" cy="129" r="2" fill="var(--fig-paper)" stroke="var(--fig-soft)" stroke-width="1.1"/>
+  <circle cx="271" cy="115" r="2.5" fill="var(--fig-paper)" stroke="var(--fig-soft)" stroke-width="1.1"/>
+  <circle cx="266" cy="107" r="3" fill="var(--fig-paper)" stroke="var(--fig-soft)" stroke-width="1.1"/>
+  <circle cx="278" cy="99" r="3" fill="var(--fig-paper)" stroke="var(--fig-soft)" stroke-width="1.1"/>
+  <circle cx="282" cy="88" r="3.5" fill="var(--fig-paper)" stroke="var(--fig-soft)" stroke-width="1.1"/>
+  <path d="M265 100q-4 -6 -3 -13m-3 4 3 -4 3 4 M285 82l8 -8m-5 0h5v5" fill="none" stroke="var(--fig-ink)" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="266" y="68" text-anchor="middle" font-size="11" fill="var(--fig-soft)">二氧化碳逸散</text>
+  <rect x="226" y="142" width="86" height="5" rx="2" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.2"/>
+  <path d="M236 149h66l8 11v4h-82v-4Z" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="257" y="153" width="24" height="6" rx="1" fill="var(--fig-cool)" stroke="var(--fig-soft)" stroke-width="1"/>
+  <circle cx="295" cy="156" r="2" fill="var(--fig-paper)" stroke="var(--fig-soft)" stroke-width="1"/>
+  <text x="91" y="184" text-anchor="middle" font-size="12" fill="var(--fig-ink)">反應前 150.0 g</text>
+  <text x="91" y="202" text-anchor="middle" font-size="13" font-weight="600" fill="var(--fig-ink)">反應後 150.0 g</text>
+  <text x="269" y="184" text-anchor="middle" font-size="12" fill="var(--fig-ink)">反應前 150.0 g</text>
+  <text x="269" y="202" text-anchor="middle" font-size="13" font-weight="600" fill="var(--fig-ink)">反應後 149.2 g</text>
+  <rect x="8" y="220" width="344" height="28" rx="5" fill="var(--fig-cool)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <text x="180" y="238" text-anchor="middle" font-size="12" fill="var(--fig-ink)">兩者都遵守質量守恆：反應前後原子的種類和數目不變</text>
+</svg>

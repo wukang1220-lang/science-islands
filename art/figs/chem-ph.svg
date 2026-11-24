@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 268" role="img">
+  <title>刻度以 pH 七為中性，圖中標出常見溶液的位置及指示劑的顏色變化。</title>
+  <text x="180" y="21" font-size="14" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">pH 值</text>
+  <defs><marker id="chem-ph-arrow" markerWidth="7" markerHeight="7" refX="6.5" refY="3.5" orient="auto" markerUnits="userSpaceOnUse"><path d="M0 0L7 3.5L0 7Z" fill="var(--fig-ink)"/></marker></defs>
+  <rect x="30" y="31" width="44" height="21" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <text x="52" y="46" font-size="12" text-anchor="middle" fill="var(--fig-ink)">胃液</text>
+  <rect x="79" y="59" width="54" height="21" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <text x="106" y="74" font-size="12" text-anchor="middle" fill="var(--fig-ink)">檸檬汁</text>
+  <rect x="151" y="59" width="48" height="21" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <text x="175" y="74" font-size="12" text-anchor="middle" fill="var(--fig-ink)">純水</text>
+  <rect x="196" y="31" width="67" height="21" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <text x="229.5" y="46" font-size="12" text-anchor="middle" fill="var(--fig-ink)">小蘇打水</text>
+  <rect x="243" y="59" width="56" height="21" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <text x="271" y="74" font-size="12" text-anchor="middle" fill="var(--fig-ink)">肥皂水</text>
+  <path d="M52 53V69L65 87V92M99 81L76.5 89V92M175 81L180 90V92M226 53L214.5 73V92M271 81L249 89V92" fill="none" stroke="var(--fig-soft)" stroke-width="1.1" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="19" y="93" width="161" height="11" rx="0" fill="var(--fig-sand)" stroke="var(--fig-line)" stroke-width="1"/>
+  <rect x="180" y="93" width="161" height="11" rx="0" fill="var(--fig-cool)" stroke="var(--fig-line)" stroke-width="1"/>
+  <path d="M19 93V109" fill="none" stroke="var(--fig-ink)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="19" y="124" font-size="12" text-anchor="middle" fill="var(--fig-ink)">0</text>
+  <path d="M42 93V109" fill="none" stroke="var(--fig-ink)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="42" y="124" font-size="12" text-anchor="middle" fill="var(--fig-ink)">1</text>
+  <path d="M65 93V109" fill="none" stroke="var(--fig-ink)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="65" y="124" font-size="12" text-anchor="middle" fill="var(--fig-ink)">2</text>
+  <path d="M88 93V109" fill="none" stroke="var(--fig-ink)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="88" y="124" font-size="12" text-anchor="middle" fill="var(--fig-ink)">3</text>
+  <path d="M111 93V109" fill="none" stroke="var(--fig-ink)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="111" y="124" font-size="12" text-anchor="middle" fill="var(--fig-ink)">4</text>
+  <path d="M134 93V109" fill="none" stroke="var(--fig-ink)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="134" y="124" font-size="12" text-anchor="middle" fill="var(--fig-ink)">5</text>
+  <path d="M157 93V109" fill="none" stroke="var(--fig-ink)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="157" y="124" font-size="12" text-anchor="middle" fill="var(--fig-ink)">6</text>
+  <path d="M180 93V109" fill="none" stroke="var(--ic)" stroke-width="2.3" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="180" y="124" font-size="12" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">7</text>
+  <path d="M203 93V109" fill="none" stroke="var(--fig-ink)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="203" y="124" font-size="12" text-anchor="middle" fill="var(--fig-ink)">8</text>
+  <path d="M226 93V109" fill="none" stroke="var(--fig-ink)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="226" y="124" font-size="12" text-anchor="middle" fill="var(--fig-ink)">9</text>
+  <path d="M249 93V109" fill="none" stroke="var(--fig-ink)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="249" y="124" font-size="12" text-anchor="middle" fill="var(--fig-ink)">10</text>
+  <path d="M272 93V109" fill="none" stroke="var(--fig-ink)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="272" y="124" font-size="12" text-anchor="middle" fill="var(--fig-ink)">11</text>
+  <path d="M295 93V109" fill="none" stroke="var(--fig-ink)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="295" y="124" font-size="12" text-anchor="middle" fill="var(--fig-ink)">12</text>
+  <path d="M318 93V109" fill="none" stroke="var(--fig-ink)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="318" y="124" font-size="12" text-anchor="middle" fill="var(--fig-ink)">13</text>
+  <path d="M341 93V109" fill="none" stroke="var(--fig-ink)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="341" y="124" font-size="12" text-anchor="middle" fill="var(--fig-ink)">14</text>
+  <text x="87" y="146" font-size="13" text-anchor="middle" fill="var(--fig-ink)">酸性（pH＜7）</text>
+  <text x="180" y="146" font-size="13" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">中性</text>
+  <text x="273" y="146" font-size="13" text-anchor="middle" fill="var(--fig-ink)">鹼性（pH＞7）</text>
+  <path d="M152 158H25" fill="none" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#chem-ph-arrow)"/>
+  <path d="M208 158H335" fill="none" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#chem-ph-arrow)"/>
+  <text x="87" y="176" font-size="13" text-anchor="middle" fill="var(--fig-ink)">酸性愈強</text>
+  <text x="273" y="176" font-size="13" text-anchor="middle" fill="var(--fig-ink)">鹼性愈強</text>
+  <rect x="8" y="186" width="344" height="50" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <text x="180" y="205" font-size="13" text-anchor="middle" fill="var(--fig-ink)">廣用試紙：紅 → 橙 → 黃 → 綠 → 藍 → 靛 → 紫</text>
+  <text x="180" y="226" font-size="13" text-anchor="middle" fill="var(--fig-ink)">酚酞：酸性、中性無色，鹼性紅色</text>
+  <text x="13" y="257" font-size="13" text-anchor="start" fill="var(--fig-ink)">pH 相差 1，H⁺ 濃度相差 10 倍</text>
+  <text x="350" y="257" font-size="11" text-anchor="end" fill="var(--fig-soft)">示意圖</text>
+</svg>

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 220" role="img">
+  <title>等時間觀察自由落體，球的位置間距逐次增大，真空中的羽毛與硬幣同時落下。</title>
+  <defs><marker id="phy-freefall-ink" markerWidth="7" markerHeight="7" refX="6.5" refY="3.5" orient="auto" markerUnits="userSpaceOnUse"><path d="M1 1L6.5 3.5L1 6" fill="none" stroke="var(--fig-ink)" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/></marker><marker id="phy-freefall-ic" markerWidth="7" markerHeight="7" refX="6.5" refY="3.5" orient="auto" markerUnits="userSpaceOnUse"><path d="M1 1L6.5 3.5L1 6" fill="none" stroke="var(--ic)" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>
+  <text x="180" y="20" font-size="14" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">自由落體</text>
+  <path d="M92 38V202M241 38V202" fill="none" stroke="var(--fig-line)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M48 46V183" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="2 4"/>
+  <circle cx="48" cy="46" r="3.7" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.2"/>
+  <path d="M31 46h8" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="48" cy="54.5" r="3.7" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.2"/>
+  <path d="M31 54.5h8" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="48" cy="80" r="3.7" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.2"/>
+  <path d="M31 80h8" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="48" cy="122.5" r="3.7" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.2"/>
+  <path d="M31 122.5h8" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="48" cy="182" r="3.7" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.2"/>
+  <path d="M31 182h8" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="48" y="207" font-size="12" text-anchor="middle" fill="var(--fig-ink)">每隔相同時間</text>
+  <path d="M110 166v-106" fill="none" stroke="var(--fig-ink)" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#phy-freefall-ink)"/>
+  <path d="M110 166h114" fill="none" stroke="var(--fig-ink)" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#phy-freefall-ink)"/>
+  <text x="110" y="52" font-size="12" text-anchor="middle" fill="var(--fig-ink)">速度</text>
+  <text x="218" y="183" font-size="12" text-anchor="middle" fill="var(--fig-ink)">時間</text>
+  <path d="M110 166L215 66" fill="none" stroke="var(--ic)" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="166" y="207" font-size="13" text-anchor="middle" fill="var(--fig-ink)">斜率＝g≈9.8 m/s²</text>
+  <rect x="271" y="54" width="56" height="130" rx="21" fill="var(--fig-cool)" stroke="var(--fig-ink)" stroke-width="1.5"/>
+  <path d="M276 70Q279 60 288 59" fill="none" stroke="var(--fig-paper)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="299" y="43" font-size="13" text-anchor="middle" fill="var(--fig-ink)">真空</text>
+  <path d="M283 111Q274 103 283 93Q287 89 289 85Q294 101 283 111Z" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M280 116L288 93M283 106l4 -2" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="311" cy="103" rx="7" ry="3.5" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.5"/>
+  <path d="M304 103v3c1 5 13 5 14 0v-3" fill="none" stroke="var(--fig-ink)" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M285 128v27" fill="none" stroke="var(--ic)" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#phy-freefall-ic)"/>
+  <path d="M311 128v27" fill="none" stroke="var(--ic)" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#phy-freefall-ic)"/>
+  <text x="299" y="207" font-size="13" text-anchor="middle" fill="var(--fig-ink)">同時落下</text>
+</svg>

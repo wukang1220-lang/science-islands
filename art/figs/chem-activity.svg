@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 204" role="img">
+  <title>由左至右排列金屬的活性，並比較金屬與非金屬氧化物溶於水時的酸鹼性。</title>
+  <text x="180" y="21" font-size="14" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">金屬的活性</text>
+  <defs><marker id="chem-activity-arrow" markerWidth="7" markerHeight="7" refX="6.5" refY="3.5" orient="auto" markerUnits="userSpaceOnUse"><path d="M0 0L7 3.5L0 7Z" fill="var(--fig-ink)"/></marker></defs>
+  <rect x="8" y="33" width="344" height="72" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <text x="19" y="53" font-size="13" text-anchor="start" fill="var(--fig-ink)" font-weight="600">活性大</text>
+  <text x="341" y="53" font-size="13" text-anchor="end" fill="var(--fig-ink)" font-weight="600">活性小</text>
+  <path d="M20 65H339" fill="none" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#chem-activity-arrow)"/>
+  <text x="22" y="92" font-size="14" text-anchor="middle" fill="var(--fig-ink)">鉀</text>
+  <text x="43" y="92" font-size="14" text-anchor="middle" fill="var(--fig-ink)">鈉</text>
+  <text x="64" y="92" font-size="14" text-anchor="middle" fill="var(--fig-ink)">鈣</text>
+  <text x="85" y="92" font-size="14" text-anchor="middle" fill="var(--fig-ink)">鎂</text>
+  <text x="106" y="92" font-size="14" text-anchor="middle" fill="var(--fig-ink)">鋁</text>
+  <text x="127" y="92" font-size="14" text-anchor="middle" fill="var(--fig-soft)">碳</text>
+  <text x="148" y="92" font-size="14" text-anchor="middle" fill="var(--fig-ink)">鋅</text>
+  <text x="169" y="92" font-size="14" text-anchor="middle" fill="var(--fig-ink)">鐵</text>
+  <text x="190" y="92" font-size="14" text-anchor="middle" fill="var(--fig-ink)">錫</text>
+  <text x="211" y="92" font-size="14" text-anchor="middle" fill="var(--fig-ink)">鉛</text>
+  <text x="232" y="92" font-size="14" text-anchor="middle" fill="var(--fig-soft)">氫</text>
+  <text x="253" y="92" font-size="14" text-anchor="middle" fill="var(--fig-ink)">銅</text>
+  <text x="274" y="92" font-size="14" text-anchor="middle" fill="var(--fig-ink)">汞</text>
+  <text x="295" y="92" font-size="14" text-anchor="middle" fill="var(--fig-ink)">銀</text>
+  <text x="316" y="92" font-size="14" text-anchor="middle" fill="var(--fig-ink)">鉑</text>
+  <text x="337" y="92" font-size="14" text-anchor="middle" fill="var(--fig-ink)">金</text>
+  <rect x="8" y="117" width="344" height="76" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <path d="M180 117V193M8 155H352" fill="none" stroke="var(--fig-line)" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="94" y="141" font-size="13" text-anchor="middle" fill="var(--fig-ink)">金屬氧化物</text>
+  <text x="266" y="141" font-size="13" text-anchor="middle" fill="var(--fig-ink)">溶於水呈鹼性</text>
+  <text x="94" y="179" font-size="13" text-anchor="middle" fill="var(--fig-ink)">非金屬氧化物</text>
+  <text x="266" y="179" font-size="13" text-anchor="middle" fill="var(--fig-ink)">溶於水呈酸性</text>
+</svg>

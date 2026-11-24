@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 253" role="img">
+  <title>上方列出誘發突變的因子，下表整理四種遺傳疾病的原因。</title>
+  <text x="180" y="20" font-size="14" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">突變與遺傳疾病</text>
+  <rect x="8" y="32" width="344" height="58" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.3"/>
+  <text x="21" y="65" font-size="13" text-anchor="start" fill="var(--fig-ink)" font-weight="600">誘發突變的因子</text>
+  <path d="M124 40V82" fill="none" stroke="var(--fig-line)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="136" y="56" font-size="13" text-anchor="start" fill="var(--fig-ink)">紫外線、X 射線等輻射</text>
+  <text x="136" y="77" font-size="13" text-anchor="start" fill="var(--fig-ink)">某些化學物質（如香菸中的物質）</text>
+  <rect x="8" y="102" width="344" height="140" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.3"/>
+  <path d="M13 102H347Q352 102 352 107V130H8V107Q8 102 13 102Z" fill="var(--fig-cool)" stroke="var(--fig-line)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M107 102v140" fill="none" stroke="var(--fig-line)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="57.5" y="120" font-size="13" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">疾病</text>
+  <text x="229.5" y="120" font-size="13" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">原因</text>
+  <path d="M8 130h344" fill="none" stroke="var(--fig-line)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="57.5" y="148" font-size="13" text-anchor="middle" fill="var(--fig-ink)">白化症</text>
+  <text x="115" y="148" font-size="13" text-anchor="start" fill="var(--fig-ink)">隱性遺傳，無法製造黑色素</text>
+  <path d="M8 158h344" fill="none" stroke="var(--fig-line)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="57.5" y="176" font-size="13" text-anchor="middle" fill="var(--fig-ink)">紅綠色盲</text>
+  <text x="115" y="176" font-size="13" text-anchor="start" fill="var(--fig-ink)">基因在 X 染色體上，男性較多</text>
+  <path d="M8 186h344" fill="none" stroke="var(--fig-line)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="57.5" y="204" font-size="13" text-anchor="middle" fill="var(--fig-ink)">唐氏症</text>
+  <text x="115" y="204" font-size="13" text-anchor="start" fill="var(--fig-ink)">第 21 對染色體多了一條</text>
+  <path d="M8 214h344" fill="none" stroke="var(--fig-line)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="57.5" y="232" font-size="13" text-anchor="middle" fill="var(--fig-ink)">海洋性貧血</text>
+  <text x="115" y="232" font-size="13" text-anchor="start" fill="var(--fig-ink)">隱性遺傳，臺灣常見</text>
+</svg>

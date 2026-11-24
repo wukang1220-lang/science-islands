@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 258" role="img">
+  <title>由正面看心臟，右心位於圖的左側，四個心腔各與不同血管相連，左心室壁最厚。</title>
+  <defs><marker id="bio-heart-ink" markerWidth="7" markerHeight="7" refX="6.5" refY="3.5" orient="auto" markerUnits="userSpaceOnUse"><path d="M0 0L7 3.5L0 7Z" fill="var(--fig-ink)"/></marker></defs>
+  <text x="180" y="20" font-size="14" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">心臟的構造</text>
+  <path d="M102 100Q101 68 129 61Q155 55 177 77Q210 50 238 74Q263 96 246 139Q233 177 203 201Q161 189 130 163Q108 143 102 100Z" fill="var(--fig-warm)" stroke="var(--fig-ink)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M111 112Q103 74 131 70Q155 66 173 84L175 110Q153 117 111 112Z" fill="var(--fig-cool)" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M182 83Q209 60 231 77Q246 87 244 111Q213 117 182 108Z" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M115 120Q140 124 172 116L190 180Q139 161 115 120Z" fill="var(--fig-cool)" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M184 117Q215 124 242 118Q235 155 202 189Q187 169 184 117Z" fill="var(--fig-paper)" stroke="var(--ic)" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M119 117L134 121L140 113 M141 114L147 120L157 116 M190 113L201 119L206 113 M208 113L215 119L225 116" fill="none" stroke="var(--fig-ink)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="142" y="98" font-size="13" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">右心房</text>
+  <text x="212" y="98" font-size="13" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">左心房</text>
+  <text x="151" y="147" font-size="12" text-anchor="middle" fill="var(--fig-ink)">右心室</text>
+  <text x="210" y="147" font-size="12" text-anchor="middle" fill="var(--fig-ink)">左心室</text>
+  <path d="M71 74H89Q100 74 109 84" fill="none" stroke="var(--fig-ink)" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M71 74H89Q100 74 109 84" fill="none" stroke="var(--fig-cool)" stroke-width="8.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M75 74H90Q98 74 105 81" fill="none" stroke="var(--fig-ink)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#bio-heart-ink)"/>
+  <path d="M125 133Q107 125 98 115Q87 106 73 106H61" fill="none" stroke="var(--fig-ink)" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M125 133Q107 125 98 115Q87 106 73 106H61" fill="none" stroke="var(--fig-cool)" stroke-width="8.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M117 130Q106 125 98 115Q87 106 74 106H64" fill="none" stroke="var(--fig-ink)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#bio-heart-ink)"/>
+  <path d="M286 74H266Q255 74 245 84" fill="none" stroke="var(--fig-ink)" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M286 74H266Q255 74 245 84" fill="none" stroke="var(--fig-warm)" stroke-width="8.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M282 74H266Q256 74 249 81" fill="none" stroke="var(--fig-ink)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#bio-heart-ink)"/>
+  <path d="M235 135Q251 126 258 111Q262 98 271 99H289" fill="none" stroke="var(--fig-ink)" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M235 135Q251 126 258 111Q262 98 271 99H289" fill="none" stroke="var(--fig-warm)" stroke-width="8.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M241 132Q252 125 258 111Q262 98 272 99H287" fill="none" stroke="var(--fig-ink)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#bio-heart-ink)"/>
+  <text x="62" y="78" font-size="13" text-anchor="end" fill="var(--fig-ink)">大靜脈</text>
+  <text x="53" y="111" font-size="13" text-anchor="end" fill="var(--fig-ink)">肺動脈</text>
+  <text x="295" y="78" font-size="13" text-anchor="start" fill="var(--fig-ink)">肺靜脈</text>
+  <text x="298" y="104" font-size="13" text-anchor="start" fill="var(--fig-ink)">主動脈</text>
+  <path d="M133 120L99 147H85 M219 175L248 187H259" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="80" y="152" font-size="12" text-anchor="end" fill="var(--fig-ink)">瓣膜</text>
+  <text x="263" y="191" font-size="12" text-anchor="start" fill="var(--fig-ink)">左心室壁最厚</text>
+  <rect x="8" y="210" width="344" height="26" rx="5" fill="var(--fig-cool)" stroke="var(--fig-line)" stroke-width="1"/>
+  <text x="180" y="227" font-size="12" text-anchor="middle" fill="var(--fig-ink)">圖中的左右是心臟本身的左右</text>
+  <text x="350" y="252" font-size="11" text-anchor="end" fill="var(--fig-soft)">示意圖</text>
+</svg>

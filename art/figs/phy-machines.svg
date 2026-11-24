@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 270" role="img">
+  <title>定滑輪可改變施力方向，動滑輪、斜面與輪軸可用較長的施力距離換取較小的力。</title>
+  <defs><marker id="phy-machines-ic" markerWidth="7" markerHeight="7" refX="6.5" refY="3.5" orient="auto" markerUnits="userSpaceOnUse"><path d="M1 1L6.5 3.5L1 6" fill="none" stroke="var(--ic)" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>
+  <text x="180" y="20" font-size="14" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">簡單機械</text>
+  <g transform="translate(7 30)">
+  <rect x="0" y="0" width="170" height="97" rx="4" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1"/>
+  <text x="10" y="18" font-size="13" text-anchor="start" fill="var(--fig-ink)" font-weight="600">定滑輪</text>
+  <path d="M70 13h31m-16 0v13" fill="none" stroke="var(--fig-ink)" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="85" cy="38" r="12" fill="var(--fig-cool)" stroke="var(--fig-ink)" stroke-width="1.6"/>
+  <path d="M85 23v15" fill="none" stroke="var(--fig-soft)" stroke-width="1.5"/>
+  <circle cx="85" cy="38" r="2" fill="var(--fig-ink)" stroke="var(--fig-ink)" stroke-width="1"/>
+  <path d="M72 60V38a13 13 0 1 1 26 0v26" fill="none" stroke="var(--fig-ink)" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="61" y="60" width="22" height="13" rx="2" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.2"/>
+  <path d="M107 45v19" fill="none" stroke="var(--ic)" stroke-width="1.7" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#phy-machines-ic)"/>
+  <text x="85" y="89" font-size="12" text-anchor="middle" fill="var(--fig-ink)">改變施力方向，不省力</text>
+  </g>
+  <g transform="translate(183 30)">
+  <rect x="0" y="0" width="170" height="97" rx="4" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1"/>
+  <text x="10" y="18" font-size="13" text-anchor="start" fill="var(--fig-ink)" font-weight="600">動滑輪</text>
+  <path d="M58 16h26M69 16v29a13 13 0 0 0 26 0V16" fill="none" stroke="var(--fig-ink)" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="82" cy="45" r="12" fill="var(--fig-cool)" stroke="var(--fig-ink)" stroke-width="1.5"/>
+  <circle cx="82" cy="45" r="2" fill="var(--fig-ink)" stroke="var(--fig-ink)" stroke-width="1"/>
+  <path d="M82 45v16" fill="none" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="71" y="61" width="22" height="13" rx="2" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.2"/>
+  <path d="M104 39V17" fill="none" stroke="var(--ic)" stroke-width="1.7" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#phy-machines-ic)"/>
+  <text x="85" y="89" font-size="12" text-anchor="middle" fill="var(--fig-ink)">省一半的力，繩子拉 2 倍長</text>
+  </g>
+  <g transform="translate(7 132)">
+  <rect x="0" y="0" width="170" height="97" rx="4" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1"/>
+  <text x="10" y="18" font-size="13" text-anchor="start" fill="var(--fig-ink)" font-weight="600">斜面</text>
+  <path d="M23 70l109 -36v36Z" fill="var(--fig-cool)" stroke="var(--fig-ink)" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M74 53l-5 -15 23 -7 5 15Z" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M98 35l25 -8" fill="none" stroke="var(--ic)" stroke-width="1.7" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#phy-machines-ic)"/>
+  <text x="85" y="89" font-size="12" text-anchor="middle" fill="var(--fig-ink)">愈平緩愈省力</text>
+  </g>
+  <g transform="translate(183 132)">
+  <rect x="0" y="0" width="170" height="97" rx="4" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1"/>
+  <text x="10" y="18" font-size="13" text-anchor="start" fill="var(--fig-ink)" font-weight="600">輪軸</text>
+  <circle cx="83" cy="44" r="25" fill="var(--fig-cool)" stroke="var(--fig-ink)" stroke-width="1.6"/>
+  <path d="M60 44h46" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M83 21v46" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M66 27l34 34" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M66 61l34 -34" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="83" cy="44" r="9" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.5"/>
+  <circle cx="83" cy="44" r="2" fill="var(--fig-ink)" stroke="var(--fig-ink)" stroke-width="1"/>
+  <path d="M74 44v21M108 44v24" fill="none" stroke="var(--fig-ink)" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="66" y="65" width="16" height="9" rx="1" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.2"/>
+  <path d="M117 46v19" fill="none" stroke="var(--ic)" stroke-width="1.7" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#phy-machines-ic)"/>
+  <text x="85" y="89" font-size="12" text-anchor="middle" fill="var(--fig-ink)">施力在輪上省力</text>
+  </g>
+  <rect x="8" y="236" width="344" height="28" rx="5" fill="var(--fig-cool)" stroke="var(--fig-line)" stroke-width="1"/>
+  <text x="180" y="255" font-size="12" text-anchor="middle" fill="var(--fig-ink)">省力必費時，不能省功</text>
+</svg>

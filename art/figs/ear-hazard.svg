@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 264" role="img">
+  <title>鬆散土石在充足水量與足夠坡度下沿坡流入谷地，植生、擋土牆、排水設施及滯洪池有助水土保持。</title>
+  <text x="180" y="20" text-anchor="middle" font-size="14" fill="var(--fig-ink)" font-weight="600">土石流與水土保持</text>
+  <defs><marker id="ear-hazard-flow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto" markerUnits="userSpaceOnUse"><path d="M1 1L7 4L1 7" fill="none" stroke="var(--ic)" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>
+  <rect x="8" y="32" width="121" height="110" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1"/>
+  <text x="68" y="54" text-anchor="middle" font-size="14" fill="var(--fig-ink)" font-weight="600">形成三條件</text>
+  <path d="M19 64h98" fill="none" stroke="var(--fig-line)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="25" cy="80" r="2" fill="var(--fig-soft)" stroke="none" stroke-width="1.5"/>
+  <text x="37" y="84" text-anchor="start" font-size="13" fill="var(--fig-ink)">鬆散的土石</text>
+  <circle cx="25" cy="103" r="2" fill="var(--fig-soft)" stroke="none" stroke-width="1.5"/>
+  <text x="37" y="107" text-anchor="start" font-size="13" fill="var(--fig-ink)">充足的水</text>
+  <circle cx="25" cy="126" r="2" fill="var(--fig-soft)" stroke="none" stroke-width="1.5"/>
+  <text x="37" y="130" text-anchor="start" font-size="13" fill="var(--fig-ink)">足夠的坡度</text>
+  <path d="M9 154Q35 150 53 160Q77 175 98 186T159 215Q174 218 189 210L208 189L241 163L266 139L297 118L351 99V251H9Z" fill="var(--fig-sand)" stroke="var(--fig-soft)" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M11 155Q37 153 55 165T98 192Q132 214 158 219Q131 218 94 202Q74 193 51 174T11 160Z" fill="var(--fig-sea)" stroke="var(--fig-soft)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M19 158q20-2 38 12m7 7 17 11" fill="none" stroke="var(--ic)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M85 190q19 15 43 23" fill="none" stroke="var(--ic)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ear-hazard-flow)"/>
+  <path d="M38 159l5-6 7 4-1 5-8 1ZM62 174l4-5 10 4-3 6-7-1ZM86 189l7-4 4 5-2 4-7-1ZM121 205l5-2 7 4-3 3-7-2Z" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round"/>
+  <g transform="translate(309 111)">
+    <path d="M0 0v12m0-5-7 7m7-6 8 8m-8-5-2 7" fill="none" stroke="var(--fig-ink)" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M-10 -5Q-15 -11 -8 -16Q-7 -26 0 -25Q7 -25 8 -17Q16 -12 10 -5Q6 -1 1 -4Q-4 -1 -10 -5Z" fill="var(--fig-land)" stroke="var(--fig-ink)" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M0 4v-13m0 5-5-5" fill="none" stroke="var(--fig-ink)" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g transform="translate(335 100)">
+    <path d="M0 0v12m0-5-7 7m7-6 8 8m-8-5-2 7" fill="none" stroke="var(--fig-ink)" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M-10 -5Q-15 -11 -8 -16Q-7 -26 0 -25Q7 -25 8 -17Q16 -12 10 -5Q6 -1 1 -4Q-4 -1 -10 -5Z" fill="var(--fig-land)" stroke="var(--fig-ink)" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M0 4v-13m0 5-5-5" fill="none" stroke="var(--fig-ink)" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="156" y="53" text-anchor="start" font-size="13" fill="var(--fig-ink)">植生：樹根抓住土壤</text>
+  <path d="M273 58h22l12 20" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M247 161v-18h7l5 23h-12Z" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M248 154h8m-8 5h9" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="188" y="96" text-anchor="start" font-size="13" fill="var(--fig-ink)">擋土牆</text>
+  <path d="M216 101l32 37" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M229 171l4 3 35-26 2-6-39 28Z" fill="var(--fig-sea)" stroke="var(--fig-ink)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M231 172l-23 20-7 2" fill="none" stroke="var(--ic)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="278" y="177" text-anchor="start" font-size="13" fill="var(--fig-ink)">排水設施</text>
+  <path d="M275 172l-14-13" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M145 215Q158 238 181 232Q194 227 201 206Q177 213 145 215Z" fill="var(--fig-sea)" stroke="var(--fig-soft)" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M154 220q10 2 18 0t16-1" fill="none" stroke="var(--fig-deep)" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="204" y="241" text-anchor="start" font-size="13" fill="var(--fig-ink)">滯洪池：暫存雨水</text>
+  <path d="M199 235l-12-9" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 208" role="img">
+  <title>石墨是層狀結構，鑽石為立體晶格，巴克球由碳原子排成球狀。</title>
+  <text x="180" y="20" text-anchor="middle" font-size="14" font-weight="600" fill="var(--fig-ink)">碳的同素異形體</text>
+  <rect x="6" y="32" width="112" height="154" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <text x="62" y="53" text-anchor="middle" font-size="13" font-weight="600" fill="var(--fig-ink)">石墨</text>
+  <path d="M19 137h86" fill="none" stroke="var(--fig-line)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="124" y="32" width="112" height="154" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <text x="180" y="53" text-anchor="middle" font-size="13" font-weight="600" fill="var(--fig-ink)">鑽石</text>
+  <path d="M137 137h86" fill="none" stroke="var(--fig-line)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="242" y="32" width="112" height="154" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <text x="298" y="53" text-anchor="middle" font-size="13" font-weight="600" fill="var(--fig-ink)">巴克球 C₆₀</text>
+  <path d="M255 137h86" fill="none" stroke="var(--fig-line)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M55 115L48.5 118.3L35.5 118.3L29 115L35.5 111.7L48.5 111.7Z" fill="var(--fig-paper)" stroke="var(--fig-soft)" stroke-width="1.1"/>
+  <path d="M55 121.6L48.5 124.9L35.5 124.9L29 121.6L35.5 118.3L48.5 118.3Z" fill="var(--fig-paper)" stroke="var(--fig-soft)" stroke-width="1.1"/>
+  <path d="M74.5 118.3L68 121.6L55 121.6L48.5 118.3L55 115L68 115Z" fill="var(--fig-paper)" stroke="var(--fig-soft)" stroke-width="1.1"/>
+  <path d="M74.5 124.9L68 128.2L55 128.2L48.5 124.9L55 121.6L68 121.6Z" fill="var(--fig-paper)" stroke="var(--fig-soft)" stroke-width="1.1"/>
+  <path d="M94 115L87.5 118.3L74.5 118.3L68 115L74.5 111.7L87.5 111.7Z" fill="var(--fig-paper)" stroke="var(--fig-soft)" stroke-width="1.1"/>
+  <path d="M94 121.6L87.5 124.9L74.5 124.9L68 121.6L74.5 118.3L87.5 118.3Z" fill="var(--fig-paper)" stroke="var(--fig-soft)" stroke-width="1.1"/>
+  <path d="M55 95L48.5 98.3L35.5 98.3L29 95L35.5 91.7L48.5 91.7Z" fill="var(--fig-paper)" stroke="var(--fig-soft)" stroke-width="1.1"/>
+  <path d="M55 101.6L48.5 104.9L35.5 104.9L29 101.6L35.5 98.3L48.5 98.3Z" fill="var(--fig-paper)" stroke="var(--fig-soft)" stroke-width="1.1"/>
+  <path d="M74.5 98.3L68 101.6L55 101.6L48.5 98.3L55 95L68 95Z" fill="var(--fig-paper)" stroke="var(--fig-soft)" stroke-width="1.1"/>
+  <path d="M74.5 104.9L68 108.2L55 108.2L48.5 104.9L55 101.6L68 101.6Z" fill="var(--fig-paper)" stroke="var(--fig-soft)" stroke-width="1.1"/>
+  <path d="M94 95L87.5 98.3L74.5 98.3L68 95L74.5 91.7L87.5 91.7Z" fill="var(--fig-paper)" stroke="var(--fig-soft)" stroke-width="1.1"/>
+  <path d="M94 101.6L87.5 104.9L74.5 104.9L68 101.6L74.5 98.3L87.5 98.3Z" fill="var(--fig-paper)" stroke="var(--fig-soft)" stroke-width="1.1"/>
+  <path d="M55 75L48.5 78.3L35.5 78.3L29 75L35.5 71.7L48.5 71.7Z" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1.1"/>
+  <path d="M55 81.6L48.5 84.9L35.5 84.9L29 81.6L35.5 78.3L48.5 78.3Z" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1.1"/>
+  <path d="M74.5 78.3L68 81.6L55 81.6L48.5 78.3L55 75L68 75Z" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1.1"/>
+  <path d="M74.5 84.9L68 88.2L55 88.2L48.5 84.9L55 81.6L68 81.6Z" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1.1"/>
+  <path d="M94 75L87.5 78.3L74.5 78.3L68 75L74.5 71.7L87.5 71.7Z" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1.1"/>
+  <path d="M94 81.6L87.5 84.9L74.5 84.9L68 81.6L74.5 78.3L87.5 78.3Z" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1.1"/>
+  <path d="M199.7 105L189.9 100.9 M177.3 86.3L189.9 100.9 M177.3 86.3L167.4 82.1 M154.8 67.5L167.4 82.1 M189.9 100.9L202.5 95.5 M189.9 100.9L180 116.8 M167.4 82.1L180 76.7 M167.4 82.1L157.5 98 M202.5 95.5L192.6 91.3 M180 116.8L170.1 112.6 M180 76.7L192.6 91.3 M157.5 98L170.1 112.6 M192.6 91.3L205.2 85.9 M192.6 91.3L182.7 107.2 M170.1 112.6L182.7 107.2 M170.1 112.6L160.3 128.5" fill="none" stroke="var(--fig-ink)" stroke-width="1.5"/>
+  <circle cx="199.7" cy="105" r="2.8" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1.2"/>
+  <circle cx="189.9" cy="100.9" r="2.8" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.2"/>
+  <circle cx="177.3" cy="86.3" r="2.8" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1.2"/>
+  <circle cx="167.4" cy="82.1" r="2.8" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.2"/>
+  <circle cx="154.8" cy="67.5" r="2.8" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1.2"/>
+  <circle cx="202.5" cy="95.5" r="2.8" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1.2"/>
+  <circle cx="180" cy="116.8" r="2.8" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1.2"/>
+  <circle cx="180" cy="76.7" r="2.8" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1.2"/>
+  <circle cx="157.5" cy="98" r="2.8" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1.2"/>
+  <circle cx="192.6" cy="91.3" r="2.8" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.2"/>
+  <circle cx="170.1" cy="112.6" r="2.8" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.2"/>
+  <circle cx="205.2" cy="85.9" r="2.8" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1.2"/>
+  <circle cx="182.7" cy="107.2" r="2.8" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1.2"/>
+  <circle cx="160.3" cy="128.5" r="2.8" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1.2"/>
+  <circle cx="298" cy="98" r="30" fill="var(--fig-cool)" stroke="var(--fig-ink)" stroke-width="1.4"/>
+  <path d="M292.5 126.6L290.6 126.2 M280.2 120.5L275.6 117.4 M280.2 120.5L290.6 126.2 M268.8 99.5L269.9 106.9 M268.8 99.5L269.9 88.3 M299.8 124.5L290.6 126.2 M310.9 123.2L299.8 124.5 M298.7 117L299.8 124.5 M309.1 111.2L298.7 117 M316.6 115L310.9 123.2 M316.6 115L309.1 111.2 M275.6 80.1L269.9 88.3 M283.2 72.4L275.6 80.1 M280.2 83.2L275.6 80.1 M290.6 77.3L280.2 83.2 M292.5 70.6L283.2 72.4 M292.5 70.6L290.6 77.3 M312.8 123.6L310.9 123.2 M279.1 113.1L280.2 120.5 M273.3 102.6L268.8 99.5 M273.3 102.6L279.1 113.1 M288.3 111.4L298.7 117 M288.3 111.4L279.1 113.1 M279.1 94.4L280.2 83.2 M279.1 94.4L273.3 102.6 M288.3 99.8L288.3 111.4 M288.3 99.8L279.1 94.4 M309.1 99.7L309.1 111.2 M299.8 82.7L290.6 77.3 M298.7 94L288.3 99.8 M298.7 94L309.1 99.7 M298.7 94L299.8 82.7 M310.9 81.5L299.8 82.7 M316.6 91.9L309.1 99.7 M316.6 91.9L310.9 81.5 M303.5 69.4L292.5 70.6 M312.8 74.8L310.9 81.5 M312.8 74.8L303.5 69.4 M320.4 78.6L312.8 74.8 M324.2 107.3L316.6 115 M326.1 107.7L324.2 107.3 M324.2 95.7L316.6 91.9 M324.2 95.7L324.2 107.3 M326.1 89.1L320.4 78.6 M326.1 89.1L324.2 95.7" fill="none" stroke="var(--fig-ink)" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="62" y="155" text-anchor="middle" font-size="12" fill="var(--fig-ink)">層狀、能導電</text>
+  <text x="62" y="175" text-anchor="middle" font-size="12" fill="var(--fig-ink)">鉛筆芯、電極</text>
+  <text x="180" y="155" text-anchor="middle" font-size="12" fill="var(--fig-ink)">最硬</text>
+  <text x="180" y="175" text-anchor="middle" font-size="12" fill="var(--fig-ink)">切割玻璃</text>
+  <text x="298" y="165" text-anchor="middle" font-size="12" fill="var(--fig-ink)">60 個碳原子</text>
+  <text x="350" y="202" text-anchor="end" font-size="11" fill="var(--fig-soft)">示意圖</text>
+</svg>

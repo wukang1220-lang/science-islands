@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 264" role="img">
+  <title>冷鋒的冷空氣推入暖空氣下方，暖鋒的暖空氣沿緩坡上升，滯留鋒的兩種符號分列鋒線兩側。</title>
+  <defs><marker id="ear-fronts-ink" markerWidth="8" markerHeight="8" refX="6.5" refY="4" orient="auto" markerUnits="userSpaceOnUse"><path d="M1 1L6.5 4L1 7" fill="none" stroke="var(--fig-ink)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>
+  <text x="180" y="20" font-size="14" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">鋒面</text>
+  <rect x="8" y="30" width="344" height="88" rx="4" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <rect x="8" y="124" width="344" height="86" rx="4" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <path d="M17 88V38H116Q139 56 156 88Z" fill="var(--fig-cool)" stroke="var(--fig-soft)" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M116 38Q139 56 156 88" fill="none" stroke="var(--ic)" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M17 89H343" fill="none" stroke="var(--fig-ink)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="64" y="80" font-size="12" text-anchor="middle" fill="var(--fig-ink)">冷空氣</text>
+  <text x="254" y="79" font-size="12" text-anchor="middle" fill="var(--fig-ink)">暖空氣</text>
+  <path d="M92 80h36" fill="none" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ear-fronts-ink)"/>
+  <path d="M198 82Q181 75 173 54" fill="none" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ear-fronts-ink)"/>
+  <path d="M145 67C138 66 137 60 140 56C134 51 137 44 143 44C141 39 145 33 150 33C157 32 160 38 158 43C165 42 168 49 164 54C171 58 168 66 161 67Z" fill="var(--fig-cool)" stroke="var(--fig-ink)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M149 71l-3 6m10-6-4 8m12-8-4 8" fill="none" stroke="var(--fig-deep)" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="180" y="109" font-size="13" text-anchor="middle" fill="var(--fig-ink)">冷鋒：降雨強、範圍窄，過後氣溫下降</text>
+  <path d="M98 179Q183 162 269 149H343V179Z" fill="var(--fig-cool)" stroke="var(--fig-soft)" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M98 179Q183 162 269 149" fill="none" stroke="var(--ic)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M17 180H343" fill="none" stroke="var(--fig-ink)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="54" y="163" font-size="12" text-anchor="middle" fill="var(--fig-ink)">暖空氣</text>
+  <text x="291" y="174" font-size="12" text-anchor="middle" fill="var(--fig-ink)">冷空氣</text>
+  <path d="M85 166Q124 157 155 150" fill="none" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ear-fronts-ink)"/>
+  <path d="M170 141q-5-5 3-7 9-1 14-3 7-3 16 0 11-5 22-2 12-3 19 0 17-1 22 5 12 0 13 7Z" fill="var(--fig-cool)" stroke="var(--fig-ink)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M182 145l-2 5m16-5-2 5m17-5-2 5m16-5-2 5m16-5-2 4" fill="none" stroke="var(--fig-deep)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="180" y="201" font-size="13" text-anchor="middle" fill="var(--fig-ink)">暖鋒：降雨緩、範圍廣</text>
+  <path d="M17 231H100M132 231H214M242 231H344" fill="none" stroke="var(--fig-ink)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M31 231l7-10 7 10ZM65 231l7-10 7 10Z" fill="var(--fig-cool)" stroke="var(--fig-ink)" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M146 231a8 8 0 0 1 16 0ZM180 231a8 8 0 0 1 16 0Z" fill="var(--fig-warm)" stroke="var(--fig-ink)" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M249 231l6-9 6 9ZM294 231l6-9 6 9Z" fill="var(--fig-cool)" stroke="var(--fig-ink)" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M269 231a7 7 0 0 0 14 0ZM314 231a7 7 0 0 0 14 0Z" fill="var(--fig-warm)" stroke="var(--fig-ink)" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="58" y="255" font-size="12" text-anchor="middle" fill="var(--fig-ink)">冷鋒</text>
+  <text x="173" y="255" font-size="12" text-anchor="middle" fill="var(--fig-ink)">暖鋒</text>
+  <text x="294" y="255" font-size="12" text-anchor="middle" fill="var(--fig-ink)">滯留鋒（梅雨）</text>
+</svg>

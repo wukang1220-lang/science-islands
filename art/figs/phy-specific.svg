@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 223" role="img">
+  <title>以相同熱源加熱等質量的水和沙時，沙的比熱較小，溫度上升較快。</title>
+  <defs><marker id="phy-specific-ink" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto" markerUnits="userSpaceOnUse"><path d="M1 1L6 3.5L1 6" fill="none" stroke="var(--fig-ink)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>
+  <text x="180" y="20" text-anchor="middle" font-size="14" fill="var(--fig-ink)" font-weight="600">比熱：水和沙</text>
+  <text x="26" y="50" text-anchor="middle" font-size="12" fill="var(--fig-ink)">溫度</text>
+  <path d="M39 158V59" fill="none" stroke="var(--fig-ink)" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#phy-specific-ink)"/>
+  <path d="M39 158H338" fill="none" stroke="var(--fig-ink)" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#phy-specific-ink)"/>
+  <path d="M39 144L203 53" fill="none" stroke="var(--ic)" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M39 144L235 109" fill="none" stroke="var(--fig-ink)" stroke-width="2.1" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="208" y="52" text-anchor="start" font-size="12" fill="var(--fig-ink)">沙（比熱小）</text>
+  <text x="240" y="111" text-anchor="start" font-size="12" fill="var(--fig-ink)">水（比熱大）</text>
+  <text x="332" y="177" text-anchor="end" font-size="12" fill="var(--fig-ink)">加熱時間</text>
+  <text x="75" y="177" text-anchor="middle" font-size="12" fill="var(--fig-ink)">比熱小：易熱也易冷</text>
+  <text x="170" y="48" text-anchor="end" font-size="11" fill="var(--fig-soft)">相同熱源、相同質量</text>
+  <rect x="8" y="188" width="344" height="28" rx="4" fill="var(--fig-cool)" stroke="var(--fig-line)"/>
+  <text x="180" y="207" text-anchor="middle" font-size="13" fill="var(--fig-ink)">H＝M×S×ΔT</text>
+</svg>

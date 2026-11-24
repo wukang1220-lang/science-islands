@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 198" role="img">
+  <title>電流通過電熱絲時電能轉成熱能，將一百一十伏特的電器接上兩百二十伏特可能使電器燒毀。</title>
+  <text x="180" y="20" font-size="14" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">電流的熱效應</text>
+  <path d="M56 73c-10 -11 10 -14 0 -26" fill="none" stroke="var(--fig-soft)" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M83 73c-10 -11 10 -14 0 -26" fill="none" stroke="var(--fig-soft)" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M110 73c-10 -11 10 -14 0 -26" fill="none" stroke="var(--fig-soft)" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M16 118h12l7 -10M154 108l7 10h12" fill="none" stroke="var(--fig-ink)" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M35 108Q39 108 44 99c14 -28 18 15 6 10c-6 -3 -1 -10 8 -10c14 -28 18 15 6 10c-6 -3 -1 -10 8 -10c14 -28 18 15 6 10c-6 -3 -1 -10 8 -10c14 -28 18 15 6 10c-6 -3 -1 -10 8 -10c14 -28 18 15 6 10c-6 -3 -1 -10 8 -10c14 -28 18 15 6 10c-6 -3 -1 -10 8 -10c14 -28 18 15 6 10c-6 -3 -1 -10 8 -10q5 -2 12 9" fill="none" stroke="var(--fig-ink)" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M35 107Q39 107 44 98c14 -28 18 15 6 10c-6 -3 -1 -10 8 -10c14 -28 18 15 6 10c-6 -3 -1 -10 8 -10c14 -28 18 15 6 10c-6 -3 -1 -10 8 -10c14 -28 18 15 6 10c-6 -3 -1 -10 8 -10c14 -28 18 15 6 10c-6 -3 -1 -10 8 -10c14 -28 18 15 6 10c-6 -3 -1 -10 8 -10c14 -28 18 15 6 10c-6 -3 -1 -10 8 -10q5 -2 12 9v2q-7 -11 -12 -9c-9 0 -14 7 -8 10c12 5 8 -38 -6 -10c-9 0 -14 7 -8 10c12 5 8 -38 -6 -10c-9 0 -14 7 -8 10c12 5 8 -38 -6 -10c-9 0 -14 7 -8 10c12 5 8 -38 -6 -10c-9 0 -14 7 -8 10c12 5 8 -38 -6 -10c-9 0 -14 7 -8 10c12 5 8 -38 -6 -10c-9 0 -14 7 -8 10c12 5 8 -38 -6 -10Q39 109 35 109Z" fill="var(--fig-warm)" stroke="var(--fig-warm)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="91" y="144" font-size="13" text-anchor="middle" fill="var(--fig-ink)">電能→熱能</text>
+  <rect x="186" y="39" width="163" height="110" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1"/>
+  <path d="M196 77h142m-142 34h142" fill="none" stroke="var(--fig-line)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="267" y="63" font-size="14" text-anchor="middle" fill="var(--fig-ink)">P＝I×V（瓦特）</text>
+  <text x="267" y="100" font-size="14" text-anchor="middle" fill="var(--fig-ink)">E＝P×t</text>
+  <text x="267" y="136" font-size="13" text-anchor="middle" fill="var(--fig-ink)">1 度＝1 kW×1 h</text>
+  <rect x="8" y="163" width="344" height="28" rx="5" fill="var(--fig-cool)" stroke="var(--fig-line)" stroke-width="1"/>
+  <text x="180" y="182" font-size="12" text-anchor="middle" fill="var(--fig-ink)">110 V 的電器接 220 V：電功率變大，可能燒毀</text>
+</svg>

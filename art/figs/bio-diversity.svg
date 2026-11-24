@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 245" role="img">
+  <title>瓢蟲斑點、生物種類與不同環境分別示意遺傳、物種和生態系多樣性。</title>
+  <text x="180" y="20" font-size="14" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">生物多樣性的三個層次</text>
+  <rect x="9" y="32" width="342" height="61" rx="6" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.3"/>
+  <path d="M111 41v43" fill="none" stroke="var(--fig-line)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="122" y="56" font-size="14" text-anchor="start" fill="var(--fig-ink)" font-weight="600">遺傳多樣性</text>
+  <text x="122" y="78" font-size="13" text-anchor="start" fill="var(--fig-ink)">同種生物個體之間基因的差異</text>
+  <rect x="9" y="102" width="342" height="61" rx="6" fill="var(--fig-paper)" stroke="var(--ic)" stroke-width="2"/>
+  <path d="M111 111v43" fill="none" stroke="var(--fig-line)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="122" y="126" font-size="14" text-anchor="start" fill="var(--fig-ink)" font-weight="600">物種多樣性</text>
+  <text x="122" y="148" font-size="13" text-anchor="start" fill="var(--fig-ink)">一個地區內生物種類的多寡</text>
+  <rect x="9" y="172" width="342" height="61" rx="6" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.3"/>
+  <path d="M111 181v43" fill="none" stroke="var(--fig-line)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="122" y="196" font-size="14" text-anchor="start" fill="var(--fig-ink)" font-weight="600">生態系多樣性</text>
+  <text x="122" y="218" font-size="13" text-anchor="start" fill="var(--fig-ink)">森林、草原、海洋等不同的生態系</text>
+  <ellipse cx="30" cy="56" rx="5" ry="5" fill="var(--fig-ink)" stroke="var(--fig-ink)" stroke-width="1.3"/>
+  <path d="M26 53l-2-4m8 4 2-4 M23 61l-4-2m4 6-4 1m4 2-3 3 M37 61l4-2m-4 6 4 1m-4 2 3 3" fill="none" stroke="var(--fig-ink)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="30" cy="64" rx="8.5" ry="10" fill="var(--fig-warm)" stroke="var(--fig-ink)" stroke-width="1.3"/>
+  <path d="M30 55v18" fill="none" stroke="var(--fig-ink)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="26.3" cy="61" r="1.3" fill="var(--fig-ink)"/>
+  <circle cx="33.7" cy="61" r="1.3" fill="var(--fig-ink)"/>
+  <ellipse cx="60" cy="56" rx="5" ry="5" fill="var(--fig-ink)" stroke="var(--fig-ink)" stroke-width="1.3"/>
+  <path d="M56 53l-2-4m8 4 2-4 M53 61l-4-2m4 6-4 1m4 2-3 3 M67 61l4-2m-4 6 4 1m-4 2 3 3" fill="none" stroke="var(--fig-ink)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="60" cy="64" rx="8.5" ry="10" fill="var(--fig-warm)" stroke="var(--fig-ink)" stroke-width="1.3"/>
+  <path d="M60 55v18" fill="none" stroke="var(--fig-ink)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="56.3" cy="61" r="1.3" fill="var(--fig-ink)"/>
+  <circle cx="63.7" cy="61" r="1.3" fill="var(--fig-ink)"/>
+  <circle cx="56" cy="66" r="1.3" fill="var(--fig-ink)"/>
+  <circle cx="64" cy="66" r="1.3" fill="var(--fig-ink)"/>
+  <ellipse cx="90" cy="56" rx="5" ry="5" fill="var(--fig-ink)" stroke="var(--fig-ink)" stroke-width="1.3"/>
+  <path d="M86 53l-2-4m8 4 2-4 M83 61l-4-2m4 6-4 1m4 2-3 3 M97 61l4-2m-4 6 4 1m-4 2 3 3" fill="none" stroke="var(--fig-ink)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="90" cy="64" rx="8.5" ry="10" fill="var(--fig-warm)" stroke="var(--fig-ink)" stroke-width="1.3"/>
+  <path d="M90 55v18" fill="none" stroke="var(--fig-ink)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="86.3" cy="61" r="1.3" fill="var(--fig-ink)"/>
+  <circle cx="93.7" cy="61" r="1.3" fill="var(--fig-ink)"/>
+  <circle cx="86" cy="66" r="1.3" fill="var(--fig-ink)"/>
+  <circle cx="94" cy="66" r="1.3" fill="var(--fig-ink)"/>
+  <circle cx="87.5" cy="70" r="1.3" fill="var(--fig-ink)"/>
+  <circle cx="92.5" cy="70" r="1.3" fill="var(--fig-ink)"/>
+  <path d="M23 141Q15 123 37 119Q41 135 23 141Z" fill="var(--fig-land)" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M20 145l14-21" fill="none" stroke="var(--fig-ink)" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M48 133l-5-6v13l5-5q10 9 22-1-12-12-22-1Z" fill="var(--fig-sea)" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="64" cy="132" r="1.2" fill="var(--fig-ink)"/>
+  <path d="M76 137l6-1q1-7 7-9 5-7 10-3l2 3 4 1-5 2q-2 11-16 10l-6 2 3-4Z" fill="var(--fig-cool)" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M85 136q4 0 8-5" fill="none" stroke="var(--fig-ink)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="97" cy="126" r="1" fill="var(--fig-ink)"/>
+  <path d="M30 211v-9h5v9Z" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M21 203Q15 198 21 191Q20 183 28 183Q34 175 39 184Q47 183 47 191Q54 199 45 203Z" fill="var(--fig-land)" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M18 214q15-6 31 0" fill="none" stroke="var(--fig-ink)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M57 198q6 5 12 0t12 0t12 0l7-3v14q-5 4-11 1t-12 0t-12 0l-8-1Z" fill="var(--fig-sea)" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M61 204q5 3 10 0t10 0t10 0" fill="none" stroke="var(--fig-ink)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

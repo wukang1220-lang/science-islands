@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 278" role="img">
+  <title>無性生殖有分裂、出芽、斷裂、孢子和營養器官繁殖等方式，子代和親代的遺傳特徵幾乎相同。</title>
+  <text x="180" y="20" font-size="14" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">無性生殖的方式</text>
+  <rect x="8" y="32" width="344" height="202" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.3"/>
+  <path d="M13 32H347Q352 32 352 37V58H8V37Q8 32 13 32Z" fill="var(--fig-cool)" stroke="var(--fig-line)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M109 32V234 M8 58H352 M8 83H352 M8 108H352 M8 133H352 M8 158H352 M8 204H352" fill="none" stroke="var(--fig-line)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="58" y="50" font-size="13" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">方式</text>
+  <text x="229" y="50" font-size="13" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">例子</text>
+  <text x="58" y="75" font-size="13" text-anchor="middle" fill="var(--fig-ink)">分裂生殖</text>
+  <text x="122" y="75" font-size="13" text-anchor="start" fill="var(--fig-ink)">細菌、草履蟲</text>
+  <text x="58" y="100" font-size="13" text-anchor="middle" fill="var(--fig-ink)">出芽生殖</text>
+  <text x="122" y="100" font-size="13" text-anchor="start" fill="var(--fig-ink)">酵母菌、水螅</text>
+  <text x="58" y="125" font-size="13" text-anchor="middle" fill="var(--fig-ink)">斷裂生殖</text>
+  <text x="122" y="125" font-size="13" text-anchor="start" fill="var(--fig-ink)">渦蟲、海星</text>
+  <text x="58" y="150" font-size="13" text-anchor="middle" fill="var(--fig-ink)">孢子繁殖</text>
+  <text x="122" y="150" font-size="13" text-anchor="start" fill="var(--fig-ink)">黴菌、蕨類</text>
+  <text x="58" y="186" font-size="13" text-anchor="middle" fill="var(--fig-ink)">營養器官繁殖</text>
+  <text x="122" y="178" font-size="13" text-anchor="start" fill="var(--fig-ink)">馬鈴薯（塊莖）、甘薯（塊根）、</text>
+  <text x="122" y="196" font-size="13" text-anchor="start" fill="var(--fig-ink)">落地生根（葉）</text>
+  <text x="58" y="224" font-size="13" text-anchor="middle" fill="var(--fig-ink)">人為方法</text>
+  <text x="122" y="224" font-size="13" text-anchor="start" fill="var(--fig-ink)">扦插、壓條、嫁接、組織培養</text>
+  <rect x="8" y="244" width="344" height="26" rx="5" fill="var(--fig-cool)" stroke="var(--fig-line)" stroke-width="1"/>
+  <text x="180" y="261" font-size="12" text-anchor="middle" fill="var(--fig-ink)">子代和親代的遺傳特徵幾乎相同</text>
+</svg>

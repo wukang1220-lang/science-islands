@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 240" role="img">
+  <title>河流上游以侵蝕為主，中游以搬運為主，下游以沉積為主，出山口與河口可見沖積扇和三角洲。</title>
+  <text x="180" y="20" font-size="14" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">河流的作用</text>
+  <text x="12" y="44" font-size="12" text-anchor="start" fill="var(--fig-ink)">上游：侵蝕為主，V 形谷</text>
+  <text x="195" y="68" font-size="12" text-anchor="middle" fill="var(--fig-ink)">中游：搬運</text>
+  <text x="309" y="91" font-size="12" text-anchor="middle" fill="var(--fig-ink)">下游：沉積</text>
+  <path d="M8 111L37 69L57 101L76 77L102 116L128 137Q154 147 183 152T238 159L287 163L309 178L320 195H8Z" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M8 111L37 69L57 101L76 77L102 116L128 137Q143 144 156 146L146 152L113 138L91 131L72 106L59 119L38 95L18 118Z" fill="var(--fig-land)" stroke="var(--fig-soft)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M282 160Q299 157 315 160T352 160V195H320L305 180Z" fill="var(--fig-sea)" stroke="var(--fig-soft)" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M57 104Q67 120 78 119T99 128L126 141Q145 144 165 153T199 155Q211 152 221 157T247 161Q260 156 278 163" fill="none" stroke="var(--fig-deep)" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M124 140L132 158Q146 159 154 147Z" fill="var(--fig-sand)" stroke="var(--fig-soft)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M125 141l12 14m-12-14 19 12m-19-12 23 9" fill="none" stroke="var(--fig-deep)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M275 162L305 155Q312 166 308 179Z" fill="var(--fig-sand)" stroke="var(--fig-soft)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M275 162l29-4m-29 4 32 5m-32-5 29 12" fill="none" stroke="var(--fig-deep)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M60 50V62L56 95M195 74V116L186 145M303 96V119L267 151" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M139 161v10M294 174l-4 4" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="139" y="187" font-size="13" text-anchor="middle" fill="var(--fig-ink)">沖積扇</text>
+  <text x="285" y="190" font-size="13" text-anchor="middle" fill="var(--fig-ink)">三角洲</text>
+  <rect x="8" y="204" width="344" height="28" rx="4" fill="var(--fig-cool)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <text x="180" y="223" font-size="12" text-anchor="middle" fill="var(--fig-ink)">風化 → 侵蝕 → 搬運 → 沉積</text>
+</svg>

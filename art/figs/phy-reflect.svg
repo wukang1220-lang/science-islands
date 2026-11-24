@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 212" role="img">
+  <title>入射光與反射光相對法線對稱，平面鏡後方的虛像與物體到鏡面的距離相等。</title>
+  <defs><marker id="phy-reflect-ic" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto" markerUnits="userSpaceOnUse"><path d="M1 1L6 3.5L1 6" fill="none" stroke="var(--ic)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>
+  <text x="180" y="20" text-anchor="middle" font-size="14" fill="var(--fig-ink)" font-weight="600">光的反射</text>
+  <path d="M181 33V169" fill="none" stroke="var(--fig-line)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M12 143H173" fill="none" stroke="var(--fig-ink)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M19 144l-5 5 M29 144l-5 5 M39 144l-5 5 M49 144l-5 5 M59 144l-5 5 M69 144l-5 5 M79 144l-5 5 M89 144l-5 5 M99 144l-5 5 M109 144l-5 5 M119 144l-5 5 M129 144l-5 5 M139 144l-5 5 M149 144l-5 5 M159 144l-5 5" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M93 52V143" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="3 3"/>
+  <text x="93" y="43" text-anchor="middle" font-size="12" fill="var(--fig-ink)">法線</text>
+  <path d="M21 71L93 143L165 71" fill="none" stroke="var(--ic)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M38 88l17 17" fill="none" stroke="var(--ic)" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#phy-reflect-ic)"/>
+  <path d="M128 108l17-17" fill="none" stroke="var(--ic)" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#phy-reflect-ic)"/>
+  <path d="M76 126A24 24 0 0 1 93 119M93 119A24 24 0 0 1 110 126" fill="none" stroke="var(--fig-ink)" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="62" y="67" text-anchor="middle" font-size="11" fill="var(--fig-ink)">入射角</text>
+  <path d="M68 73L81 111l4 9" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="127" y="67" text-anchor="middle" font-size="11" fill="var(--fig-ink)">反射角</text>
+  <path d="M121 73l-15 39-5 8" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="145" y="167" text-anchor="middle" font-size="12" fill="var(--fig-ink)">鏡面</text>
+  <rect x="264" y="52" width="2" height="90" rx="1" fill="var(--fig-cool)" stroke="var(--fig-soft)"/>
+  <path d="M218 128V80" fill="none" stroke="var(--ic)" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#phy-reflect-ic)"/>
+  <path d="M312 128V80" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="3 3"/>
+  <path d="M307 87l5-7 5 7" fill="none" stroke="var(--fig-soft)" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="218" y="66" text-anchor="middle" font-size="12" fill="var(--fig-ink)">物</text>
+  <text x="317" y="66" text-anchor="middle" font-size="11" fill="var(--fig-ink)">像（虛像）</text>
+  <path d="M218 145v7m0-3.5h94m0-3.5v7M265 145v7" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="92" y="195" text-anchor="middle" font-size="13" fill="var(--fig-ink)" font-weight="600">入射角＝反射角</text>
+  <text x="267" y="195" text-anchor="middle" font-size="13" fill="var(--fig-ink)" font-weight="600">物距＝像距</text>
+</svg>

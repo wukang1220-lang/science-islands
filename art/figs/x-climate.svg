@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 265" role="img">
+  <title>減緩著重減少溫室氣體，調適著重降低衝擊，排放量等於移除量時即可達到淨零排放。</title>
+  <text x="180" y="20" text-anchor="middle" font-size="14" fill="var(--fig-ink)" font-weight="600">氣候變遷的因應</text>
+  <rect x="128" y="32" width="104" height="28" rx="5" fill="var(--fig-paper)" stroke="var(--ic)" stroke-width="1.5"/>
+  <text x="180" y="51" text-anchor="middle" font-size="14" fill="var(--fig-ink)" font-weight="600">氣候變遷</text>
+  <path d="M180 60v10M92 82V70h175v12" fill="none" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="8" y="82" width="169" height="134" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1"/>
+  <rect x="9" y="83" width="167" height="31" rx="4" fill="var(--fig-land)" stroke="none" stroke-width="1"/>
+  <text x="92.5" y="104" text-anchor="middle" font-size="14" fill="var(--fig-ink)" font-weight="600">減緩：減少溫室氣體</text>
+  <path d="M33 131h7" fill="none" stroke="var(--fig-soft)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="50" y="136" text-anchor="start" font-size="13" fill="var(--fig-ink)">發展再生能源</text>
+  <path d="M33 154h7" fill="none" stroke="var(--fig-soft)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="50" y="159" text-anchor="start" font-size="13" fill="var(--fig-ink)">節約能源</text>
+  <path d="M33 177h7" fill="none" stroke="var(--fig-soft)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="50" y="182" text-anchor="start" font-size="13" fill="var(--fig-ink)">植樹造林</text>
+  <rect x="183" y="82" width="169" height="134" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1"/>
+  <rect x="184" y="83" width="167" height="31" rx="4" fill="var(--fig-cool)" stroke="none" stroke-width="1"/>
+  <text x="267.5" y="104" text-anchor="middle" font-size="14" fill="var(--fig-ink)" font-weight="600">調適：降低衝擊</text>
+  <path d="M208 131h7" fill="none" stroke="var(--fig-soft)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="225" y="136" text-anchor="start" font-size="13" fill="var(--fig-ink)">加高海堤</text>
+  <path d="M208 154h7" fill="none" stroke="var(--fig-soft)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="225" y="159" text-anchor="start" font-size="13" fill="var(--fig-ink)">興建滯洪池</text>
+  <path d="M208 177h7" fill="none" stroke="var(--fig-soft)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="225" y="182" text-anchor="start" font-size="13" fill="var(--fig-ink)">種植耐旱作物</text>
+  <path d="M208 200h7" fill="none" stroke="var(--fig-soft)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="225" y="205" text-anchor="start" font-size="13" fill="var(--fig-ink)">建立預警系統</text>
+  <rect x="8" y="226" width="344" height="31" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1"/>
+  <text x="180" y="247" text-anchor="middle" font-size="14" fill="var(--fig-ink)" font-weight="600">淨零排放：排放量＝移除量</text>
+</svg>

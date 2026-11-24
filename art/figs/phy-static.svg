@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 208" role="img">
+  <title>摩擦時電子由毛皮移到氣球，帶負電的棒靠近金屬球時，球內電荷會重新分布。</title>
+  <defs><marker id="phy-static-ic" markerWidth="7" markerHeight="7" refX="6.5" refY="3.5" orient="auto" markerUnits="userSpaceOnUse"><path d="M1 1L6.5 3.5L1 6" fill="none" stroke="var(--ic)" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>
+  <text x="180" y="20" font-size="14" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">靜電</text>
+  <path d="M184 38V157" fill="none" stroke="var(--fig-line)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="39" cy="88" rx="26" ry="34" fill="var(--fig-cool)" stroke="var(--fig-ink)" stroke-width="1.5"/>
+  <path d="M39 122l-3 5h6Zm0 5q7 7 0 14" fill="none" stroke="var(--fig-ink)" stroke-width="1.1" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="39" y="85" font-size="14" text-anchor="middle" fill="var(--fig-ink)">− −</text>
+  <text x="39" y="103" font-size="14" text-anchor="middle" fill="var(--fig-ink)">−</text>
+  <path d="M127 73l5 -10 3 6 7 -6 4 6 8 -7 3 7 8 -4 -1 9 6 -2 -5 44 -7 -2 -5 5 -5 -3 -6 4 -5 -3 -10 2Z" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="147" y="88" font-size="14" text-anchor="middle" fill="var(--fig-ink)">＋</text>
+  <text x="147" y="107" font-size="14" text-anchor="middle" fill="var(--fig-ink)">＋</text>
+  <path d="M119 88H71" fill="none" stroke="var(--ic)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#phy-static-ic)"/>
+  <text x="95" y="73" font-size="13" text-anchor="middle" fill="var(--fig-ink)">電子</text>
+  <text x="44" y="157" font-size="12" text-anchor="middle" fill="var(--fig-ink)">氣球帶負電</text>
+  <text x="145" y="157" font-size="12" text-anchor="middle" fill="var(--fig-ink)">毛皮帶正電</text>
+  <rect x="193" y="78" width="63" height="19" rx="8" fill="var(--fig-cool)" stroke="var(--fig-ink)" stroke-width="1.4"/>
+  <text x="224" y="92" font-size="14" text-anchor="middle" fill="var(--fig-ink)" letter-spacing="2">−−−</text>
+  <circle cx="306" cy="88" r="32" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1.8"/>
+  <text x="291" y="93" font-size="12" text-anchor="middle" fill="var(--fig-ink)">＋＋</text>
+  <text x="321" y="93" font-size="14" letter-spacing="2" text-anchor="middle" fill="var(--fig-ink)">−−</text>
+  <text x="275" y="157" font-size="13" text-anchor="middle" fill="var(--fig-ink)">靜電感應</text>
+  <rect x="8" y="173" width="344" height="28" rx="5" fill="var(--fig-cool)" stroke="var(--fig-line)" stroke-width="1"/>
+  <text x="180" y="192" font-size="12" text-anchor="middle" fill="var(--fig-ink)">同性電相斥、異性電相吸</text>
+</svg>

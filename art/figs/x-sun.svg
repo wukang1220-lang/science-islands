@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 227" role="img">
+  <title>太陽由核融合釋出能量，供應食物鏈、化石燃料、風力、水力及太陽能發電。</title>
+  <text x="180" y="20" text-anchor="middle" font-size="14" fill="var(--fig-ink)" font-weight="600">太陽：地球的能量來源</text>
+  <defs><marker id="x-sun-energy" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto" markerUnits="userSpaceOnUse"><path d="M1 1L7 4L1 7" fill="none" stroke="var(--ic)" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>
+  <g transform="translate(38 108)">
+    <circle cx="0" cy="0" r="18" fill="var(--fig-warm)" stroke="var(--fig-ink)" stroke-width="1.5"/>
+    <path d="M0 -22v-4M0 22v4M-22 0h-4M22 0h4" fill="none" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M-15 -15l-3-3M15 -15l3-3M-15 15l-3 3M15 15l3 3" fill="none" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="38" y="151" text-anchor="middle" font-size="14" fill="var(--fig-ink)" font-weight="600">核融合</text>
+  <path d="M57 87Q77 51 110 51" fill="none" stroke="var(--ic)" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#x-sun-energy)"/>
+  <path d="M64 98Q84 90 110 90" fill="none" stroke="var(--ic)" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#x-sun-energy)"/>
+  <path d="M64 116Q84 129 110 129" fill="none" stroke="var(--ic)" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#x-sun-energy)"/>
+  <path d="M57 128Q80 168 110 168" fill="none" stroke="var(--ic)" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#x-sun-energy)"/>
+  <rect x="114" y="35" width="238" height="32" rx="5" fill="var(--fig-land)" stroke="var(--fig-line)" stroke-width="1"/>
+  <text x="233" y="56" text-anchor="middle" font-size="13" fill="var(--fig-ink)">植物光合作用 → 食物鏈的能量</text>
+  <rect x="114" y="74" width="238" height="32" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1"/>
+  <text x="233" y="95" text-anchor="middle" font-size="13" fill="var(--fig-ink)">古代生物 → 化石燃料</text>
+  <rect x="114" y="113" width="238" height="32" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1"/>
+  <text x="233" y="134" text-anchor="middle" font-size="13" fill="var(--fig-ink)">空氣受熱、水循環 → 風力、水力</text>
+  <rect x="114" y="152" width="238" height="32" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1"/>
+  <text x="233" y="173" text-anchor="middle" font-size="13" fill="var(--fig-ink)">太陽能板：光能 → 電能</text>
+  <path d="M10 195h340" fill="none" stroke="var(--fig-line)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="350" y="215" text-anchor="end" font-size="12" fill="var(--fig-soft)">紅外線：赫歇爾在紅光外側發現</text>
+</svg>

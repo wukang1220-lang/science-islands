@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 215" role="img">
+  <title>紅血球在清水中膨脹，在生理食鹽水中維持形狀，在濃鹽水中皺縮。</title>
+  <defs><marker id="bio-osmosis-ink" markerWidth="7" markerHeight="7" refX="6.5" refY="3.5" orient="auto" markerUnits="userSpaceOnUse"><path d="M0 0L7 3.5L0 7Z" fill="var(--fig-ink)"/></marker></defs>
+  <text x="180" y="20" font-size="14" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">紅血球與滲透作用</text>
+  <rect x="6" y="34" width="114" height="116" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.3"/>
+  <rect x="123" y="34" width="114" height="116" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.3"/>
+  <rect x="240" y="34" width="114" height="116" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.3"/>
+  <text x="63" y="54" font-size="13" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">清水</text>
+  <text x="180" y="53" font-size="13" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">生理食鹽水</text>
+  <text x="180" y="69" font-size="11" text-anchor="middle" fill="var(--fig-soft)">（約 0.9%）</text>
+  <text x="297" y="54" font-size="13" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">濃鹽水</text>
+  <ellipse cx="63" cy="97" rx="22" ry="22" fill="var(--fig-warm)" stroke="var(--fig-ink)" stroke-width="1.4"/>
+  <path d="M49 94Q51 84 59 82" fill="none" stroke="var(--fig-ink)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M15 97H44" fill="none" stroke="var(--fig-ink)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#bio-osmosis-ink)"/>
+  <path d="M110 97H82" fill="none" stroke="var(--fig-ink)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#bio-osmosis-ink)"/>
+  <ellipse cx="180" cy="99" rx="21" ry="14" fill="var(--fig-warm)" stroke="var(--fig-ink)" stroke-width="1.4"/>
+  <ellipse cx="180" cy="99" rx="11" ry="5" fill="var(--fig-warm)" stroke="var(--fig-ink)" stroke-width="1"/>
+  <path d="M133 93H161" fill="none" stroke="var(--fig-ink)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#bio-osmosis-ink)"/>
+  <path d="M161 105H133" fill="none" stroke="var(--fig-ink)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#bio-osmosis-ink)"/>
+  <path d="M200 93H228" fill="none" stroke="var(--fig-ink)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#bio-osmosis-ink)"/>
+  <path d="M228 105H200" fill="none" stroke="var(--fig-ink)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#bio-osmosis-ink)"/>
+  <path d="M281 99L284 95L283 89L289 90L293 83L298 89L305 85L306 92L313 93L310 99L315 104L308 106L307 112L300 109L296 115L292 109L285 111L286 104Z" fill="var(--fig-warm)" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M282 99H250" fill="none" stroke="var(--fig-ink)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#bio-osmosis-ink)"/>
+  <path d="M313 99H344" fill="none" stroke="var(--fig-ink)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#bio-osmosis-ink)"/>
+  <text x="63" y="140" font-size="12" text-anchor="middle" fill="var(--fig-ink)">膨脹甚至破裂</text>
+  <text x="180" y="140" font-size="12" text-anchor="middle" fill="var(--fig-ink)">形狀不變</text>
+  <text x="297" y="140" font-size="12" text-anchor="middle" fill="var(--fig-ink)">皺縮</text>
+  <rect x="8" y="161" width="344" height="26" rx="5" fill="var(--fig-cool)" stroke="var(--fig-line)" stroke-width="1"/>
+  <text x="180" y="178" font-size="12" text-anchor="middle" fill="var(--fig-ink)">水由濃度低的一側，往濃度高的一側移動</text>
+  <text x="350" y="209" font-size="11" text-anchor="end" fill="var(--fig-soft)">示意圖</text>
+</svg>

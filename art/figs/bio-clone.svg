@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 275" role="img">
+  <title>甲羊提供的細胞核放入乙羊去核的卵，胚胎植入丙羊子宮後，出生的小羊和甲羊一樣是白臉。</title>
+  <defs><marker id="bio-clone-arr" markerWidth="6" markerHeight="6" refX="5.5" refY="3" orient="auto" markerUnits="userSpaceOnUse"><path d="M0 0L6 3L0 6Z" fill="var(--fig-ink)"/></marker></defs>
+  <text x="180" y="20" font-size="14" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">複製羊的過程</text>
+  <rect x="8" y="32" width="167" height="47" rx="5" fill="var(--fig-paper)" stroke="var(--ic)" stroke-width="2"/>
+  <text x="91.5" y="51" font-size="13" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">甲羊（白臉）：</text>
+  <text x="91.5" y="70" font-size="13" text-anchor="middle" fill="var(--fig-ink)">提供乳腺細胞的細胞核</text>
+  <rect x="185" y="32" width="167" height="47" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.4"/>
+  <text x="268.5" y="51" font-size="13" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">乙羊（黑臉）：</text>
+  <text x="268.5" y="70" font-size="13" text-anchor="middle" fill="var(--fig-ink)">提供去除細胞核的卵</text>
+  <path d="M92 80V91H150V102" fill="none" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linejoin="round" marker-end="url(#bio-clone-arr)"/>
+  <path d="M268 80V91H210V102" fill="none" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linejoin="round" marker-end="url(#bio-clone-arr)"/>
+  <rect x="107" y="104" width="146" height="26" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.4"/>
+  <text x="180" y="121" font-size="13" text-anchor="middle" fill="var(--fig-ink)">細胞核放入卵中</text>
+  <path d="M180 131V143" fill="none" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linejoin="round" marker-end="url(#bio-clone-arr)"/>
+  <rect x="145" y="145" width="70" height="24" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.4"/>
+  <text x="180" y="161" font-size="13" text-anchor="middle" fill="var(--fig-ink)">胚胎</text>
+  <path d="M180 170V182" fill="none" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linejoin="round" marker-end="url(#bio-clone-arr)"/>
+  <rect x="77" y="184" width="206" height="26" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.4"/>
+  <text x="180" y="201" font-size="13" text-anchor="middle" fill="var(--fig-ink)">植入丙羊（黑臉）的子宮</text>
+  <path d="M180 211V224" fill="none" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linejoin="round" marker-end="url(#bio-clone-arr)"/>
+  <rect x="61" y="226" width="238" height="28" rx="5" fill="var(--fig-paper)" stroke="var(--ic)" stroke-width="2"/>
+  <text x="180" y="244" font-size="13" text-anchor="middle" fill="var(--fig-ink)">出生的小羊：白臉，和甲羊相同</text>
+  <text x="348" y="267" font-size="11" text-anchor="end" fill="var(--fig-soft)">示意圖</text>
+</svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 280" role="img">
+  <title>氣溫隨高度在對流層下降、平流層上升、中氣層下降、增溫層再上升，大氣成分以氮氣為主。</title>
+  <defs><marker id="ear-atmos-ic" markerWidth="8" markerHeight="8" refX="6.5" refY="4" orient="auto" markerUnits="userSpaceOnUse"><path d="M1 1L6.5 4L1 7" fill="none" stroke="var(--ic)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>
+  <text x="180" y="20" font-size="14" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">大氣的分層</text>
+  <text x="9" y="40" font-size="12" text-anchor="start" fill="var(--fig-ink)">高度（km）</text>
+  <rect x="38" y="49" width="218" height="33" rx="0" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <rect x="38" y="82" width="218" height="71" rx="0" fill="var(--fig-cool)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <rect x="38" y="153" width="218" height="76" rx="0" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <rect x="38" y="229" width="218" height="25" rx="0" fill="var(--fig-cool)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <path d="M38 47V254H258" fill="none" stroke="var(--fig-ink)" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M34 82h4" fill="none" stroke="var(--fig-ink)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="29" y="86" font-size="11" text-anchor="end" fill="var(--fig-ink)">85</text>
+  <path d="M34 153h4" fill="none" stroke="var(--fig-ink)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="29" y="157" font-size="11" text-anchor="end" fill="var(--fig-ink)">50</text>
+  <path d="M34 229h4" fill="none" stroke="var(--fig-ink)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="29" y="233" font-size="11" text-anchor="end" fill="var(--fig-ink)">12</text>
+  <path d="M34 254h4" fill="none" stroke="var(--fig-ink)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="29" y="258" font-size="11" text-anchor="end" fill="var(--fig-ink)">0</text>
+  <path d="M109 252L73 229Q77 214 86 197T111 153Q104 131 87 113T57 82L93 51" fill="none" stroke="var(--ic)" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ear-atmos-ic)"/>
+  <text x="170" y="70" font-size="13" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">增溫層</text>
+  <text x="170" y="124" font-size="13" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">中氣層</text>
+  <text x="170" y="185" font-size="13" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">平流層</text>
+  <text x="170" y="207" font-size="12" text-anchor="middle" fill="var(--fig-ink)">臭氧層：吸收紫外線</text>
+  <text x="132" y="246" font-size="12" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">對流層</text>
+  <text x="205" y="246" font-size="11" text-anchor="middle" fill="var(--fig-ink)">天氣現象都在這一層</text>
+  <text x="252" y="272" font-size="12" text-anchor="end" fill="var(--fig-ink)">溫度</text>
+  <rect x="265" y="113" width="88" height="84" rx="4" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <path d="M273 142H345M273 168H345" fill="none" stroke="var(--fig-line)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="309" y="133" font-size="12" text-anchor="middle" fill="var(--fig-ink)">氮氣 約 78%</text>
+  <text x="309" y="160" font-size="12" text-anchor="middle" fill="var(--fig-ink)">氧氣 約 21%</text>
+  <text x="309" y="186" font-size="12" text-anchor="middle" fill="var(--fig-ink)">其他 約 1%</text>
+</svg>

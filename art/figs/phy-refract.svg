@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 220" role="img">
+  <title>由空氣斜射入水的光線偏向法線，從水面上看見的硬幣比實際位置淺。</title>
+  <defs><marker id="phy-refract-ink" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto" markerUnits="userSpaceOnUse"><path d="M1 1L6 3.5L1 6" fill="none" stroke="var(--fig-ink)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker><marker id="phy-refract-ic" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto" markerUnits="userSpaceOnUse"><path d="M1 1L6 3.5L1 6" fill="none" stroke="var(--ic)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>
+  <text x="180" y="20" text-anchor="middle" font-size="14" fill="var(--fig-ink)" font-weight="600">光的折射</text>
+  <rect x="8" y="109" width="201" height="65" rx="0" fill="var(--fig-sea)" stroke="none"/>
+  <path d="M8 109H209" fill="none" stroke="var(--fig-ink)" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M115 51V171" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="3 3"/>
+  <text x="115" y="42" text-anchor="middle" font-size="12" fill="var(--fig-ink)">法線</text>
+  <path d="M38 51L115 109L157.7 166" fill="none" stroke="var(--ic)" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M62 69.1L80 82.6" fill="none" stroke="var(--ic)" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#phy-refract-ic)"/>
+  <path d="M137.5 139l12 16" fill="none" stroke="var(--ic)" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#phy-refract-ic)"/>
+  <path d="M95.8 94.6A24 24 0 0 1 115 85M129.4 128.2A24 24 0 0 1 115 133" fill="none" stroke="var(--fig-ink)" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="85" y="57" text-anchor="middle" font-size="11" fill="var(--fig-ink)">入射角</text>
+  <path d="M91 62l14 24" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="81" y="153" text-anchor="middle" font-size="11" fill="var(--fig-ink)">折射角</text>
+  <path d="M102 147l17-12" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="18" y="99" text-anchor="start" font-size="12" fill="var(--fig-ink)">空氣</text>
+  <text x="18" y="132" text-anchor="start" font-size="12" fill="var(--fig-ink)">水</text>
+  <rect x="223" y="47" width="129" height="127" rx="4" fill="var(--fig-paper)" stroke="var(--fig-line)"/>
+  <rect x="224" y="106" width="127" height="67" rx="0" fill="var(--fig-sea)" stroke="none"/>
+  <path d="M224 106H351" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M242 65q9-7 17 4-11 5-17-4Z" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1.3" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="252" cy="67" rx="2.5" ry="2.5" fill="var(--fig-ink)" stroke="none" stroke-width="1.5"/>
+  <ellipse cx="319" cy="160" rx="10" ry="3.5" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.5"/>
+  <ellipse cx="319" cy="134" rx="9" ry="3" fill="none" stroke="var(--fig-soft)" stroke-dasharray="3 2"/>
+  <path d="M319 157L291 106L255 70" fill="none" stroke="var(--fig-ink)" stroke-width="1.3" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M276 91l-13-13" fill="none" stroke="var(--fig-ink)" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#phy-refract-ink)"/>
+  <path d="M291 106L316 131" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="3 3"/>
+  <text x="286" y="195" text-anchor="middle" font-size="12" fill="var(--fig-ink)">看起來比較淺</text>
+  <text x="107" y="195" text-anchor="middle" font-size="13" fill="var(--fig-ink)" font-weight="600">空氣→水：偏向法線</text>
+</svg>

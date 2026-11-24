@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 247" role="img">
+  <title>纖維分為天然纖維、人造纖維與合成纖維，天然纖維又分植物纖維與動物纖維。</title>
+  <text x="180" y="21" font-size="14" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">衣料纖維</text>
+  <path d="M53 133H64M64 79V208M64 79H75M64 145H75M64 208H75M147 79H156M156 54V105M156 54H166M156 105H166M147 145H166M147 208H166" fill="none" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="6" y="117" width="47" height="32" rx="5" fill="var(--fig-land)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <text x="29" y="138" font-size="14" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">纖維</text>
+  <rect x="75" y="64" width="72" height="30" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <text x="111" y="84" font-size="13" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">天然纖維</text>
+  <rect x="75" y="130" width="72" height="30" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <text x="111" y="150" font-size="13" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">人造纖維</text>
+  <rect x="75" y="193" width="72" height="30" rx="5" fill="var(--fig-paper)" stroke="var(--ic)" stroke-width="2"/>
+  <text x="111" y="213" font-size="13" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">合成纖維</text>
+  <rect x="166" y="31" width="187" height="46" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <rect x="166" y="82" width="187" height="46" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <rect x="166" y="134" width="187" height="43" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <rect x="166" y="185" width="187" height="48" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <text x="260" y="50" font-size="13" text-anchor="middle" fill="var(--fig-ink)">植物纖維：棉、麻</text>
+  <text x="260" y="69" font-size="12" text-anchor="middle" fill="var(--fig-ink)">（燒紙味）</text>
+  <text x="260" y="101" font-size="13" text-anchor="middle" fill="var(--fig-ink)">動物纖維：羊毛、蠶絲</text>
+  <text x="260" y="119" font-size="12" text-anchor="middle" fill="var(--fig-ink)">（燒羽毛味）</text>
+  <text x="260" y="151" font-size="13" text-anchor="middle" fill="var(--fig-ink)">嫘縈</text>
+  <text x="260" y="169" font-size="12" text-anchor="middle" fill="var(--fig-ink)">（植物纖維溶解再抽絲）</text>
+  <text x="260" y="204" font-size="13" text-anchor="middle" fill="var(--fig-ink)">尼龍、聚酯</text>
+  <text x="260" y="224" font-size="12" text-anchor="middle" fill="var(--fig-ink)">（石油製成，熔成硬球）</text>
+</svg>

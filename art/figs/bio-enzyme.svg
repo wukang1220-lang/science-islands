@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 240" role="img">
+  <title>左圖顯示酵素活性隨溫度改變，右圖比較胃蛋白酶與唾液澱粉酶在不同 pH 值下的活性。</title>
+  <rect x="5" y="6" width="172" height="210" rx="6" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <rect x="183" y="6" width="172" height="210" rx="6" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <text x="91" y="27" font-size="14" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">溫度與活性</text>
+  <text x="269" y="27" font-size="14" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">pH 值與活性</text>
+  <path d="M16 37H166 M194 37H344" fill="none" stroke="var(--fig-line)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="14" y="56" font-size="12" text-anchor="start" fill="var(--fig-ink)">活性</text>
+  <text x="190" y="56" font-size="12" text-anchor="start" fill="var(--fig-ink)">活性</text>
+  <path d="M22 65V154H166 M200 65V154H346" fill="none" stroke="var(--fig-ink)" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M22 155V159 M108.3 155V159 M162 155V159 M200 155V159 M271 155V159 M342 155V159" fill="none" stroke="var(--fig-soft)" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M108.3 76V153" fill="none" stroke="var(--fig-soft)" stroke-width="1.1" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="3 4"/>
+  <text x="108.3" y="65" font-size="12" text-anchor="middle" fill="var(--fig-ink)">最適溫度</text>
+  <path d="M22 153C46 152 69 143 83 116S100 75 108.3 75C119 75 122 105 129 127S146 150 162 152" fill="none" stroke="var(--fig-ink)" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="22" y="173" font-size="12" text-anchor="middle" fill="var(--fig-ink)">0</text>
+  <text x="108.3" y="173" font-size="12" text-anchor="middle" fill="var(--fig-ink)">37</text>
+  <text x="162" y="173" font-size="12" text-anchor="middle" fill="var(--fig-ink)">60</text>
+  <text x="88" y="192" font-size="12" text-anchor="middle" fill="var(--fig-ink)">溫度（°C）</text>
+  <text x="86" y="209" font-size="11" text-anchor="start" fill="var(--fig-soft)">高溫：酵素變性</text>
+  <path d="M164 150L170 146V204H166" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="217" y="79" font-size="12" text-anchor="start" fill="var(--fig-ink)">胃蛋白酶</text>
+  <path d="M218 82L213.5 89" fill="none" stroke="var(--fig-soft)" stroke-width="1.1" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="290" y="61" font-size="12" text-anchor="middle" fill="var(--fig-ink)">唾液澱粉酶</text>
+  <path d="M284 66L274 84" fill="none" stroke="var(--fig-soft)" stroke-width="1.1" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M200 133C204 118 206 91 211.8 91C221 91 222 120 232 138S252 151 260 152" fill="none" stroke="var(--fig-ink)" stroke-width="2.3" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M221 153C238 152 244 138 254 115S265 88 271 88C280 88 285 109 292 125S310 150 336 152" fill="none" stroke="var(--ic)" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="200" y="173" font-size="12" text-anchor="middle" fill="var(--fig-ink)">1</text>
+  <text x="271" y="173" font-size="12" text-anchor="middle" fill="var(--fig-ink)">7</text>
+  <text x="342" y="173" font-size="12" text-anchor="middle" fill="var(--fig-ink)">13</text>
+  <text x="271" y="192" font-size="12" text-anchor="middle" fill="var(--fig-ink)">pH 值</text>
+  <text x="350" y="233" font-size="11" text-anchor="end" fill="var(--fig-soft)">示意圖</text>
+</svg>

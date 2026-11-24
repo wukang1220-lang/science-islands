@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 269" role="img">
+  <title>難分解的汙染物從湖水到食魚的鳥，濃度逐層升高。</title>
+  <defs><marker id="bio-magnify-arr" markerWidth="6" markerHeight="6" refX="5.5" refY="3" orient="auto" markerUnits="userSpaceOnUse"><path d="M0 0L6 3L0 6Z" fill="var(--fig-ink)"/></marker></defs>
+  <text x="180" y="20" font-size="14" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">生物放大作用</text>
+  <rect x="15" y="33" width="175" height="29" rx="5" fill="var(--fig-paper)" stroke="var(--ic)" stroke-width="2"/>
+  <text x="102.5" y="51.5" font-size="13" text-anchor="middle" fill="var(--fig-ink)">食魚的鳥　25 ppm</text>
+  <rect x="15" y="79" width="175" height="29" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.4"/>
+  <text x="102.5" y="97.5" font-size="13" text-anchor="middle" fill="var(--fig-ink)">大魚　2 ppm</text>
+  <path d="M103 78v-13" fill="none" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linejoin="round" marker-end="url(#bio-magnify-arr)"/>
+  <rect x="15" y="125" width="175" height="29" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.4"/>
+  <text x="102.5" y="143.5" font-size="13" text-anchor="middle" fill="var(--fig-ink)">小魚　0.5 ppm</text>
+  <path d="M103 124v-13" fill="none" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linejoin="round" marker-end="url(#bio-magnify-arr)"/>
+  <rect x="15" y="171" width="175" height="29" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.4"/>
+  <text x="102.5" y="189.5" font-size="13" text-anchor="middle" fill="var(--fig-ink)">浮游生物　0.04 ppm</text>
+  <path d="M103 170v-13" fill="none" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linejoin="round" marker-end="url(#bio-magnify-arr)"/>
+  <rect x="15" y="217" width="175" height="29" rx="5" fill="var(--fig-sea)" stroke="var(--fig-line)" stroke-width="1.4"/>
+  <text x="102.5" y="235.5" font-size="13" text-anchor="middle" fill="var(--fig-ink)">湖水　0.00005 ppm</text>
+  <path d="M103 216v-13" fill="none" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linejoin="round" marker-end="url(#bio-magnify-arr)"/>
+  <path d="M206 244V37" fill="none" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linejoin="round" marker-end="url(#bio-magnify-arr)"/>
+  <text x="220" y="126" font-size="13" text-anchor="start" fill="var(--fig-ink)" font-weight="600">難分解的汙染物</text>
+  <text x="220" y="150" font-size="13" text-anchor="start" fill="var(--fig-ink)">愈往上層，濃度愈高</text>
+</svg>

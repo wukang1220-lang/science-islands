@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 222" role="img">
+  <title>音叉振動發聲，長條比較聲音在空氣、水和鋼鐵中的傳播速率。</title>
+  <text x="180" y="20" text-anchor="middle" font-size="14" fill="var(--fig-ink)" font-weight="600">聲音的傳播</text>
+  <path d="M130 32V177" fill="none" stroke="var(--fig-line)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M36 61v42q0 20 16 20t16-20V61h-7v42q0 13-9 13t-9-13V61ZM49 123h6v36h-6Z" fill="var(--fig-cool)" stroke="var(--fig-ink)" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M77 76q12 14 0 28M85 70q19 20 0 40M96 64q24 26 0 52" fill="none" stroke="var(--ic)" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="62" y="177" text-anchor="middle" font-size="12" fill="var(--fig-ink)">發音體振動</text>
+  <text x="149" y="45" text-anchor="start" font-size="13" fill="var(--fig-ink)" font-weight="600">聲速比較</text>
+  <text x="150" y="66" text-anchor="start" font-size="12" fill="var(--fig-ink)">空氣　約 340 m/s</text>
+  <rect x="150" y="71" width="11.6" height="7" rx="1" fill="var(--fig-cool)" stroke="var(--fig-ink)"/>
+  <text x="150" y="101" text-anchor="start" font-size="12" fill="var(--fig-ink)">水　約 1500 m/s</text>
+  <rect x="150" y="106" width="51" height="7" rx="1" fill="var(--fig-sea)" stroke="var(--fig-ink)"/>
+  <text x="150" y="136" text-anchor="start" font-size="12" fill="var(--fig-ink)">鋼鐵　約 5000 m/s</text>
+  <rect x="150" y="141" width="170" height="7" rx="1" fill="var(--fig-sand)" stroke="var(--fig-ink)"/>
+  <text x="150" y="174" text-anchor="start" font-size="12" fill="var(--fig-ink)">真空　無法傳聲</text>
+  <rect x="8" y="186" width="344" height="28" rx="4" fill="var(--fig-cool)" stroke="var(--fig-line)"/>
+  <text x="180" y="205" text-anchor="middle" font-size="13" fill="var(--fig-ink)">空氣中：v＝331＋0.6T（T 為攝氏溫度）</text>
+</svg>

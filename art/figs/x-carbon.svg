@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 260" role="img">
+  <title>碳在大氣、生物、土壤、燃料與海洋之間流動，燃燒化石燃料使大氣中的二氧化碳增加。</title>
+  <text x="180" y="20" text-anchor="middle" font-size="14" fill="var(--fig-ink)" font-weight="600">碳循環</text>
+  <defs><marker id="x-carbon-flow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto" markerUnits="userSpaceOnUse"><path d="M1 1L7 4L1 7" fill="none" stroke="var(--fig-ink)" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/></marker><marker id="x-carbon-burn" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto" markerUnits="userSpaceOnUse"><path d="M1 1L7 4L1 7" fill="none" stroke="var(--ic)" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>
+  <rect x="22" y="37" width="72" height="31" rx="5" fill="var(--fig-land)" stroke="var(--fig-line)" stroke-width="1"/>
+  <text x="58" y="57" text-anchor="middle" font-size="13" fill="var(--fig-ink)" font-weight="600">植物</text>
+  <rect x="266" y="37" width="72" height="31" rx="5" fill="var(--fig-sand)" stroke="var(--fig-line)" stroke-width="1"/>
+  <text x="302" y="57" text-anchor="middle" font-size="13" fill="var(--fig-ink)" font-weight="600">動物</text>
+  <path d="M96 53h168" fill="none" stroke="var(--fig-ink)" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#x-carbon-flow)"/>
+  <text x="180" y="46" text-anchor="middle" font-size="13" fill="var(--fig-ink)">吃</text>
+  <rect x="117" y="113" width="126" height="31" rx="5" fill="var(--fig-cool)" stroke="var(--fig-line)" stroke-width="1"/>
+  <text x="180" y="133" text-anchor="middle" font-size="13" fill="var(--fig-ink)" font-weight="600">大氣中的 CO₂</text>
+  <path d="M115 129H48V71" fill="none" stroke="var(--fig-ink)" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#x-carbon-flow)"/>
+  <text x="54" y="117" text-anchor="start" font-size="12" fill="var(--fig-ink)">光合作用</text>
+  <path d="M89 70Q108 94 141 109" fill="none" stroke="var(--fig-ink)" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#x-carbon-flow)"/>
+  <text x="122" y="87" text-anchor="start" font-size="12" fill="var(--fig-ink)">呼吸作用</text>
+  <path d="M299 70Q299 92 294 98T246 127" fill="none" stroke="var(--fig-ink)" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#x-carbon-flow)"/>
+  <text x="250" y="93" text-anchor="middle" font-size="12" fill="var(--fig-ink)">呼吸作用</text>
+  <rect x="8" y="192" width="98" height="31" rx="5" fill="var(--fig-sand)" stroke="var(--fig-line)" stroke-width="1"/>
+  <text x="57" y="212" text-anchor="middle" font-size="13" fill="var(--fig-ink)" font-weight="600">遺骸、土壤</text>
+  <rect x="136" y="192" width="88" height="31" rx="5" fill="var(--fig-sand)" stroke="var(--fig-line)" stroke-width="1"/>
+  <text x="180" y="212" text-anchor="middle" font-size="13" fill="var(--fig-ink)" font-weight="600">化石燃料</text>
+  <rect x="270" y="192" width="81" height="31" rx="5" fill="var(--fig-sea)" stroke="var(--fig-line)" stroke-width="1"/>
+  <text x="310.5" y="212" text-anchor="middle" font-size="13" fill="var(--fig-ink)" font-weight="600">海洋</text>
+  <path d="M58 190q11-27 67-44" fill="none" stroke="var(--fig-ink)" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#x-carbon-flow)"/>
+  <text x="13" y="161" text-anchor="start" font-size="12" fill="var(--fig-ink)">分解者分解</text>
+  <path d="M179 190v-44" fill="none" stroke="var(--ic)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#x-carbon-burn)"/>
+  <text x="186" y="172" text-anchor="start" font-size="13" fill="var(--fig-ink)">燃燒</text>
+  <path d="M236 147q30 23 65 43" fill="none" stroke="var(--fig-ink)" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#x-carbon-flow)"/>
+  <path d="M326 190Q299 158 246 140" fill="none" stroke="var(--fig-ink)" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#x-carbon-flow)"/>
+  <text x="280" y="153" text-anchor="start" font-size="12" fill="var(--fig-ink)">吸收、釋放</text>
+  <rect x="8" y="231" width="343" height="24" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1"/>
+  <text x="180" y="248" text-anchor="middle" font-size="13" fill="var(--fig-ink)">人類活動使 CO₂ 增加</text>
+</svg>

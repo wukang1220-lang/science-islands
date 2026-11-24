@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 241" role="img">
+  <title>北半球高氣壓的風順時鐘向外吹，低氣壓的風逆時鐘向內吹。</title>
+  <defs><marker id="ear-pressure-ic" markerWidth="8" markerHeight="8" refX="6.5" refY="4" orient="auto" markerUnits="userSpaceOnUse"><path d="M1 1L6.5 4L1 7" fill="none" stroke="var(--ic)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>
+  <text x="180" y="20" font-size="14" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">高氣壓與低氣壓（北半球）</text>
+  <rect x="7" y="32" width="170" height="168" rx="4" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <ellipse cx="92" cy="99" rx="24" ry="17" fill="none" stroke="var(--fig-soft)" stroke-width="1"/>
+  <ellipse cx="92" cy="99" rx="42" ry="31" fill="none" stroke="var(--fig-soft)" stroke-width="1"/>
+  <ellipse cx="92" cy="99" rx="62" ry="46" fill="none" stroke="var(--fig-soft)" stroke-width="1"/>
+  <path d="M105.6 95.5L108.7 96.3L111.7 97.6L114.6 99.5L117.3 101.9L119.8 104.7L121.9 108L123.6 111.8L124.9 115.9L125.7 120.4L125.9 125.1L125.5 130L124.5 135L122.8 140.1L120.5 145.2L117.4 150.2L113.7 154.9" fill="none" stroke="var(--ic)" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ear-pressure-ic)"/>
+  <path d="M88.2 112.5L86 114.8L83.3 116.7L80.3 118.3L76.9 119.5L73.1 120.2L69.2 120.4L65.1 120L60.9 119L56.7 117.5L52.5 115.3L48.4 112.5L44.6 109.1L41 105.1L37.8 100.5L35 95.5L32.7 89.9" fill="none" stroke="var(--ic)" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ear-pressure-ic)"/>
+  <path d="M82.2 89L81.4 85.9L81 82.6L81.1 79.2L81.8 75.6L83.1 72.1L84.9 68.6L87.3 65.2L90.2 62L93.7 59.2L97.7 56.6L102.1 54.5L107 52.9L112.2 51.8L117.8 51.3L123.6 51.4L129.6 52.2" fill="none" stroke="var(--ic)" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ear-pressure-ic)"/>
+  <text x="92" y="104" font-size="14" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">H</text>
+  <text x="92" y="170" font-size="13" text-anchor="middle" fill="var(--fig-ink)">順時鐘向外吹，</text>
+  <text x="92" y="190" font-size="13" text-anchor="middle" fill="var(--fig-ink)">空氣下沉，多晴朗</text>
+  <rect x="183" y="32" width="170" height="168" rx="4" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <ellipse cx="268" cy="99" rx="24" ry="17" fill="none" stroke="var(--fig-soft)" stroke-width="1"/>
+  <ellipse cx="268" cy="99" rx="42" ry="31" fill="none" stroke="var(--fig-soft)" stroke-width="1"/>
+  <ellipse cx="268" cy="99" rx="62" ry="46" fill="none" stroke="var(--fig-soft)" stroke-width="1"/>
+  <path d="M289.7 154.9L293.4 150.2L296.5 145.2L298.8 140.1L300.5 135L301.5 130L301.9 125.1L301.7 120.4L300.9 115.9L299.6 111.8L297.9 108L295.8 104.7L293.3 101.9L290.6 99.5L287.7 97.6L284.7 96.3L281.6 95.5" fill="none" stroke="var(--ic)" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ear-pressure-ic)"/>
+  <path d="M208.7 89.9L211 95.5L213.8 100.5L217 105.1L220.6 109.1L224.4 112.5L228.5 115.3L232.7 117.5L236.9 119L241.1 120L245.2 120.4L249.1 120.2L252.9 119.5L256.3 118.3L259.3 116.7L262 114.8L264.2 112.5" fill="none" stroke="var(--ic)" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ear-pressure-ic)"/>
+  <path d="M305.6 52.2L299.6 51.4L293.8 51.3L288.2 51.8L283 52.9L278.1 54.5L273.7 56.6L269.7 59.2L266.2 62L263.3 65.2L260.9 68.6L259.1 72.1L257.8 75.6L257.1 79.2L257 82.6L257.4 85.9L258.2 89" fill="none" stroke="var(--ic)" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ear-pressure-ic)"/>
+  <text x="268" y="104" font-size="14" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">L</text>
+  <text x="268" y="170" font-size="13" text-anchor="middle" fill="var(--fig-ink)">逆時鐘向內吹，</text>
+  <text x="268" y="190" font-size="13" text-anchor="middle" fill="var(--fig-ink)">空氣上升，易下雨</text>
+  <rect x="8" y="207" width="344" height="28" rx="4" fill="var(--fig-cool)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <text x="180" y="226" font-size="12" text-anchor="middle" fill="var(--fig-ink)">風由高氣壓吹向低氣壓；等壓線愈密，風愈強</text>
+</svg>

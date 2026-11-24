@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 265" role="img">
+  <title>五類脊椎動物依呼吸、體表和生殖特徵並列比較。</title>
+  <text x="180" y="20" font-size="14" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">脊椎動物五大類</text>
+  <rect x="8" y="32" width="344" height="223" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.3"/>
+  <path d="M13 32H347Q352 32 352 37V62H8V37Q8 32 13 32Z" fill="var(--fig-cool)" stroke="var(--fig-line)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M62 32v223" fill="none" stroke="var(--fig-line)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M171 32v223" fill="none" stroke="var(--fig-line)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M236 32v223" fill="none" stroke="var(--fig-line)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="35" y="51" font-size="13" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">類別</text>
+  <text x="116.5" y="51" font-size="13" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">呼吸</text>
+  <text x="203.5" y="51" font-size="13" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">體表</text>
+  <text x="294" y="51" font-size="13" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">生殖</text>
+  <path d="M8 62h344" fill="none" stroke="var(--fig-line)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="35" y="82" font-size="13" text-anchor="middle" fill="var(--fig-ink)">魚類</text>
+  <text x="116.5" y="82" font-size="13" text-anchor="middle" fill="var(--fig-ink)">鰓</text>
+  <text x="203.5" y="82" font-size="12" text-anchor="middle" fill="var(--fig-ink)">鱗片</text>
+  <text x="294" y="82" font-size="13" text-anchor="middle" fill="var(--fig-ink)">體外受精、卵生</text>
+  <path d="M8 94h344" fill="none" stroke="var(--fig-line)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="35" y="121.5" font-size="13" text-anchor="middle" fill="var(--fig-ink)">兩生類</text>
+  <text x="116.5" y="113.5" font-size="13" text-anchor="middle" fill="var(--fig-ink)">幼體用鰓，</text>
+  <text x="116.5" y="129.5" font-size="13" text-anchor="middle" fill="var(--fig-ink)">成體用肺和皮膚</text>
+  <text x="203.5" y="121.5" font-size="12" text-anchor="middle" fill="var(--fig-ink)">皮膚溼潤</text>
+  <text x="294" y="121.5" font-size="13" text-anchor="middle" fill="var(--fig-ink)">體外受精、卵生</text>
+  <path d="M8 141h344" fill="none" stroke="var(--fig-line)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="35" y="163" font-size="13" text-anchor="middle" fill="var(--fig-ink)">爬蟲類</text>
+  <text x="116.5" y="163" font-size="13" text-anchor="middle" fill="var(--fig-ink)">肺</text>
+  <text x="203.5" y="163" font-size="12" text-anchor="middle" fill="var(--fig-ink)">鱗片或骨板</text>
+  <text x="294" y="163" font-size="13" text-anchor="middle" fill="var(--fig-ink)">體內受精、有殼卵</text>
+  <path d="M8 177h344" fill="none" stroke="var(--fig-line)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="35" y="197" font-size="13" text-anchor="middle" fill="var(--fig-ink)">鳥類</text>
+  <text x="116.5" y="197" font-size="13" text-anchor="middle" fill="var(--fig-ink)">肺</text>
+  <text x="203.5" y="197" font-size="12" text-anchor="middle" fill="var(--fig-ink)">羽毛</text>
+  <text x="294" y="197" font-size="13" text-anchor="middle" fill="var(--fig-ink)">體內受精、有殼卵</text>
+  <path d="M8 209h344" fill="none" stroke="var(--fig-line)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="35" y="236" font-size="13" text-anchor="middle" fill="var(--fig-ink)">哺乳類</text>
+  <text x="116.5" y="236" font-size="13" text-anchor="middle" fill="var(--fig-ink)">肺</text>
+  <text x="203.5" y="236" font-size="12" text-anchor="middle" fill="var(--fig-ink)">毛髮</text>
+  <text x="294" y="228" font-size="13" text-anchor="middle" fill="var(--fig-ink)">體內受精、</text>
+  <text x="294" y="244" font-size="13" text-anchor="middle" fill="var(--fig-ink)">大多胎生</text>
+</svg>

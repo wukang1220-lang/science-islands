@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 255" role="img">
+  <title>正號、負號和零分別表示兩種生物在互動中獲益、受損或沒有明顯影響。</title>
+  <text x="180" y="20" font-size="14" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">生物間的互動關係</text>
+  <rect x="8" y="32" width="344" height="180" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.3"/>
+  <path d="M13 32H347Q352 32 352 37V62H8V37Q8 32 13 32Z" fill="var(--fig-cool)" stroke="var(--fig-line)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M85 32v180" fill="none" stroke="var(--fig-line)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M120 32v180" fill="none" stroke="var(--fig-line)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M155 32v180" fill="none" stroke="var(--fig-line)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="46.5" y="51" font-size="13" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">關係</text>
+  <text x="102.5" y="51" font-size="13" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">甲</text>
+  <text x="137.5" y="51" font-size="13" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">乙</text>
+  <text x="253.5" y="51" font-size="13" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">例子</text>
+  <path d="M8 62h344" fill="none" stroke="var(--fig-line)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="46.5" y="81" font-size="13" text-anchor="middle" fill="var(--fig-ink)">掠食</text>
+  <text x="102.5" y="81" font-size="13" text-anchor="middle" fill="var(--fig-ink)">＋</text>
+  <text x="137.5" y="81" font-size="13" text-anchor="middle" fill="var(--fig-ink)">－</text>
+  <text x="163" y="81" font-size="13" text-anchor="start" fill="var(--fig-ink)">貓頭鷹捕食老鼠</text>
+  <path d="M8 92h344" fill="none" stroke="var(--fig-line)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="46.5" y="111" font-size="13" text-anchor="middle" fill="var(--fig-ink)">競爭</text>
+  <text x="102.5" y="111" font-size="13" text-anchor="middle" fill="var(--fig-ink)">－</text>
+  <text x="137.5" y="111" font-size="13" text-anchor="middle" fill="var(--fig-ink)">－</text>
+  <text x="163" y="111" font-size="13" text-anchor="start" fill="var(--fig-ink)">稗草和水稻</text>
+  <path d="M8 122h344" fill="none" stroke="var(--fig-line)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="46.5" y="141" font-size="13" text-anchor="middle" fill="var(--fig-ink)">寄生</text>
+  <text x="102.5" y="141" font-size="13" text-anchor="middle" fill="var(--fig-ink)">＋</text>
+  <text x="137.5" y="141" font-size="13" text-anchor="middle" fill="var(--fig-ink)">－</text>
+  <text x="163" y="141" font-size="13" text-anchor="start" fill="var(--fig-ink)">跳蚤和狗</text>
+  <path d="M8 152h344" fill="none" stroke="var(--fig-line)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="46.5" y="171" font-size="13" text-anchor="middle" fill="var(--fig-ink)">互利共生</text>
+  <text x="102.5" y="171" font-size="13" text-anchor="middle" fill="var(--fig-ink)">＋</text>
+  <text x="137.5" y="171" font-size="13" text-anchor="middle" fill="var(--fig-ink)">＋</text>
+  <text x="163" y="171" font-size="13" text-anchor="start" fill="var(--fig-ink)">豆科植物和根瘤菌</text>
+  <path d="M8 182h344" fill="none" stroke="var(--fig-line)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="46.5" y="201" font-size="13" text-anchor="middle" fill="var(--fig-ink)">片利共生</text>
+  <text x="102.5" y="201" font-size="13" text-anchor="middle" fill="var(--fig-ink)">＋</text>
+  <text x="137.5" y="201" font-size="13" text-anchor="middle" fill="var(--fig-ink)">0</text>
+  <text x="163" y="201" font-size="13" text-anchor="start" fill="var(--fig-ink)">印魚和鯊魚</text>
+  <rect x="9" y="222" width="342" height="26" rx="5" fill="var(--fig-cool)" stroke="var(--fig-line)" stroke-width="1.3"/>
+  <text x="180" y="239" font-size="12" text-anchor="middle" fill="var(--fig-ink)">＋ 得到好處　－ 受到損害　0 沒有明顯影響</text>
+</svg>

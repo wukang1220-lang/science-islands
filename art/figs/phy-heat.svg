@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 232" role="img">
+  <title>熱由高溫的水傳向低溫的水，最後兩杯水達到相同的平衡溫度。</title>
+  <defs><marker id="phy-heat-ink" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto" markerUnits="userSpaceOnUse"><path d="M1 1L6 3.5L1 6" fill="none" stroke="var(--fig-ink)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker><marker id="phy-heat-ic" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto" markerUnits="userSpaceOnUse"><path d="M1 1L6 3.5L1 6" fill="none" stroke="var(--ic)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>
+  <text x="180" y="20" text-anchor="middle" font-size="14" fill="var(--fig-ink)" font-weight="600">熱量與熱平衡</text>
+  <path d="M46 82q15-4 12 8-2 8-14 9" fill="none" stroke="var(--fig-ink)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M13 75h34l-3 37q0 3-4 3h-21q-3 0-3-3Z" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M15 84q8-2 15 0t15 0l-2 26q0 3-3 3h-21l-2-2Z" fill="var(--fig-warm)" stroke="none" stroke-width="0" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M16 84q8-2 15 0t14 0" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M144 82q15-4 12 8-2 8-14 9" fill="none" stroke="var(--fig-ink)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M111 75h34l-3 37q0 3-4 3h-21q-3 0-3-3Z" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M113 84q8-2 15 0t15 0l-2 26q0 3-3 3h-21l-2-2Z" fill="var(--fig-cool)" stroke="none" stroke-width="0" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M114 84q8-2 15 0t14 0" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M254 82q15-4 12 8-2 8-14 9" fill="none" stroke="var(--fig-ink)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M221 75h34l-3 37q0 3-4 3h-21q-3 0-3-3Z" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M223 84q8-2 15 0t15 0l-2 26q0 3-3 3h-21l-2-2Z" fill="var(--fig-sand)" stroke="none" stroke-width="0" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M224 84q8-2 15 0t14 0" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M321 82q15-4 12 8-2 8-14 9" fill="none" stroke="var(--fig-ink)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M288 75h34l-3 37q0 3-4 3h-21q-3 0-3-3Z" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M290 84q8-2 15 0t15 0l-2 26q0 3-3 3h-21l-2-2Z" fill="var(--fig-sand)" stroke="none" stroke-width="0" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M291 84q8-2 15 0t14 0" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="30" y="63" text-anchor="middle" font-size="12" fill="var(--fig-ink)">80 °C</text>
+  <text x="128" y="63" text-anchor="middle" font-size="12" fill="var(--fig-ink)">20 °C</text>
+  <text x="84" y="77" text-anchor="middle" font-size="12" fill="var(--fig-ink)">熱量</text>
+  <path d="M63 93h39" fill="none" stroke="var(--ic)" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#phy-heat-ic)"/>
+  <path d="M171 93h34" fill="none" stroke="var(--fig-ink)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#phy-heat-ink)"/>
+  <text x="269" y="61" text-anchor="middle" font-size="13" fill="var(--fig-ink)" font-weight="600">平衡溫度</text>
+  <text x="273" y="140" text-anchor="middle" font-size="12" fill="var(--fig-ink)">介於兩者之間</text>
+  <rect x="8" y="158" width="344" height="28" rx="4" fill="var(--fig-paper)" stroke="var(--fig-line)"/>
+  <text x="180" y="177" text-anchor="middle" font-size="12" fill="var(--fig-ink)">1 卡：1 g 的水升高 1 °C 所吸收的熱量</text>
+  <rect x="8" y="194" width="344" height="28" rx="4" fill="var(--fig-cool)" stroke="var(--fig-line)"/>
+  <text x="180" y="213" text-anchor="middle" font-size="12" fill="var(--fig-ink)">不計散失：高溫放出的熱＝低溫吸收的熱</text>
+</svg>

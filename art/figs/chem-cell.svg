@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 254" role="img">
+  <title>電子從鋅片經燈泡流向銅片，鹽橋連接兩側的溶液。</title>
+  <text x="180" y="21" font-size="14" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">鋅銅電池</text>
+  <defs><marker id="chem-cell-arrow" markerWidth="7" markerHeight="7" refX="6.5" refY="3.5" orient="auto" markerUnits="userSpaceOnUse"><path d="M0 0L7 3.5L0 7Z" fill="var(--fig-ink)"/></marker></defs>
+  <path d="M67 110V61Q67 56 72 56H170M190 56H288Q293 56 293 61V110" fill="none" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M91 56H145" fill="none" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#chem-cell-arrow)"/>
+  <text x="119" y="46" font-size="12" text-anchor="middle" fill="var(--fig-ink)">電子流</text>
+  <circle cx="180" cy="56" r="10" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.5"/>
+  <path d="M174 50l12 12m0 -12l-12 12" fill="none" stroke="var(--fig-ink)" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M27 146h127v43q0 4 -4 4h-119q-4 0 -4 -4Z" fill="var(--fig-sea)" stroke="none" stroke-width="0" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M26 146h129" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M21 121l4 3v65q0 5 5 5h121q5 0 5 -5V124" fill="none" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M206 146h127v43q0 4 -4 4h-119q-4 0 -4 -4Z" fill="var(--fig-sea)" stroke="none" stroke-width="0" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M205 146h129" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M200 121l4 3v65q0 5 5 5h121q5 0 5 -5V124" fill="none" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="60" y="104" width="14" height="64" rx="2" fill="var(--fig-cool)" stroke="var(--ic)" stroke-width="2"/>
+  <rect x="286" y="104" width="14" height="64" rx="2" fill="var(--fig-warm)" stroke="var(--fig-ink)" stroke-width="1.5"/>
+  <path d="M128 161V118Q128 98 148 98H212Q232 98 232 118V161" fill="none" stroke="var(--fig-ink)" stroke-width="9" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M128 161V118Q128 98 148 98H212Q232 98 232 118V161" fill="none" stroke="var(--fig-paper)" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="180" y="88" font-size="12" text-anchor="middle" fill="var(--fig-ink)">鹽橋</text>
+  <text x="42" y="95" font-size="12" text-anchor="middle" fill="var(--fig-ink)">鋅片</text>
+  <path d="M45 99L58 108" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="318" y="95" font-size="12" text-anchor="middle" fill="var(--fig-ink)">銅片</text>
+  <path d="M315 99L302 108" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="90" y="186" font-size="13" text-anchor="middle" fill="var(--fig-ink)">硫酸鋅溶液</text>
+  <text x="270" y="186" font-size="13" text-anchor="middle" fill="var(--fig-ink)">硫酸銅溶液</text>
+  <rect x="8" y="205" width="168" height="41" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <rect x="184" y="205" width="168" height="41" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <text x="92" y="230" font-size="12" text-anchor="middle" fill="var(--fig-ink)">負極：鋅失去電子（氧化）</text>
+  <text x="268" y="222" font-size="12" text-anchor="middle" fill="var(--fig-ink)">正極：Cu²⁺ 得到電子析出銅</text>
+  <text x="268" y="239" font-size="12" text-anchor="middle" fill="var(--fig-ink)">（還原）</text>
+</svg>

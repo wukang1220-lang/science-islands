@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 252" role="img">
+  <title>六種分離方法各利用不同的物質性質，表中列出對應的例子。</title>
+  <text x="180" y="20" text-anchor="middle" font-size="14" font-weight="600" fill="var(--fig-ink)">混合物的分離</text>
+  <rect x="8" y="32" width="344" height="210" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <path d="M13 32H347Q352 32 352 37V62H8V37Q8 32 13 32Z" fill="var(--fig-cool)" stroke="var(--fig-line)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M75 32V242 M214 32V242 M8 92H352 M8 122H352 M8 152H352 M8 182H352 M8 212H352" fill="none" stroke="var(--fig-line)" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="41.5" y="52" text-anchor="middle" font-size="13" font-weight="600" fill="var(--fig-ink)">方法</text>
+  <text x="144.5" y="52" text-anchor="middle" font-size="13" font-weight="600" fill="var(--fig-ink)">利用的性質差異</text>
+  <text x="283" y="52" text-anchor="middle" font-size="13" font-weight="600" fill="var(--fig-ink)">例子</text>
+  <text x="41.5" y="82" text-anchor="middle" font-size="12" font-weight="600" fill="var(--fig-ink)">過濾</text>
+  <text x="144.5" y="82" text-anchor="middle" font-size="12" fill="var(--fig-ink)">顆粒大小</text>
+  <text x="283" y="82" text-anchor="middle" font-size="12" fill="var(--fig-ink)">沙子和食鹽水</text>
+  <text x="41.5" y="112" text-anchor="middle" font-size="12" font-weight="600" fill="var(--fig-ink)">蒸發</text>
+  <text x="144.5" y="112" text-anchor="middle" font-size="12" fill="var(--fig-ink)">沸點高低</text>
+  <text x="283" y="112" text-anchor="middle" font-size="12" fill="var(--fig-ink)">由食鹽水得到食鹽</text>
+  <text x="41.5" y="142" text-anchor="middle" font-size="12" font-weight="600" fill="var(--fig-ink)">結晶</text>
+  <text x="144.5" y="142" text-anchor="middle" font-size="12" fill="var(--fig-ink)">溶解度隨溫度變化</text>
+  <text x="283" y="142" text-anchor="middle" font-size="12" fill="var(--fig-ink)">冷卻硝酸鉀溶液</text>
+  <text x="41.5" y="172" text-anchor="middle" font-size="12" font-weight="600" fill="var(--fig-ink)">蒸餾</text>
+  <text x="144.5" y="172" text-anchor="middle" font-size="12" fill="var(--fig-ink)">沸點高低</text>
+  <text x="283" y="172" text-anchor="middle" font-size="12" fill="var(--fig-ink)">由海水得到淡水</text>
+  <text x="41.5" y="202" text-anchor="middle" font-size="12" font-weight="600" fill="var(--fig-ink)">色層分析</text>
+  <text x="144.5" y="202" text-anchor="middle" font-size="12" fill="var(--fig-ink)">在濾紙上移動的快慢</text>
+  <text x="283" y="202" text-anchor="middle" font-size="12" fill="var(--fig-ink)">分出墨水的色素</text>
+  <text x="41.5" y="232" text-anchor="middle" font-size="12" font-weight="600" fill="var(--fig-ink)">磁鐵吸引</text>
+  <text x="144.5" y="232" text-anchor="middle" font-size="12" fill="var(--fig-ink)">磁性</text>
+  <text x="283" y="232" text-anchor="middle" font-size="12" fill="var(--fig-ink)">鐵粉和沙子</text>
+</svg>

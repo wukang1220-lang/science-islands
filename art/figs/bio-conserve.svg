@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 231" role="img">
+  <title>圖中比較就地保育與移地保育的作法和例子，並列出相關國際公約。</title>
+  <text x="180" y="20" font-size="14" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">保育的方式</text>
+  <rect x="8" y="33" width="167" height="129" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.3"/>
+  <rect x="8" y="33" width="167" height="28" rx="4" fill="var(--fig-cool)" stroke="var(--ic)" stroke-width="2"/>
+  <text x="91.5" y="52" font-size="13" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">就地保育</text>
+  <text x="91.5" y="84" font-size="13" text-anchor="middle" fill="var(--fig-ink)">在生物原本的棲地保護</text>
+  <path d="M19 95h145" fill="none" stroke="var(--fig-line)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="91.5" y="112" font-size="13" text-anchor="middle" fill="var(--fig-ink)">國家公園、</text>
+  <text x="91.5" y="130" font-size="13" text-anchor="middle" fill="var(--fig-ink)">自然保留區、</text>
+  <text x="91.5" y="148" font-size="13" text-anchor="middle" fill="var(--fig-ink)">野生動物保護區</text>
+  <rect x="185" y="33" width="167" height="129" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.3"/>
+  <rect x="185" y="33" width="167" height="28" rx="4" fill="var(--fig-cool)" stroke="var(--fig-line)" stroke-width="1.3"/>
+  <text x="268.5" y="52" font-size="13" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">移地保育</text>
+  <text x="268.5" y="84" font-size="13" text-anchor="middle" fill="var(--fig-ink)">把生物移到其他地方保護</text>
+  <path d="M196 95h145" fill="none" stroke="var(--fig-line)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="268.5" y="112" font-size="13" text-anchor="middle" fill="var(--fig-ink)">動物園、</text>
+  <text x="268.5" y="130" font-size="13" text-anchor="middle" fill="var(--fig-ink)">植物園、</text>
+  <text x="268.5" y="148" font-size="13" text-anchor="middle" fill="var(--fig-ink)">種子庫</text>
+  <rect x="9" y="174" width="342" height="47" rx="5" fill="var(--fig-cool)" stroke="var(--fig-line)" stroke-width="1.3"/>
+  <text x="180" y="192.5" font-size="12" text-anchor="middle" fill="var(--fig-ink)">國際公約：華盛頓公約（管制瀕危物種貿易）、</text>
+  <text x="180" y="210.5" font-size="12" text-anchor="middle" fill="var(--fig-ink)">生物多樣性公約、拉姆薩公約（溼地）</text>
+</svg>

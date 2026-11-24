@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 208" role="img">
+  <title>三種狀態的粒子排列不同，體積與形狀的特性也不同。</title>
+  <text x="180" y="20" text-anchor="middle" font-size="14" font-weight="600" fill="var(--fig-ink)">物質的三態</text>
+  <rect x="6" y="32" width="112" height="154" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <text x="62" y="53" text-anchor="middle" font-size="13" font-weight="600" fill="var(--fig-ink)">固態</text>
+  <rect x="20" y="64" width="84" height="59" rx="2" fill="none" stroke="var(--fig-soft)" stroke-width="1.2"/>
+  <text x="62" y="148" text-anchor="middle" font-size="12" fill="var(--fig-ink)">體積：一定</text>
+  <text x="62" y="170" text-anchor="middle" font-size="12" fill="var(--fig-ink)">形狀：一定</text>
+  <rect x="124" y="32" width="112" height="154" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <text x="180" y="53" text-anchor="middle" font-size="13" font-weight="600" fill="var(--fig-ink)">液態</text>
+  <rect x="138" y="64" width="84" height="59" rx="2" fill="none" stroke="var(--fig-soft)" stroke-width="1.2"/>
+  <text x="180" y="148" text-anchor="middle" font-size="12" fill="var(--fig-ink)">體積：一定</text>
+  <text x="180" y="170" text-anchor="middle" font-size="12" fill="var(--fig-ink)">形狀：隨容器改變</text>
+  <rect x="242" y="32" width="112" height="154" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <text x="298" y="53" text-anchor="middle" font-size="13" font-weight="600" fill="var(--fig-ink)">氣態</text>
+  <rect x="256" y="64" width="84" height="59" rx="2" fill="none" stroke="var(--fig-soft)" stroke-width="1.2"/>
+  <text x="298" y="148" text-anchor="middle" font-size="12" fill="var(--fig-ink)">體積：不一定</text>
+  <text x="298" y="170" text-anchor="middle" font-size="12" fill="var(--fig-ink)">形狀：隨容器改變</text>
+  <circle cx="38" cy="92" r="5.4" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.2"/>
+  <circle cx="50" cy="92" r="5.4" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.2"/>
+  <circle cx="62" cy="92" r="5.4" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.2"/>
+  <circle cx="74" cy="92" r="5.4" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.2"/>
+  <circle cx="86" cy="92" r="5.4" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.2"/>
+  <circle cx="38" cy="104" r="5.4" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.2"/>
+  <circle cx="50" cy="104" r="5.4" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.2"/>
+  <circle cx="62" cy="104" r="5.4" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.2"/>
+  <circle cx="74" cy="104" r="5.4" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.2"/>
+  <circle cx="86" cy="104" r="5.4" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.2"/>
+  <circle cx="38" cy="116" r="5.4" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.2"/>
+  <circle cx="50" cy="116" r="5.4" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.2"/>
+  <circle cx="62" cy="116" r="5.4" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.2"/>
+  <circle cx="74" cy="116" r="5.4" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.2"/>
+  <circle cx="86" cy="116" r="5.4" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.2"/>
+  <circle cx="145" cy="116" r="5.4" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.2"/>
+  <circle cx="157" cy="116" r="5.4" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.2"/>
+  <circle cx="169" cy="117" r="5.4" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.2"/>
+  <circle cx="181" cy="115" r="5.4" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.2"/>
+  <circle cx="193" cy="117" r="5.4" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.2"/>
+  <circle cx="205" cy="115" r="5.4" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.2"/>
+  <circle cx="217" cy="117" r="5.4" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.2"/>
+  <circle cx="151" cy="105" r="5.4" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.2"/>
+  <circle cx="163" cy="106" r="5.4" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.2"/>
+  <circle cx="177" cy="104" r="5.4" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.2"/>
+  <circle cx="188" cy="105" r="5.4" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.2"/>
+  <circle cx="201" cy="104" r="5.4" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.2"/>
+  <circle cx="213" cy="105" r="5.4" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.2"/>
+  <circle cx="169" cy="95" r="5.4" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.2"/>
+  <circle cx="192" cy="94" r="5.4" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.2"/>
+  <path d="M264 80l5 -2 M269 84l4 -2 M316 77l5 3 M318 73l5 3 M282 110l-6 2 M314 107l6 -3" fill="none" stroke="var(--fig-soft)" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="278" cy="77" r="5.4" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.2"/>
+  <circle cx="309" cy="73" r="5.4" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.2"/>
+  <circle cx="288" cy="108" r="5.4" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.2"/>
+  <circle cx="307" cy="110" r="5.4" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.2"/>
+  <text x="350" y="202" text-anchor="end" font-size="11" fill="var(--fig-soft)">示意圖</text>
+</svg>

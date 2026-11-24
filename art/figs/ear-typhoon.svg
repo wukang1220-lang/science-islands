@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 233" role="img">
+  <title>北半球颱風逆時鐘旋轉，颱風眼外圍的眼牆風雨最強。</title>
+  <defs><marker id="ear-typhoon-ic" markerWidth="8" markerHeight="8" refX="6.5" refY="4" orient="auto" markerUnits="userSpaceOnUse"><path d="M1 1L6.5 4L1 7" fill="none" stroke="var(--ic)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>
+  <text x="180" y="20" font-size="14" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">颱風與災變天氣</text>
+  <rect x="181" y="40" width="173" height="179" rx="4" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <rect x="181" y="40" width="173" height="31" rx="4" fill="var(--fig-cool)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <path d="M225 40V219M181 71H354M181 108H354M181 145H354M181 182H354" fill="none" stroke="var(--fig-line)" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="203" y="61" font-size="13" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">災害</text>
+  <text x="289" y="61" font-size="13" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">特點</text>
+  <text x="203" y="95" font-size="12" text-anchor="middle" fill="var(--fig-ink)">颱風</text>
+  <text x="232" y="95" font-size="12" text-anchor="start" fill="var(--fig-ink)">7～9 月，強風豪雨</text>
+  <text x="203" y="132" font-size="12" text-anchor="middle" fill="var(--fig-ink)">梅雨</text>
+  <text x="232" y="132" font-size="12" text-anchor="start" fill="var(--fig-ink)">5～6 月，滯留鋒</text>
+  <text x="203" y="169" font-size="12" text-anchor="middle" fill="var(--fig-ink)">寒流</text>
+  <text x="232" y="169" font-size="12" text-anchor="start" fill="var(--fig-ink)">冬季，氣溫驟降</text>
+  <text x="203" y="206" font-size="12" text-anchor="middle" fill="var(--fig-ink)">乾旱</text>
+  <text x="232" y="206" font-size="12" text-anchor="start" fill="var(--fig-ink)">降雨少</text>
+  <path d="M102.3 110.1L105.5 110.9L108.6 112.5L111.6 114.8L114.2 117.8L116.4 121.4L118.1 125.6L119.1 130.2L119.4 135.3L118.8 140.6L117.3 146L114.9 151.4L111.6 156.7L107.3 161.6L102.1 166L96.1 169.9L89.4 172.9L81.9 175L74 176.1L81.8 176L89.4 174.9L96.5 172.8L103.1 169.8L109.1 165.9L114.2 161.2L118.3 155.9L121.4 150.3L123.5 144.3L124.4 138.3L124.3 132.5L123.1 127L121 122.1L118.1 117.9L114.5 114.5L110.6 112.1L106.5 110.6Z" fill="var(--fig-cool)" stroke="var(--fig-soft)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M95.9 130.3L95.1 133.5L93.5 136.6L91.2 139.6L88.2 142.2L84.6 144.4L80.4 146.1L75.8 147.1L70.7 147.4L65.4 146.8L60 145.3L54.6 142.9L49.3 139.6L44.4 135.3L40 130.1L36.1 124.1L33.1 117.4L31 109.9L29.9 102L30 109.8L31.1 117.4L33.2 124.5L36.2 131.1L40.1 137.1L44.8 142.2L50.1 146.3L55.7 149.4L61.7 151.5L67.7 152.4L73.5 152.3L79 151.1L83.9 149L88.1 146.1L91.5 142.5L93.9 138.6L95.4 134.5Z" fill="var(--fig-cool)" stroke="var(--fig-soft)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M75.7 123.9L72.5 123.1L69.4 121.5L66.4 119.2L63.8 116.2L61.6 112.6L59.9 108.4L58.9 103.8L58.6 98.7L59.2 93.4L60.7 88L63.1 82.6L66.4 77.3L70.7 72.4L75.9 68L81.9 64.1L88.6 61.1L96.1 59L104 57.9L96.2 58L88.6 59.1L81.5 61.2L74.9 64.2L68.9 68.1L63.8 72.8L59.7 78.1L56.6 83.7L54.5 89.7L53.6 95.7L53.7 101.5L54.9 107L57 111.9L59.9 116.1L63.5 119.5L67.4 121.9L71.5 123.4Z" fill="var(--fig-cool)" stroke="var(--fig-soft)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M82.1 103.7L82.9 100.5L84.5 97.4L86.8 94.4L89.8 91.8L93.4 89.6L97.6 87.9L102.2 86.9L107.3 86.6L112.6 87.2L118 88.7L123.4 91.1L128.7 94.4L133.6 98.7L138 103.9L141.9 109.9L144.9 116.6L147 124.1L148.1 132L148 124.2L146.9 116.6L144.8 109.5L141.8 102.9L137.9 96.9L133.2 91.8L127.9 87.7L122.3 84.6L116.3 82.5L110.3 81.6L104.5 81.7L99 82.9L94.1 85L89.9 87.9L86.5 91.5L84.1 95.4L82.6 99.5Z" fill="var(--fig-cool)" stroke="var(--fig-soft)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="89" cy="117" r="12" fill="var(--fig-cool)" stroke="var(--ic)" stroke-width="1.8"/>
+  <circle cx="89" cy="117" r="6" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1.1"/>
+  <path d="M91 116L111 63H132" fill="none" stroke="var(--fig-ink)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" paint-order="stroke"/>
+  <text x="136" y="67" font-size="12" text-anchor="start" fill="var(--fig-ink)">颱風眼</text>
+  <path d="M80 125L48 179H30" fill="none" stroke="var(--fig-ink)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="12" y="195" font-size="12" text-anchor="start" fill="var(--fig-ink)">眼牆（風雨最強）</text>
+  <path d="M75 49Q51 54 36 72" fill="none" stroke="var(--ic)" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ear-typhoon-ic)"/>
+  <path d="M150 148Q158 131 157 114" fill="none" stroke="var(--ic)" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ear-typhoon-ic)"/>
+  <text x="90" y="219" font-size="13" text-anchor="middle" fill="var(--fig-ink)">北半球逆時鐘旋轉</text>
+</svg>

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 275" role="img">
+  <title>週期表依原子序排列，橫列為週期，直行為族，階梯線標示金屬與非金屬的分區。</title>
+  <text x="180" y="20" text-anchor="middle" font-size="14" font-weight="600" fill="var(--fig-ink)">週期表的分區</text>
+  <text x="41" y="45" text-anchor="middle" font-size="12" font-weight="600" fill="var(--fig-ink)">鹼金屬</text>
+  <text x="41" y="61" text-anchor="middle" font-size="11" fill="var(--fig-soft)">氫除外</text>
+  <text x="103" y="65" text-anchor="middle" font-size="12" font-weight="600" fill="var(--fig-ink)">鹼土金屬</text>
+  <text x="279" y="63" text-anchor="middle" font-size="12" font-weight="600" fill="var(--fig-ink)">鹵素</text>
+  <text x="331" y="45" text-anchor="middle" font-size="12" font-weight="600" fill="var(--fig-ink)">鈍氣</text>
+  <path d="M41 66l-5 8v31h6 M91 70L67.5 86v10 M281 68l41.5 16v12 M332 51l7.5 14v18" fill="none" stroke="var(--fig-soft)" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M42 86H59V99H42Z" fill="none" stroke="var(--fig-soft)" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M331 86H348V99H331Z" fill="none" stroke="var(--fig-soft)" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M42 99H76V112H42ZM59 99v13" fill="none" stroke="var(--fig-soft)" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M246 99H348V112H246ZM263 99v13M280 99v13M297 99v13M314 99v13M331 99v13" fill="none" stroke="var(--fig-soft)" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M42 112H76V125H42ZM59 112v13" fill="none" stroke="var(--fig-soft)" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M246 112H348V125H246ZM263 112v13M280 112v13M297 112v13M314 112v13M331 112v13" fill="none" stroke="var(--fig-soft)" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M42 125H348V138H42ZM59 125v13M76 125v13M93 125v13M110 125v13M127 125v13M144 125v13M161 125v13M178 125v13M195 125v13M212 125v13M229 125v13M246 125v13M263 125v13M280 125v13M297 125v13M314 125v13M331 125v13" fill="none" stroke="var(--fig-soft)" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M42 138H348V151H42ZM59 138v13M76 138v13M93 138v13M110 138v13M127 138v13M144 138v13M161 138v13M178 138v13M195 138v13M212 138v13M229 138v13M246 138v13M263 138v13M280 138v13M297 138v13M314 138v13M331 138v13" fill="none" stroke="var(--fig-soft)" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M42 151H348V164H42ZM59 151v13M76 151v13M93 151v13M110 151v13M127 151v13M144 151v13M161 151v13M178 151v13M195 151v13M212 151v13M229 151v13M246 151v13M263 151v13M280 151v13M297 151v13M314 151v13M331 151v13" fill="none" stroke="var(--fig-soft)" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M42 164H348V177H42ZM59 164v13M76 164v13M93 164v13M110 164v13M127 164v13M144 164v13M161 164v13M178 164v13M195 164v13M212 164v13M229 164v13M246 164v13M263 164v13M280 164v13M297 164v13M314 164v13M331 164v13" fill="none" stroke="var(--fig-soft)" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="331" y="86" width="17" height="91" rx="0" fill="none" stroke="var(--ic)" stroke-width="2"/>
+  <path d="M246 112h17v13h17v13h17v13h17v13h17" fill="none" stroke="var(--fig-ink)" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="160" y="116" text-anchor="middle" font-size="12" font-weight="600" fill="var(--fig-ink)">金屬</text>
+  <path d="M160 119v9" fill="none" stroke="var(--fig-ink)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="212" y="82" text-anchor="middle" font-size="12" font-weight="600" fill="var(--fig-ink)">非金屬</text>
+  <path d="M235 80h32l17 23" fill="none" stroke="var(--fig-ink)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M29 88v89l-3 -5 M29 177l3 -5 M45 190h301l-5 -3 M346 190l-5 3" fill="none" stroke="var(--fig-ink)" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M27 180v26h9" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="39" y="210" text-anchor="start" font-size="12" fill="var(--fig-ink)">族（直行，共 18 族）</text>
+  <text x="246" y="210" text-anchor="middle" font-size="12" fill="var(--fig-ink)">週期（橫列，共 7 個）</text>
+  <rect x="8" y="222" width="344" height="28" rx="5" fill="var(--fig-cool)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <text x="180" y="240" text-anchor="middle" font-size="12" fill="var(--fig-ink)">依原子序排列</text>
+  <text x="350" y="267" text-anchor="end" font-size="11" fill="var(--fig-soft)">示意圖</text>
+</svg>

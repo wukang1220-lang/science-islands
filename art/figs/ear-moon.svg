@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 262" role="img">
+  <title>月球向陽的一半始終受光，從地球觀察，會依次看見新月、上弦月、滿月與下弦月。</title>
+  <defs><marker id="ear-moon-ic" markerWidth="8" markerHeight="8" refX="6.5" refY="4" orient="auto" markerUnits="userSpaceOnUse"><path d="M1 1L6.5 4L1 7" fill="none" stroke="var(--ic)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker><marker id="ear-moon-ink" markerWidth="8" markerHeight="8" refX="6.5" refY="4" orient="auto" markerUnits="userSpaceOnUse"><path d="M1 1L6.5 4L1 7" fill="none" stroke="var(--fig-ink)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>
+  <text x="180" y="20" font-size="14" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">月相</text>
+  <text x="321" y="99" font-size="13" text-anchor="middle" fill="var(--fig-ink)">陽光</text>
+  <path d="M348 108h-70" fill="none" stroke="var(--ic)" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ear-moon-ic)"/>
+  <path d="M348 119h-70" fill="none" stroke="var(--ic)" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ear-moon-ic)"/>
+  <path d="M348 130h-70" fill="none" stroke="var(--ic)" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ear-moon-ic)"/>
+  <circle cx="180" cy="119" r="56" fill="none" stroke="var(--fig-line)" stroke-width="1.4"/>
+  <path d="M155 69Q140 77 133 88" fill="none" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ear-moon-ink)"/>
+  <circle cx="180" cy="119" r="16" fill="var(--fig-sea)" stroke="var(--fig-ink)" stroke-width="1.4"/>
+  <path d="M167 114l5-7 6 1 4 5-4 4-3 1-2 6-4-5Z M185 124l4-2 4 3-4 5Z" fill="var(--fig-land)" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="236" cy="119" r="9" fill="var(--fig-shade)" stroke="var(--fig-ink)" stroke-width="1.4"/>
+  <path d="M236 110a9 9 0 0 1 0 18Z" fill="var(--fig-warm)" stroke="var(--fig-ink)" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="180" cy="63" r="9" fill="var(--fig-shade)" stroke="var(--fig-ink)" stroke-width="1.4"/>
+  <path d="M180 54a9 9 0 0 1 0 18Z" fill="var(--fig-warm)" stroke="var(--fig-ink)" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="124" cy="119" r="9" fill="var(--fig-shade)" stroke="var(--fig-ink)" stroke-width="1.4"/>
+  <path d="M124 110a9 9 0 0 1 0 18Z" fill="var(--fig-warm)" stroke="var(--fig-ink)" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="180" cy="175" r="9" fill="var(--fig-shade)" stroke="var(--fig-ink)" stroke-width="1.4"/>
+  <path d="M180 166a9 9 0 0 1 0 18Z" fill="var(--fig-warm)" stroke="var(--fig-ink)" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="120" cy="39" r="6" fill="var(--fig-shade)" stroke="var(--fig-ink)" stroke-width="1.4"/>
+  <path d="M120 33a6 6 0 0 1 0 12Z" fill="var(--fig-warm)" stroke="var(--fig-ink)" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="133" y="43" font-size="12" text-anchor="start" fill="var(--fig-ink)">上弦月（初七、八）</text>
+  <circle cx="335" cy="155" r="6" fill="var(--fig-shade)" stroke="var(--fig-ink)" stroke-width="1.4"/>
+  <text x="323" y="159" font-size="12" text-anchor="end" fill="var(--fig-ink)">新月（初一）</text>
+  <circle cx="98" cy="117" r="6" fill="var(--fig-warm)" stroke="var(--fig-ink)" stroke-width="1.4"/>
+  <text x="88" y="121" font-size="12" text-anchor="end" fill="var(--fig-ink)">滿月（十五）</text>
+  <circle cx="100" cy="198" r="6" fill="var(--fig-shade)" stroke="var(--fig-ink)" stroke-width="1.4"/>
+  <path d="M100 192a6 6 0 0 0 0 12Z" fill="var(--fig-warm)" stroke="var(--fig-ink)" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="113" y="202" font-size="12" text-anchor="start" fill="var(--fig-ink)">下弦月（二十二、二十三）</text>
+  <rect x="8" y="215" width="344" height="42" rx="4" fill="var(--fig-cool)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <text x="180" y="232" font-size="12" text-anchor="middle" fill="var(--fig-ink)">日食在初一（月球在日、地之間）；</text>
+  <text x="180" y="249" font-size="12" text-anchor="middle" fill="var(--fig-ink)">月食在十五（地球在日、月之間）</text>
+</svg>

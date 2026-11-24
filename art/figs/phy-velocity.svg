@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 194" role="img">
+  <title>等速度運動的位置圖是一條斜直線，速度圖的水平線下方所圍的面積代表位移。</title>
+  <defs><marker id="phy-velocity-ink" markerWidth="7" markerHeight="7" refX="6.5" refY="3.5" orient="auto" markerUnits="userSpaceOnUse"><path d="M1 1L6.5 3.5L1 6" fill="none" stroke="var(--fig-ink)" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>
+  <text x="180" y="20" font-size="14" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">等速度運動的圖形</text>
+  <path d="M180 35V182" fill="none" stroke="var(--fig-line)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M24 148v-88" fill="none" stroke="var(--fig-ink)" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#phy-velocity-ink)"/>
+  <path d="M24 148h137" fill="none" stroke="var(--fig-ink)" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#phy-velocity-ink)"/>
+  <text x="24" y="52" font-size="12" text-anchor="middle" fill="var(--fig-ink)">位置</text>
+  <text x="155" y="165" font-size="12" text-anchor="middle" fill="var(--fig-ink)">時間</text>
+  <path d="M24 142L149 68" fill="none" stroke="var(--ic)" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M24 89H149" fill="none" stroke="var(--fig-soft)" stroke-width="1.7" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="5 3"/>
+  <text x="57" y="82" font-size="12" text-anchor="middle" fill="var(--fig-ink)">靜止</text>
+  <text x="91" y="187" font-size="13" text-anchor="middle" fill="var(--fig-ink)">等速度：斜率＝速度</text>
+  <rect x="202" y="88" width="123" height="60" rx="0" fill="var(--fig-cool)" stroke="none" stroke-width="1"/>
+  <path d="M202 148v-88" fill="none" stroke="var(--fig-ink)" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#phy-velocity-ink)"/>
+  <path d="M202 148h137" fill="none" stroke="var(--fig-ink)" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#phy-velocity-ink)"/>
+  <text x="202" y="52" font-size="12" text-anchor="middle" fill="var(--fig-ink)">速度</text>
+  <text x="333" y="165" font-size="12" text-anchor="middle" fill="var(--fig-ink)">時間</text>
+  <path d="M202 88H325" fill="none" stroke="var(--ic)" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M325 90V147" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="3 3"/>
+  <text x="262" y="123" font-size="13" text-anchor="middle" fill="var(--fig-ink)">面積＝位移</text>
+</svg>

@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 269" role="img">
+  <title>發電後升壓輸電、降壓供應家庭，家中電器並聯，插座的接地線連到大地。</title>
+  <defs><marker id="phy-home-soft" markerWidth="7" markerHeight="7" refX="6.5" refY="3.5" orient="auto" markerUnits="userSpaceOnUse"><path d="M1 1L6.5 3.5L1 6" fill="none" stroke="var(--fig-soft)" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>
+  <text x="180" y="20" font-size="14" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">電力輸送與家庭用電</text>
+  <text x="181" y="43" font-size="12" text-anchor="middle" fill="var(--fig-ink)">高壓輸電：電流小，損失少</text>
+  <path d="M10 123V99l12 -6v5l10 -6v6l10 -6v31Z" fill="var(--fig-cool)" stroke="var(--fig-ink)" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M14 97l2 -22h5l2 18" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1.3" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M16 111h5m4 0h5m4 0h4" fill="none" stroke="var(--fig-soft)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M46 106h12" fill="none" stroke="var(--fig-soft)" stroke-width="1.3" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#phy-home-soft)"/>
+  <g transform="translate(63 99)">
+  <rect x="0" y="0" width="28" height="18" rx="2" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.3"/>
+  <path d="M6 0v-7m16 7v-7M3 -5h6m10 0h6M6 6v7m5 -7v7m5 -7v7m5 -7v7" fill="none" stroke="var(--fig-soft)" stroke-width="1.1" stroke-linejoin="round" stroke-linecap="round"/>
+  </g>
+  <path d="M95 106h16" fill="none" stroke="var(--fig-soft)" stroke-width="1.3" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#phy-home-soft)"/>
+  <path d="M122 123l11 -58 11 58m-16 -29l12 14 -17 14m15 -28l-12 14 17 14M118 85l15 -11 15 11Zm0 9l15 -9 15 9Z" fill="none" stroke="var(--fig-ink)" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M192 123l11 -58 11 58m-16 -29l12 14 -17 14m15 -28l-12 14 17 14M188 85l15 -11 15 11Zm0 9l15 -9 15 9Z" fill="none" stroke="var(--fig-ink)" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M145 85q23 13 43 0M145 94q23 13 43 0" fill="none" stroke="var(--fig-soft)" stroke-width="1.1" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M219 106h14" fill="none" stroke="var(--fig-soft)" stroke-width="1.3" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#phy-home-soft)"/>
+  <g transform="translate(239 99)">
+  <rect x="0" y="0" width="28" height="18" rx="2" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.3"/>
+  <path d="M6 0v-7m16 7v-7M3 -5h6m10 0h6M6 6v7m5 -7v7m5 -7v7m5 -7v7" fill="none" stroke="var(--fig-soft)" stroke-width="1.1" stroke-linejoin="round" stroke-linecap="round"/>
+  </g>
+  <path d="M273 106h18" fill="none" stroke="var(--fig-soft)" stroke-width="1.3" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#phy-home-soft)"/>
+  <path d="M293 101l23 -20 25 20m-43 -3v25h37V97" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="311" y="107" width="9" height="16" rx="1" fill="var(--fig-cool)" stroke="var(--fig-ink)" stroke-width="1.1"/>
+  <text x="28" y="141" font-size="12" text-anchor="middle" fill="var(--fig-ink)">發電廠</text>
+  <text x="77" y="141" font-size="12" text-anchor="middle" fill="var(--fig-ink)">升壓</text>
+  <text x="252" y="141" font-size="12" text-anchor="middle" fill="var(--fig-ink)">變電所降壓</text>
+  <path d="M316 127v27" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="3 3"/>
+  <rect x="8" y="155" width="344" height="105" rx="6" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1"/>
+  <path d="M23 189h19m28 0h165M23 239h212" fill="none" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="42" y="182" width="28" height="14" rx="2" fill="var(--fig-cool)" stroke="var(--fig-ink)" stroke-width="1.3"/>
+  <path d="M46 191l17 -7" fill="none" stroke="var(--fig-ink)" stroke-width="1.7" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="57" y="176" font-size="12" text-anchor="middle" fill="var(--fig-ink)">無熔絲開關</text>
+  <path d="M96 189v50" fill="none" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="96" cy="189" r="2.2" fill="var(--fig-ink)" stroke="var(--fig-ink)" stroke-width="1"/>
+  <circle cx="96" cy="239" r="2.2" fill="var(--fig-ink)" stroke="var(--fig-ink)" stroke-width="1"/>
+  <path d="M150 189v50" fill="none" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="150" cy="189" r="2.2" fill="var(--fig-ink)" stroke="var(--fig-ink)" stroke-width="1"/>
+  <circle cx="150" cy="239" r="2.2" fill="var(--fig-ink)" stroke="var(--fig-ink)" stroke-width="1"/>
+  <path d="M204 189v50" fill="none" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="204" cy="189" r="2.2" fill="var(--fig-ink)" stroke="var(--fig-ink)" stroke-width="1"/>
+  <circle cx="204" cy="239" r="2.2" fill="var(--fig-ink)" stroke="var(--fig-ink)" stroke-width="1"/>
+  <circle cx="96" cy="213" r="9" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.4"/>
+  <path d="M90 207l12 12m0 -12l-12 12" fill="none" stroke="var(--fig-ink)" stroke-width="1.3" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="143" y="202" width="14" height="21" rx="1" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.3"/>
+  <path d="M150 205l-3 4 6 4 -6 4 3 4" fill="none" stroke="var(--fig-ink)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="204" cy="213" r="10" fill="var(--fig-cool)" stroke="var(--fig-ink)" stroke-width="1.4"/>
+  <path d="M204 212q-10 -12 -2 -5l2 5q14 -4 7 1l-7 0q-2 12 -5 6Z" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="150" y="177" font-size="12" text-anchor="middle" fill="var(--fig-ink)">電器並聯</text>
+  <rect x="252" y="176" width="32" height="46" rx="4" fill="var(--fig-paper)" stroke="var(--fig-soft)" stroke-width="1"/>
+  <path d="M261 186v9m13 -9v9" fill="none" stroke="var(--fig-ink)" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M265 209v-3a3 3 0 0 1 6 0v3Z" fill="var(--fig-cool)" stroke="var(--fig-ink)" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M235 189h10v-7h16v4M235 239h11v-42h28v-2" fill="none" stroke="var(--fig-soft)" stroke-width="1.1" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M268 211v26h44v8m-8 0h16m-13 4h10m-7 4h4" fill="none" stroke="var(--ic)" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="316" y="221" font-size="12" text-anchor="middle" fill="var(--fig-ink)">接地線</text>
+</svg>

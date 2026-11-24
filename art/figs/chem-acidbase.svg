@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 266" role="img">
+  <title>表中比較酸和鹼溶於水後的性質、常見反應與例子。</title>
+  <text x="180" y="21" font-size="14" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">酸和鹼的性質</text>
+  <rect x="8" y="32" width="344" height="226" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <path d="M13 32H347Q352 32 352 37V59H8V37Q8 32 13 32Z" fill="var(--fig-cool)" stroke="none" stroke-width="0" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M94 32V258M211 32V258M8 59H352M8 89H352M8 119H352M8 149H352M8 179H352M8 212H352" fill="none" stroke="var(--fig-line)" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="51" y="51" font-size="13" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">性質</text>
+  <text x="152" y="51" font-size="13" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">酸</text>
+  <text x="281" y="51" font-size="13" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">鹼</text>
+  <text x="51" y="79" font-size="13" text-anchor="middle" fill="var(--fig-ink)">溶於水產生</text>
+  <text x="152" y="79" font-size="13" text-anchor="middle" fill="var(--fig-ink)">H⁺</text>
+  <text x="281" y="79" font-size="13" text-anchor="middle" fill="var(--fig-ink)">OH⁻</text>
+  <text x="51" y="109" font-size="13" text-anchor="middle" fill="var(--fig-ink)">石蕊試紙</text>
+  <text x="152" y="109" font-size="13" text-anchor="middle" fill="var(--fig-ink)">藍色變紅色</text>
+  <text x="281" y="109" font-size="13" text-anchor="middle" fill="var(--fig-ink)">紅色變藍色</text>
+  <text x="51" y="139" font-size="13" text-anchor="middle" fill="var(--fig-ink)">加入鎂帶</text>
+  <text x="152" y="139" font-size="13" text-anchor="middle" fill="var(--fig-ink)">產生氫氣</text>
+  <text x="281" y="139" font-size="13" text-anchor="middle" fill="var(--fig-ink)">沒有反應</text>
+  <text x="51" y="169" font-size="13" text-anchor="middle" fill="var(--fig-ink)">加入大理石</text>
+  <text x="152" y="169" font-size="13" text-anchor="middle" fill="var(--fig-ink)">產生二氧化碳</text>
+  <text x="281" y="169" font-size="13" text-anchor="middle" fill="var(--fig-ink)">沒有反應</text>
+  <text x="51" y="200" font-size="13" text-anchor="middle" fill="var(--fig-ink)">其他</text>
+  <text x="152" y="200" font-size="13" text-anchor="middle" fill="var(--fig-ink)">濃酸有腐蝕性</text>
+  <text x="281" y="200" font-size="13" text-anchor="middle" fill="var(--fig-ink)">溶解油脂、有滑膩感</text>
+  <text x="51" y="239" font-size="13" text-anchor="middle" fill="var(--fig-ink)">例子</text>
+  <text x="152" y="239" font-size="13" text-anchor="middle" fill="var(--fig-ink)">鹽酸、硫酸、醋酸</text>
+  <text x="281" y="239" font-size="12" text-anchor="middle" fill="var(--fig-ink)">氫氧化鈉、氨水、石灰水</text>
+</svg>

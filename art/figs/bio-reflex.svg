@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 253" role="img">
+  <title>有意識的反應經大腦判斷後由脊髓傳到運動神經元；碰到燙物縮手的反射則由脊髓直接傳出訊息。</title>
+  <defs><marker id="bio-reflex-ink" markerWidth="7" markerHeight="7" refX="6.5" refY="3.5" orient="auto" markerUnits="userSpaceOnUse"><path d="M0 0L7 3.5L0 7Z" fill="var(--fig-ink)"/></marker></defs>
+  <text x="180" y="20" font-size="14" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">神經傳導的路徑</text>
+  <text x="11" y="48" font-size="13" text-anchor="start" fill="var(--fig-ink)" font-weight="600">有意識的反應</text>
+  <rect x="12" y="58" width="36" height="33" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.3"/>
+  <text x="30" y="79" font-size="12" text-anchor="middle" fill="var(--fig-ink)">受器</text>
+  <path d="M50 74H62" fill="none" stroke="var(--fig-ink)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#bio-reflex-ink)"/>
+  <rect x="64" y="58" width="56" height="33" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.3"/>
+  <text x="92" y="79" font-size="12" text-anchor="middle" fill="var(--fig-ink)">感覺神經</text>
+  <path d="M122 74H134" fill="none" stroke="var(--fig-ink)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#bio-reflex-ink)"/>
+  <rect x="136" y="58" width="36" height="33" rx="5" fill="var(--fig-cool)" stroke="var(--fig-line)" stroke-width="1.3"/>
+  <text x="154" y="79" font-size="12" text-anchor="middle" fill="var(--fig-ink)">大腦</text>
+  <path d="M174 74H186" fill="none" stroke="var(--fig-ink)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#bio-reflex-ink)"/>
+  <rect x="188" y="58" width="36" height="33" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.3"/>
+  <text x="206" y="79" font-size="12" text-anchor="middle" fill="var(--fig-ink)">脊髓</text>
+  <path d="M226 74H238" fill="none" stroke="var(--fig-ink)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#bio-reflex-ink)"/>
+  <rect x="240" y="58" width="56" height="33" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.3"/>
+  <text x="268" y="79" font-size="12" text-anchor="middle" fill="var(--fig-ink)">運動神經</text>
+  <path d="M298 74H310" fill="none" stroke="var(--fig-ink)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#bio-reflex-ink)"/>
+  <rect x="312" y="58" width="36" height="33" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.3"/>
+  <text x="330" y="79" font-size="12" text-anchor="middle" fill="var(--fig-ink)">動器</text>
+  <text x="12" y="112" font-size="12" text-anchor="start" fill="var(--fig-soft)">例：看到紅燈停下腳步</text>
+  <path d="M8 125H352" fill="none" stroke="var(--fig-line)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="11" y="150" font-size="13" text-anchor="start" fill="var(--fig-ink)" font-weight="600">反射</text>
+  <rect x="10" y="160" width="42" height="33" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.3"/>
+  <text x="31" y="181" font-size="13" text-anchor="middle" fill="var(--fig-ink)">受器</text>
+  <path d="M54 176H67" fill="none" stroke="var(--fig-ink)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#bio-reflex-ink)"/>
+  <rect x="69" y="160" width="64" height="33" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.3"/>
+  <text x="101" y="181" font-size="13" text-anchor="middle" fill="var(--fig-ink)">感覺神經</text>
+  <path d="M135 176H149" fill="none" stroke="var(--fig-ink)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#bio-reflex-ink)"/>
+  <rect x="151" y="160" width="43" height="33" rx="5" fill="var(--fig-cool)" stroke="var(--ic)" stroke-width="2"/>
+  <text x="172.5" y="181" font-size="13" text-anchor="middle" fill="var(--fig-ink)">脊髓</text>
+  <path d="M196 176H210" fill="none" stroke="var(--fig-ink)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#bio-reflex-ink)"/>
+  <rect x="212" y="160" width="65" height="33" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.3"/>
+  <text x="244.5" y="181" font-size="13" text-anchor="middle" fill="var(--fig-ink)">運動神經</text>
+  <path d="M279 176H297" fill="none" stroke="var(--fig-ink)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#bio-reflex-ink)"/>
+  <rect x="299" y="160" width="50" height="33" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.3"/>
+  <text x="324" y="181" font-size="13" text-anchor="middle" fill="var(--fig-ink)">動器</text>
+  <text x="12" y="214" font-size="12" text-anchor="start" fill="var(--fig-soft)">例：碰到燙的東西立刻縮手</text>
+  <rect x="8" y="222" width="344" height="26" rx="5" fill="var(--fig-cool)" stroke="var(--fig-line)" stroke-width="1"/>
+  <text x="180" y="239" font-size="12" text-anchor="middle" fill="var(--fig-ink)">反射不經大腦思考，反應快</text>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 229" role="img">
+  <title>彈性限度內伸長量與外力成正比，桌上靜止的書同時受到等大反向的支撐力與重量。</title>
+  <defs><marker id="phy-force-ink" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto" markerUnits="userSpaceOnUse"><path d="M1 1L6 3.5L1 6" fill="none" stroke="var(--fig-ink)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker><marker id="phy-force-ic" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto" markerUnits="userSpaceOnUse"><path d="M1 1L6 3.5L1 6" fill="none" stroke="var(--ic)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>
+  <text x="180" y="20" text-anchor="middle" font-size="14" fill="var(--fig-ink)" font-weight="600">力與平衡</text>
+  <path d="M180 34V177" fill="none" stroke="var(--fig-line)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="32" y="46" text-anchor="middle" font-size="12" fill="var(--fig-ink)">伸長量</text>
+  <path d="M22 144V54" fill="none" stroke="var(--fig-ink)" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#phy-force-ink)"/>
+  <path d="M22 144H162" fill="none" stroke="var(--fig-ink)" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#phy-force-ink)"/>
+  <path d="M22 144L111 92Q131 80 141 48" fill="none" stroke="var(--ic)" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="111" cy="92" rx="3.4" ry="3.4" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1.5"/>
+  <text x="65" y="66" text-anchor="middle" font-size="12" fill="var(--fig-ink)">彈性限度</text>
+  <path d="M79 71l25 17" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="149" y="163" text-anchor="middle" font-size="12" fill="var(--fig-ink)">外力</text>
+  <text x="91" y="185" text-anchor="middle" font-size="12" fill="var(--fig-ink)">限度內成正比（虎克定律）</text>
+  <rect x="198" y="117" width="146" height="7" rx="1" fill="var(--fig-sand)" stroke="var(--fig-ink)"/>
+  <path d="M206 125v47m7-47v47m114-47v47m7-47v47" fill="none" stroke="var(--fig-ink)" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M231 98h76q-4 9 0 18h-76q-5-8 0-18Z" fill="var(--fig-cool)" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M235 102h64m-64 6h64" fill="none" stroke="var(--fig-line)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M268 107V58" fill="none" stroke="var(--ic)" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#phy-force-ic)"/>
+  <path d="M268 107v49" fill="none" stroke="var(--fig-ink)" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#phy-force-ink)"/>
+  <ellipse cx="268" cy="107" rx="2" ry="2" fill="var(--fig-ink)" stroke="none" stroke-width="1.5"/>
+  <text x="278" y="67" text-anchor="start" font-size="12" fill="var(--fig-ink)">支撐力</text>
+  <text x="279" y="155" text-anchor="start" font-size="12" fill="var(--fig-ink)">重量</text>
+  <rect x="8" y="195" width="344" height="28" rx="4" fill="var(--fig-cool)" stroke="var(--fig-line)"/>
+  <text x="180" y="214" text-anchor="middle" font-size="12" fill="var(--fig-ink)">兩力平衡：大小相等、方向相反、同一直線</text>
+</svg>

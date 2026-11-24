@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 266" role="img">
+  <title>接觸面積、濃度、溫度和催化劑都會影響反應速率。</title>
+  <text x="180" y="20" text-anchor="middle" font-size="14" font-weight="600" fill="var(--fig-ink)">影響反應速率的因素</text>
+  <rect x="7" y="32" width="170" height="84" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <text x="92" y="51" text-anchor="middle" font-size="13" font-weight="600" fill="var(--fig-ink)">接觸面積</text>
+  <text x="92" y="109" text-anchor="middle" font-size="12" fill="var(--fig-ink)">顆粒愈細愈快</text>
+  <rect x="183" y="32" width="170" height="84" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <text x="268" y="51" text-anchor="middle" font-size="13" font-weight="600" fill="var(--fig-ink)">濃度</text>
+  <text x="268" y="109" text-anchor="middle" font-size="12" fill="var(--fig-ink)">濃度愈高愈快</text>
+  <rect x="7" y="122" width="170" height="84" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <text x="92" y="141" text-anchor="middle" font-size="13" font-weight="600" fill="var(--fig-ink)">溫度</text>
+  <text x="92" y="199" text-anchor="middle" font-size="12" fill="var(--fig-ink)">溫度愈高愈快</text>
+  <rect x="183" y="122" width="170" height="84" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <text x="268" y="141" text-anchor="middle" font-size="13" font-weight="600" fill="var(--fig-ink)">催化劑</text>
+  <text x="268" y="199" text-anchor="middle" font-size="12" fill="var(--fig-ink)">速率變快、產量不變</text>
+  <path d="M39 69l12 -7 17 5 -12 8Z" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M39 69l17 6v15l-17 -6Z" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M56 75l12 -8v15l-12 8Z" fill="var(--fig-warm)" stroke="var(--fig-ink)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M106 87l2 -4 3 4Z" fill="var(--fig-warm)" stroke="var(--fig-ink)" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M112 83l2 -4 3 4Z" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M112 88l2 -4 3 4Z" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M118 87l2 -4 3 4Z" fill="var(--fig-warm)" stroke="var(--fig-ink)" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M119 81l2 -4 3 4Z" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M124 77l2 -4 3 4Z" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M125 84l2 -4 3 4Z" fill="var(--fig-warm)" stroke="var(--fig-ink)" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M130 88l2 -4 3 4Z" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M135 85l2 -4 3 4Z" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M141 89l2 -4 3 4Z" fill="var(--fig-warm)" stroke="var(--fig-ink)" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M107 91l2 -4 3 4Z" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M118 92l2 -4 3 4Z" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M126 91l2 -4 3 4Z" fill="var(--fig-warm)" stroke="var(--fig-ink)" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M218 63h3v21q0 3 3 3h19q3 0 3 -3V63h2" fill="none" stroke="var(--fig-ink)" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M221 72q5 -2 12 0t13 0v12q0 3 -3 3h-19q-3 0 -3 -3Z" fill="var(--fig-sea)" stroke="var(--fig-ink)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="226" cy="79" r="1.5" fill="var(--fig-ink)" stroke="none" stroke-width="1.2"/>
+  <circle cx="237" cy="83" r="1.5" fill="var(--fig-ink)" stroke="none" stroke-width="1.2"/>
+  <circle cx="241" cy="76" r="1.5" fill="var(--fig-ink)" stroke="none" stroke-width="1.2"/>
+  <path d="M280 63h3v21q0 3 3 3h19q3 0 3 -3V63h2" fill="none" stroke="var(--fig-ink)" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M283 72q5 -2 12 0t13 0v12q0 3 -3 3h-19q-3 0 -3 -3Z" fill="var(--fig-sea)" stroke="var(--fig-ink)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="287" cy="77" r="1.5" fill="var(--fig-ink)" stroke="none" stroke-width="1.2"/>
+  <circle cx="292" cy="75" r="1.5" fill="var(--fig-ink)" stroke="none" stroke-width="1.2"/>
+  <circle cx="297" cy="78" r="1.5" fill="var(--fig-ink)" stroke="none" stroke-width="1.2"/>
+  <circle cx="303" cy="76" r="1.5" fill="var(--fig-ink)" stroke="none" stroke-width="1.2"/>
+  <circle cx="289" cy="83" r="1.5" fill="var(--fig-ink)" stroke="none" stroke-width="1.2"/>
+  <circle cx="294" cy="81" r="1.5" fill="var(--fig-ink)" stroke="none" stroke-width="1.2"/>
+  <circle cx="299" cy="84" r="1.5" fill="var(--fig-ink)" stroke="none" stroke-width="1.2"/>
+  <circle cx="304" cy="81" r="1.5" fill="var(--fig-ink)" stroke="none" stroke-width="1.2"/>
+  <circle cx="286" cy="80" r="1.5" fill="var(--fig-ink)" stroke="none" stroke-width="1.2"/>
+  <path d="M70 170v-18a4 4 0 0 1 8 0v18a8 8 0 1 1 -8 0Z" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M74 159v17" fill="none" stroke="var(--ic)" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="74" cy="177" r="4" fill="var(--fig-warm)" stroke="var(--fig-ink)" stroke-width="1"/>
+  <path d="M80 154h4 M80 160h3 M80 166h4" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M102 182q-6 -8 2 -16q-1 5 2 7q6 -6 4 -16q14 12 10 22q-3 8 -11 7Z" fill="var(--fig-warm)" stroke="var(--fig-ink)" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M108 184q-4 -4 2 -10q0 4 3 4q2 5 -1 7" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="268" y="174" text-anchor="middle" font-size="14" font-weight="600" fill="var(--fig-ink)">慢 → 快</text>
+  <rect x="8" y="213" width="344" height="28" rx="5" fill="var(--fig-cool)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <text x="180" y="231" text-anchor="middle" font-size="12" fill="var(--fig-ink)">粒子碰撞次數愈多、能量愈高，反應愈快</text>
+  <text x="350" y="259" text-anchor="end" font-size="11" fill="var(--fig-soft)">示意圖</text>
+</svg>

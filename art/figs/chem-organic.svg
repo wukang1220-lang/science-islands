@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 223" role="img">
+  <title>有機化合物含碳，一氧化碳、二氧化碳與碳酸鹽雖然含碳仍屬無機化合物。</title>
+  <text x="180" y="21" font-size="14" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">有機化合物和無機化合物</text>
+  <rect x="6" y="34" width="171" height="142" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <rect x="183" y="34" width="171" height="142" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <text x="91" y="58" font-size="14" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">有機化合物（含碳）</text>
+  <text x="269" y="58" font-size="14" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">無機化合物</text>
+  <path d="M15 69H168M192 69H345" fill="none" stroke="var(--fig-line)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="91" y="109" font-size="13" text-anchor="middle" fill="var(--fig-ink)">葡萄糖、酒精、甲烷、</text>
+  <text x="91" y="134" font-size="13" text-anchor="middle" fill="var(--fig-ink)">蛋白質、塑膠</text>
+  <text x="269" y="94" font-size="13" text-anchor="middle" fill="var(--fig-ink)">水、食鹽</text>
+  <rect x="191" y="106" width="155" height="58" rx="5" fill="var(--fig-paper)" stroke="var(--ic)" stroke-width="1.8"/>
+  <text x="269" y="128" font-size="13" text-anchor="middle" fill="var(--fig-ink)">雖然含碳，仍屬無機：</text>
+  <text x="269" y="151" font-size="13" text-anchor="middle" fill="var(--fig-ink)">CO、CO₂、碳酸鹽</text>
+  <rect x="8" y="185" width="344" height="28" rx="5" fill="var(--fig-cool)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <text x="180" y="204" font-size="13" text-anchor="middle" fill="var(--fig-ink)">有機物一定含碳，含碳的不一定是有機物</text>
+</svg>

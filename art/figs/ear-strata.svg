@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 246" role="img">
+  <title>斷層切過甲、乙兩層，未切過上方的丙、丁兩層，乙層中可見貝殼化石。</title>
+  <defs><marker id="ear-strata-ink" markerWidth="8" markerHeight="8" refX="6.5" refY="4" orient="auto" markerUnits="userSpaceOnUse"><path d="M1 1L6.5 4L1 7" fill="none" stroke="var(--fig-ink)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>
+  <text x="180" y="20" font-size="14" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">岩層的紀錄</text>
+  <rect x="13" y="40" width="158" height="126" rx="0" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.2"/>
+  <path d="M13 40H171V66H13Z" fill="var(--fig-land)" stroke="var(--fig-ink)" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M13 66H171V92H13Z" fill="var(--fig-cool)" stroke="var(--fig-ink)" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M13 133H78L58 166H13ZM71 144H171V166H58Z" fill="var(--fig-warm)" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M13 133H77M71 144H171" fill="none" stroke="var(--fig-ink)" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M101 93L58 165" fill="none" stroke="var(--ic)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M13 40H171V166H13Z" fill="none" stroke="var(--fig-ink)" stroke-width="1.2"/>
+  <text x="31" y="58" font-size="12" text-anchor="middle" fill="var(--fig-ink)">丁</text>
+  <text x="31" y="84" font-size="12" text-anchor="middle" fill="var(--fig-ink)">丙</text>
+  <text x="31" y="118" font-size="12" text-anchor="middle" fill="var(--fig-ink)">乙</text>
+  <text x="31" y="157" font-size="12" text-anchor="middle" fill="var(--fig-ink)">甲</text>
+  <path d="M130 134Q120 130 114 119Q112 116 116 115Q115 110 121 110Q123 105 128 108Q134 104 137 109Q145 107 146 114Q152 115 148 121Q143 131 133 134Z" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M131 131l-13-13m13 13-8-18m8 18-2-20m3 20 4-19m-3 19 10-16m-9 16 12-11" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="188" y="72" font-size="13" text-anchor="start" fill="var(--fig-ink)" font-weight="600">疊置定律：</text>
+  <text x="188" y="94" font-size="13" text-anchor="start" fill="var(--fig-ink)">下層較老、上層較新</text>
+  <path d="M188 110H344" fill="none" stroke="var(--fig-line)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="188" y="138" font-size="13" text-anchor="start" fill="var(--fig-ink)">斷層比它切過的岩層年輕</text>
+  <rect x="6" y="185" width="62" height="51" rx="4" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <text x="37" y="216" font-size="13" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">前寒武紀</text>
+  <rect x="82" y="185" width="66" height="51" rx="4" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <text x="115" y="205" font-size="13" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">古生代</text>
+  <text x="115" y="226" font-size="12" text-anchor="middle" fill="var(--fig-ink)">三葉蟲</text>
+  <rect x="162" y="185" width="83" height="51" rx="4" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <text x="203.5" y="205" font-size="13" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">中生代</text>
+  <text x="203.5" y="226" font-size="12" text-anchor="middle" fill="var(--fig-ink)">恐龍、菊石</text>
+  <rect x="259" y="185" width="95" height="51" rx="4" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <text x="306.5" y="205" font-size="13" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">新生代</text>
+  <text x="306.5" y="226" font-size="12" text-anchor="middle" fill="var(--fig-ink)">哺乳類、人類</text>
+  <path d="M69 211H80" fill="none" stroke="var(--fig-ink)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ear-strata-ink)"/>
+  <path d="M149 211H160" fill="none" stroke="var(--fig-ink)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ear-strata-ink)"/>
+  <path d="M246 211H257" fill="none" stroke="var(--fig-ink)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ear-strata-ink)"/>
+</svg>

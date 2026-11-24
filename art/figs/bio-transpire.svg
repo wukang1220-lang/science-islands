@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 243" role="img">
+  <title>根毛吸收水分和礦物質，木質部向上輸水，氣孔散失水蒸氣，韌皮部運送葉製造的養分。</title>
+  <defs><marker id="bio-transpire-ic" markerWidth="7" markerHeight="7" refX="6.5" refY="3.5" orient="auto" markerUnits="userSpaceOnUse"><path d="M0 0L7 3.5L0 7Z" fill="var(--ic)"/></marker><marker id="bio-transpire-ink" markerWidth="7" markerHeight="7" refX="6.5" refY="3.5" orient="auto" markerUnits="userSpaceOnUse"><path d="M0 0L7 3.5L0 7Z" fill="var(--fig-ink)"/></marker></defs>
+  <text x="180" y="20" font-size="14" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">植物體內物質的運輸</text>
+  <path d="M12 172Q43 167 74 172T139 170V221H12Z" fill="var(--fig-sand)" stroke="var(--fig-line)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M76 175Q79 139 76 99L72 77Q79 80 83 100Q86 124 84 175Z" fill="var(--fig-land)" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M78 112Q61 109 45 96 M82 94Q94 89 105 75" fill="none" stroke="var(--fig-ink)" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M66 105Q34 112 19 78Q49 73 66 105Z M89 90Q86 61 126 56Q124 87 89 90Z" fill="var(--fig-land)" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M25 82Q45 87 62 102 M92 86L119 62 M106 73L106 66 M39 88L41 97" fill="none" stroke="var(--fig-ink)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M80 174Q80 199 66 216 M81 179Q94 194 109 200 M78 184Q61 190 46 199 M72 203L58 210 M94 192L95 202 M57 193L52 190 M54 195L49 193 M49 197L44 195 M61 207L57 204 M104 198L109 194 M99 195L103 191" fill="none" stroke="var(--fig-ink)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M107 55C100 49 112 46 106 39 M116 53C110 47 122 43 117 36" fill="none" stroke="var(--fig-soft)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M70 163V120" fill="none" stroke="var(--ic)" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#bio-transpire-ic)"/>
+  <path d="M92 112V161" fill="none" stroke="var(--fig-ink)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#bio-transpire-ink)"/>
+  <path d="M117 63H141L151 59 M95 139H135L150 149 M48 197L62 211H147" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="155" y="62" font-size="12" text-anchor="start" fill="var(--fig-ink)">氣孔：水蒸氣散失（蒸散作用）</text>
+  <path d="M72 125L101 106H148" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="153" y="109" font-size="12" text-anchor="start" fill="var(--fig-ink)">木質部：水分往上運送</text>
+  <text x="155" y="154" font-size="12" text-anchor="start" fill="var(--fig-ink)">韌皮部：運送葉製造的養分</text>
+  <text x="153" y="215" font-size="12" text-anchor="start" fill="var(--fig-ink)">根毛：吸收水分和礦物質</text>
+  <text x="350" y="237" font-size="11" text-anchor="end" fill="var(--fig-soft)">示意圖</text>
+</svg>

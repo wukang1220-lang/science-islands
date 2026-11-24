@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 218" role="img">
+  <title>白光通過三稜鏡後分散成七色光，表格列出白色上衣與紅色蘋果在不同色光下的顏色。</title>
+  <defs><marker id="phy-color-ink" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto" markerUnits="userSpaceOnUse"><path d="M1 1L6 3.5L1 6" fill="none" stroke="var(--fig-ink)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>
+  <text x="180" y="20" text-anchor="middle" font-size="14" fill="var(--fig-ink)" font-weight="600">色散與顏色</text>
+  <path d="M166 33V203" fill="none" stroke="var(--fig-line)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="14" y="60" text-anchor="start" font-size="12" fill="var(--fig-ink)">白光</text>
+  <path d="M57 46L95 114H19Z" fill="var(--fig-cool)" stroke="var(--fig-ink)" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M8 76H38" fill="none" stroke="var(--fig-ink)" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#phy-color-ink)"/>
+  <path d="M39 76L76.5 81" fill="none" stroke="var(--fig-ink)" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M39 76L76.5 81L141 93" fill="none" stroke="var(--ic)" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="151" y="97" text-anchor="middle" font-size="12" fill="var(--fig-ink)">紅</text>
+  <path d="M39 76L76.8 81.5L141 106" fill="none" stroke="var(--fig-ink)" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="151" y="110" text-anchor="middle" font-size="12" fill="var(--fig-ink)">橙</text>
+  <path d="M39 76L77.1 82L141 123" fill="none" stroke="var(--fig-ink)" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="151" y="127" text-anchor="middle" font-size="12" fill="var(--fig-ink)">黃</text>
+  <path d="M39 76L77.4 82.5L141 140" fill="none" stroke="var(--fig-ink)" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="151" y="144" text-anchor="middle" font-size="12" fill="var(--fig-ink)">綠</text>
+  <path d="M39 76L77.7 83L141 157" fill="none" stroke="var(--fig-ink)" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="151" y="161" text-anchor="middle" font-size="12" fill="var(--fig-ink)">藍</text>
+  <path d="M39 76L78 83.5L141 174" fill="none" stroke="var(--fig-ink)" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="151" y="178" text-anchor="middle" font-size="12" fill="var(--fig-ink)">靛</text>
+  <path d="M39 76L78.3 84L141 191" fill="none" stroke="var(--fig-ink)" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="151" y="195" text-anchor="middle" font-size="12" fill="var(--fig-ink)">紫</text>
+  <text x="261" y="56" text-anchor="middle" font-size="12" fill="var(--fig-ink)" font-weight="600">在不同色光下看起來的顏色</text>
+  <rect x="171" y="71" width="181" height="130" rx="4" fill="var(--fig-paper)" stroke="var(--fig-line)"/>
+  <rect x="171" y="71" width="181" height="31" rx="4" fill="var(--fig-cool)" stroke="var(--fig-line)"/>
+  <path d="M230 71V201 M290 71V201 M171 102H352 M171 135H352 M171 168H352" fill="none" stroke="var(--fig-line)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="200.5" y="90.5" text-anchor="middle" font-size="11" fill="var(--fig-ink)" font-weight="600">照射的光</text>
+  <text x="260" y="90.5" text-anchor="middle" font-size="11" fill="var(--fig-ink)" font-weight="600">白色上衣</text>
+  <text x="321" y="90.5" text-anchor="middle" font-size="11" fill="var(--fig-ink)" font-weight="600">紅色蘋果</text>
+  <text x="200.5" y="122.5" text-anchor="middle" font-size="11" fill="var(--fig-ink)">白光</text>
+  <text x="260" y="122.5" text-anchor="middle" font-size="11" fill="var(--fig-ink)">白色</text>
+  <text x="321" y="122.5" text-anchor="middle" font-size="11" fill="var(--fig-ink)">紅色</text>
+  <text x="200.5" y="155.5" text-anchor="middle" font-size="11" fill="var(--fig-ink)">紅光</text>
+  <text x="260" y="155.5" text-anchor="middle" font-size="11" fill="var(--fig-ink)">紅色</text>
+  <text x="321" y="155.5" text-anchor="middle" font-size="11" fill="var(--fig-ink)">紅色</text>
+  <text x="200.5" y="188.5" text-anchor="middle" font-size="11" fill="var(--fig-ink)">綠光</text>
+  <text x="260" y="188.5" text-anchor="middle" font-size="11" fill="var(--fig-ink)">綠色</text>
+  <text x="321" y="188.5" text-anchor="middle" font-size="11" fill="var(--fig-ink)">黑色</text>
+</svg>

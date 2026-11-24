@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 257" role="img">
+  <title>未經擾動的地層中，哺乳類、爬蟲類、魚類與三葉蟲化石在圖中由新到舊排列。</title>
+  <defs><marker id="bio-strata-arr" markerWidth="6" markerHeight="6" refX="5.5" refY="3" orient="auto" markerUnits="userSpaceOnUse"><path d="M0 0L6 3L0 6Z" fill="var(--fig-ink)"/></marker></defs>
+  <text x="180" y="20" font-size="14" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">地層與化石</text>
+  <rect x="12" y="35" width="215" height="45" rx="0" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.1"/>
+  <text x="146" y="63" font-size="13" text-anchor="middle" fill="var(--fig-ink)">哺乳類化石</text>
+  <rect x="12" y="80" width="215" height="45" rx="0" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.1"/>
+  <text x="146" y="108" font-size="13" text-anchor="middle" fill="var(--fig-ink)">爬蟲類化石</text>
+  <rect x="12" y="125" width="215" height="45" rx="0" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.1"/>
+  <text x="146" y="153" font-size="13" text-anchor="middle" fill="var(--fig-ink)">魚類化石</text>
+  <rect x="12" y="170" width="215" height="45" rx="0" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.1"/>
+  <text x="146" y="198" font-size="13" text-anchor="middle" fill="var(--fig-ink)">三葉蟲化石</text>
+  <path d="M18 42h17m64 0h14m81 1h18 M23 72h10m47 1h13m105 0h20" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M17 90l8-4m1 8l9-5m156 1l9-5m4 9l11-6 M17 116l9-5m65 7l8-5m105 2l10-5" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M17 132q4-3 8 0t8 0 M191 133q6-3 12 0t12 0 M20 163q5-3 10 0t10 0 M192 160q6-3 12 0t12 0" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="20" cy="178" r="1.4" fill="var(--fig-soft)"/>
+  <circle cx="29" cy="181" r="1.4" fill="var(--fig-soft)"/>
+  <circle cx="23" cy="202" r="1.4" fill="var(--fig-soft)"/>
+  <circle cx="35" cy="207" r="1.4" fill="var(--fig-soft)"/>
+  <circle cx="91" cy="205" r="1.4" fill="var(--fig-soft)"/>
+  <circle cx="97" cy="180" r="1.4" fill="var(--fig-soft)"/>
+  <circle cx="201" cy="179" r="1.4" fill="var(--fig-soft)"/>
+  <circle cx="211" cy="185" r="1.4" fill="var(--fig-soft)"/>
+  <circle cx="216" cy="207" r="1.4" fill="var(--fig-soft)"/>
+  <circle cx="198" cy="201" r="1.4" fill="var(--fig-soft)"/>
+  <path d="M42 54Q41 42 54 41Q66 39 72 48L81 51L89 51L87 58L81 60L80 63L77 61L74 64L70 60L65 60Q61 65 55 62L51 59L45 59Z" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="59" cy="51" rx="4.5" ry="4" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.3"/>
+  <path d="M77 54l5 1-3 2z" fill="var(--fig-ink)" stroke="var(--fig-ink)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M49 60Q51 72 63 71L82 64L84 60Q72 66 59 66L55 60Z" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M22 112Q30 112 37 107T54 102Q66 97 79 100" fill="none" stroke="var(--fig-ink)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M46 106l-5-8-7-1m7 1-4-3 M49 105l1 8-7 6m7-6 1 4 M67 100l-1-8 6-4m-6 4-3-2 M70 101l6 8 7-1m-7 1 4 3 M53 102q-2-6 0-8m2 9q4 2 5 6m-2-8q-2-5 0-7m2 7q5 2 6 6m-3-7-1-6" fill="none" stroke="var(--fig-ink)" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M77 97Q82 93 88 96L94 100L89 103L79 103Z" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="84" cy="98" r="1.3" fill="var(--fig-ink)"/>
+  <path d="M42 147L30 138V155Z" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M41 147Q54 134 72 138Q83 139 90 146Q80 156 62 156Q50 155 41 147Z" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M47 147H76 M50 146l6-5m-2 7 6 5m-2-7 7-7m-3 9 6 5m-3-7 6-6m4-1q-5 7 0 14 M55 138l7-7 3 6" fill="none" stroke="var(--fig-ink)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="81" cy="145" r="1.6" fill="var(--fig-ink)"/>
+  <path d="M49 186Q49 177 61 176Q74 177 75 187Q74 201 63 209Q50 205 49 186Z" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M49 185Q61 180 75 185 M57 184Q56 195 63 206Q68 195 67 184 M50 189Q61 185 74 189 M52 193Q62 189 72 193 M54 197Q63 194 70 197 M57 201Q63 198 68 201" fill="none" stroke="var(--fig-ink)" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="247" y="46" font-size="13" text-anchor="middle" fill="var(--fig-ink)">新</text>
+  <path d="M247 53V192" fill="none" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linejoin="round" marker-end="url(#bio-strata-arr)"/>
+  <text x="247" y="212" font-size="13" text-anchor="middle" fill="var(--fig-ink)">舊</text>
+  <text x="258" y="131" font-size="13" text-anchor="start" fill="var(--fig-ink)">愈下層愈古老</text>
+  <text x="119" y="239" font-size="13" text-anchor="middle" fill="var(--fig-ink)">未經擾動的地層</text>
+  <text x="348" y="249" font-size="11" text-anchor="end" fill="var(--fig-soft)">示意圖</text>
+</svg>

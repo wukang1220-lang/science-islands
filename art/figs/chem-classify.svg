@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 263" role="img">
+  <title>物質分為純物質和混合物，純物質又分為元素和化合物，元素還可分為金屬與非金屬。</title>
+  <text x="180" y="20" text-anchor="middle" font-size="14" font-weight="600" fill="var(--fig-ink)">物質的分類</text>
+  <path d="M180 57V64H116V75 M180 64H295V75 M116 100V113H78V127 M116 113H223V127 M78 152V165H46V181 M78 165H143V181" fill="none" stroke="var(--fig-ink)" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="142" y="32" width="76" height="25" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <text x="180" y="49" text-anchor="middle" font-size="13" font-weight="600" fill="var(--fig-ink)">物質</text>
+  <rect x="73" y="75" width="86" height="25" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <text x="116" y="92" text-anchor="middle" font-size="13" font-weight="600" fill="var(--fig-ink)">純物質</text>
+  <rect x="248" y="75" width="94" height="43" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <text x="295" y="92" text-anchor="middle" font-size="13" font-weight="600" fill="var(--fig-ink)">混合物</text>
+  <text x="295" y="110" text-anchor="middle" font-size="12" fill="var(--fig-soft)">空氣、海水</text>
+  <rect x="43" y="127" width="70" height="25" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <text x="78" y="144" text-anchor="middle" font-size="13" font-weight="600" fill="var(--fig-ink)">元素</text>
+  <rect x="159" y="127" width="128" height="43" rx="5" fill="var(--fig-cool)" stroke="var(--ic)" stroke-width="2"/>
+  <text x="223" y="144" text-anchor="middle" font-size="13" font-weight="600" fill="var(--fig-ink)">化合物</text>
+  <text x="223" y="162" text-anchor="middle" font-size="12" fill="var(--fig-soft)">水、二氧化碳、食鹽</text>
+  <rect x="5" y="181" width="82" height="43" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <text x="46" y="198" text-anchor="middle" font-size="13" font-weight="600" fill="var(--fig-ink)">金屬</text>
+  <text x="46" y="216" text-anchor="middle" font-size="12" fill="var(--fig-soft)">鐵、銅、汞</text>
+  <rect x="102" y="181" width="82" height="43" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <text x="143" y="198" text-anchor="middle" font-size="13" font-weight="600" fill="var(--fig-ink)">非金屬</text>
+  <text x="143" y="216" text-anchor="middle" font-size="12" fill="var(--fig-soft)">氧、碳、硫</text>
+  <rect x="8" y="230" width="344" height="28" rx="5" fill="var(--fig-cool)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <text x="180" y="248" text-anchor="middle" font-size="12" fill="var(--fig-ink)">化合物可用化學方法分解成元素</text>
+</svg>

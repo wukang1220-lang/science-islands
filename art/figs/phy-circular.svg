@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 218" role="img">
+  <title>圓周運動的速度沿切線、向心力指向圓心，地球與月球則彼此吸引。</title>
+  <defs><marker id="phy-circular-ic" markerWidth="7" markerHeight="7" refX="6.5" refY="3.5" orient="auto" markerUnits="userSpaceOnUse"><path d="M1 1L6.5 3.5L1 6" fill="none" stroke="var(--ic)" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/></marker><marker id="phy-circular-ink" markerWidth="7" markerHeight="7" refX="6.5" refY="3.5" orient="auto" markerUnits="userSpaceOnUse"><path d="M1 1L6.5 3.5L1 6" fill="none" stroke="var(--fig-ink)" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>
+  <text x="180" y="20" font-size="14" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">圓周運動與萬有引力</text>
+  <path d="M196 40V202" fill="none" stroke="var(--fig-line)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="80" cy="118" r="44" fill="none" stroke="var(--fig-soft)" stroke-width="1.5"/>
+  <circle cx="80" cy="118" r="2.4" fill="var(--fig-ink)" stroke="var(--fig-ink)" stroke-width="1"/>
+  <path d="M129 74h59" fill="none" stroke="var(--fig-soft)" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="4 4"/>
+  <path d="M80 74h48" fill="none" stroke="var(--ic)" stroke-width="2.3" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#phy-circular-ic)"/>
+  <path d="M80 74v42" fill="none" stroke="var(--fig-ink)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#phy-circular-ink)"/>
+  <circle cx="80" cy="74" r="5.8" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.5"/>
+  <text x="91" y="47" font-size="13" text-anchor="middle" fill="var(--fig-ink)">速度（切線方向）</text>
+  <path d="M87 102h43l12 14" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M142 116v46" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="120" y="176" font-size="11.5" text-anchor="middle" fill="var(--fig-ink)">向心力（指向圓心）</text>
+  <path d="M185 79v103l-12 7" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="107" y="195" font-size="13" text-anchor="middle" fill="var(--fig-ink)">繩斷：沿切線飛出</text>
+  <circle cx="242" cy="109" r="23" fill="var(--fig-sea)" stroke="var(--fig-ink)" stroke-width="1.5"/>
+  <path d="M229 92q6 -3 13 -2l2 5 -5 4 1 5 -8 4 -6 -5zm11 20l10 -3 6 6 -3 7 -8 7 -1 -9Z" fill="var(--fig-land)" stroke="var(--fig-soft)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="329" cy="109" r="11" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.5"/>
+  <ellipse cx="332" cy="105" rx="2.5" ry="2" fill="none" stroke="var(--fig-soft)" stroke-width="1"/>
+  <path d="M264 109h22" fill="none" stroke="var(--ic)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#phy-circular-ic)"/>
+  <path d="M317 109h-22" fill="none" stroke="var(--ic)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#phy-circular-ic)"/>
+  <text x="287" y="77" font-size="13" text-anchor="middle" fill="var(--fig-ink)">萬有引力</text>
+  <text x="276" y="195" font-size="11.5" text-anchor="middle" fill="var(--fig-ink)">距離變 2 倍，引力變 1／4</text>
+</svg>

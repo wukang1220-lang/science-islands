@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 258" role="img">
+  <title>飯後胰島分泌胰島素使血糖下降，飢餓時則分泌升糖素使血糖上升。</title>
+  <defs><marker id="bio-sugar-ink" markerWidth="7" markerHeight="7" refX="6.5" refY="3.5" orient="auto" markerUnits="userSpaceOnUse"><path d="M0 0L7 3.5L0 7Z" fill="var(--fig-ink)"/></marker></defs>
+  <text x="180" y="20" font-size="14" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">血糖的恆定</text>
+  <rect x="8" y="32" width="84" height="44" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.3"/>
+  <rect x="107" y="32" width="98" height="44" rx="5" fill="var(--fig-paper)" stroke="var(--ic)" stroke-width="2"/>
+  <rect x="221" y="32" width="131" height="44" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.3"/>
+  <text x="50" y="58" font-size="11.5" text-anchor="middle" fill="var(--fig-ink)">飯後血糖升高</text>
+  <text x="156" y="58" font-size="12" text-anchor="middle" fill="var(--fig-ink)">胰島分泌胰島素</text>
+  <text x="286" y="51" font-size="12" text-anchor="middle" fill="var(--fig-ink)">葡萄糖進入細胞，</text>
+  <text x="286" y="67" font-size="12" text-anchor="middle" fill="var(--fig-ink)">或轉成肝糖儲存</text>
+  <path d="M94 54H105" fill="none" stroke="var(--fig-ink)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#bio-sugar-ink)"/>
+  <path d="M207 54H219" fill="none" stroke="var(--fig-ink)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#bio-sugar-ink)"/>
+  <rect x="242" y="91" width="89" height="25" rx="5" fill="var(--fig-cool)" stroke="var(--fig-line)" stroke-width="1.3"/>
+  <text x="286" y="108" font-size="12" text-anchor="middle" fill="var(--fig-ink)">血糖下降</text>
+  <path d="M286 78V89" fill="none" stroke="var(--fig-ink)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#bio-sugar-ink)"/>
+  <path d="M286 118V127H218" fill="none" stroke="var(--fig-ink)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#bio-sugar-ink)"/>
+  <path d="M142 127H50V78" fill="none" stroke="var(--fig-ink)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#bio-sugar-ink)"/>
+  <rect x="8" y="206" width="84" height="44" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.3"/>
+  <rect x="107" y="206" width="98" height="44" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.3"/>
+  <rect x="221" y="206" width="131" height="44" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.3"/>
+  <text x="50" y="232" font-size="11.5" text-anchor="middle" fill="var(--fig-ink)">飢餓時血糖降低</text>
+  <text x="156" y="232" font-size="12" text-anchor="middle" fill="var(--fig-ink)">胰島分泌升糖素</text>
+  <text x="286" y="232" font-size="12" text-anchor="middle" fill="var(--fig-ink)">肝糖分解成葡萄糖</text>
+  <path d="M94 228H105" fill="none" stroke="var(--fig-ink)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#bio-sugar-ink)"/>
+  <path d="M207 228H219" fill="none" stroke="var(--fig-ink)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#bio-sugar-ink)"/>
+  <rect x="242" y="162" width="89" height="25" rx="5" fill="var(--fig-warm)" stroke="var(--fig-line)" stroke-width="1.3"/>
+  <text x="286" y="179" font-size="12" text-anchor="middle" fill="var(--fig-ink)">血糖上升</text>
+  <path d="M286 204V189" fill="none" stroke="var(--fig-ink)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#bio-sugar-ink)"/>
+  <path d="M286 160V143H218" fill="none" stroke="var(--fig-ink)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#bio-sugar-ink)"/>
+  <path d="M142 143H50V204" fill="none" stroke="var(--fig-ink)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#bio-sugar-ink)"/>
+  <rect x="144" y="119" width="72" height="32" rx="6" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1.7"/>
+  <text x="180" y="140" font-size="13" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">血糖</text>
+</svg>

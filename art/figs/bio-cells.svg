@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 238" role="img">
+  <title>動物細胞和植物細胞都有細胞膜、細胞核和粒線體，植物細胞另有細胞壁、葉綠體與大型液泡。</title>
+  <rect x="7" y="8" width="169" height="168" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.3"/>
+  <rect x="184" y="8" width="169" height="168" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.3"/>
+  <text x="91" y="29" font-size="13" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">動物細胞</text>
+  <text x="268" y="29" font-size="13" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">植物細胞</text>
+  <path d="M53 83C57 64 72 57 90 58C114 55 132 66 136 84C145 111 125 131 101 132C74 138 52 128 48 110Q46 95 53 83Z" fill="var(--fig-cool)" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="80" cy="93" rx="14" ry="13" fill="var(--fig-deep)" stroke="var(--fig-ink)" stroke-width="1.4"/>
+  <ellipse cx="77" cy="92" rx="4" ry="4" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1"/>
+  <g transform="translate(109 108)">
+  <path d="M-10 1C-9 -5 -4 -7 1 -5C7 -5 13 -2 10 3C8 8 3 5 -1 6C-7 6 -12 6 -10 1Z" fill="var(--fig-warm)" stroke="var(--fig-ink)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M-7 2L-4 -2L-2 2L1 -1L4 3L6 0" fill="none" stroke="var(--fig-ink)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <path d="M45 52H54L62 68 M131 51H122L106 81 M41 146H52L72 103 M130 145L119 128L111 114" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="19" y="51" font-size="12" text-anchor="start" fill="var(--fig-ink)">細胞膜</text>
+  <text x="163" y="49" font-size="12" text-anchor="end" fill="var(--fig-ink)">細胞質</text>
+  <text x="20" y="161" font-size="12" text-anchor="start" fill="var(--fig-ink)">細胞核</text>
+  <text x="160" y="161" font-size="12" text-anchor="end" fill="var(--fig-ink)">粒線體</text>
+  <rect x="218" y="62" width="94" height="72" rx="9" fill="var(--fig-land)" stroke="var(--ic)" stroke-width="3.6"/>
+  <rect x="222" y="66" width="86" height="64" rx="7" fill="var(--fig-cool)" stroke="var(--fig-ink)" stroke-width="1.3"/>
+  <path d="M249 78Q254 73 266 74H286Q298 74 299 84V102Q298 115 284 115L263 112Q248 112 247 101Z" fill="var(--fig-paper)" stroke="var(--ic)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="236" cy="106" rx="8" ry="9" fill="var(--fig-deep)" stroke="var(--fig-ink)" stroke-width="1.4"/>
+  <ellipse cx="235" cy="105" rx="2" ry="2" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1"/>
+  <g transform="translate(265 121)">
+  <path d="M-10 1C-9 -5 -4 -7 1 -5C7 -5 13 -2 10 3C8 8 3 5 -1 6C-7 6 -12 6 -10 1Z" fill="var(--fig-warm)" stroke="var(--fig-ink)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M-7 2L-4 -2L-2 2L1 -1L4 3L6 0" fill="none" stroke="var(--fig-ink)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <ellipse cx="234" cy="79" rx="7" ry="3.8" fill="var(--fig-land)" stroke="var(--ic)" stroke-width="1.6"/>
+  <path d="M231 79h6" fill="none" stroke="var(--fig-ink)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="292" cy="121" rx="7" ry="3.8" fill="var(--fig-land)" stroke="var(--ic)" stroke-width="1.6"/>
+  <path d="M289 121h6" fill="none" stroke="var(--fig-ink)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M208 54L218 65 M308 54L301 67 M234 75L247 54H255 M299 94H314 M230 112L218 140H206 M265 127V146" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="193" y="50" font-size="12" text-anchor="start" fill="var(--fig-ink)">細胞壁</text>
+  <text x="341" y="50" font-size="12" text-anchor="end" fill="var(--fig-ink)">細胞膜</text>
+  <text x="259" y="50" font-size="12" text-anchor="middle" fill="var(--fig-ink)">葉綠體</text>
+  <text x="316" y="99" font-size="12" text-anchor="start" fill="var(--fig-ink)">液泡</text>
+  <text x="194" y="158" font-size="12" text-anchor="start" fill="var(--fig-ink)">細胞核</text>
+  <text x="265" y="161" font-size="12" text-anchor="middle" fill="var(--fig-ink)">粒線體</text>
+  <rect x="8" y="186" width="344" height="26" rx="5" fill="var(--fig-cool)" stroke="var(--fig-line)" stroke-width="1"/>
+  <text x="180" y="203" font-size="12" text-anchor="middle" fill="var(--fig-ink)">植物細胞特有：細胞壁、葉綠體、大型液泡</text>
+  <text x="350" y="232" font-size="11" text-anchor="end" fill="var(--fig-soft)">示意圖</text>
+</svg>

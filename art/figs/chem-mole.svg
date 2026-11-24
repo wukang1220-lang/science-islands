@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 219" role="img">
+  <title>反應式的係數給出分子數和莫耳數的比例，反應物的總質量等於生成物的質量。</title>
+  <text x="180" y="20" text-anchor="middle" font-size="14" font-weight="600" fill="var(--fig-ink)">化學反應式的意義</text>
+  <rect x="8" y="35" width="344" height="131" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <path d="M13 35H347Q352 35 352 40V70H8V40Q8 35 13 35Z" fill="var(--fig-cool)" stroke="var(--fig-line)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="103" y="57" text-anchor="middle" font-size="14" font-weight="600" fill="var(--fig-ink)"><tspan x="103">2H₂ </tspan><tspan x="142">＋ </tspan><tspan x="180">O₂ </tspan><tspan x="219">→ </tspan><tspan x="257">2H₂O</tspan></text>
+  <path d="M62 70V165 M142 70V165 M219 70V165 M8 102H352" fill="none" stroke="var(--fig-line)" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="8" y="134" width="344" height="32" rx="4" fill="none" stroke="var(--ic)" stroke-width="1.8"/>
+  <text x="35" y="91" text-anchor="middle" font-size="13" font-weight="600" fill="var(--fig-ink)">分子數</text>
+  <text x="103" y="91" text-anchor="middle" font-size="13" fill="var(--fig-ink)">2</text>
+  <text x="180" y="91" text-anchor="middle" font-size="13" fill="var(--fig-ink)">1</text>
+  <text x="257" y="91" text-anchor="middle" font-size="13" fill="var(--fig-ink)">2</text>
+  <text x="35" y="123" text-anchor="middle" font-size="13" font-weight="600" fill="var(--fig-ink)">莫耳數</text>
+  <text x="103" y="123" text-anchor="middle" font-size="13" fill="var(--fig-ink)">2 莫耳</text>
+  <text x="180" y="123" text-anchor="middle" font-size="13" fill="var(--fig-ink)">1 莫耳</text>
+  <text x="257" y="123" text-anchor="middle" font-size="13" fill="var(--fig-ink)">2 莫耳</text>
+  <text x="35" y="155" text-anchor="middle" font-size="13" font-weight="600" fill="var(--fig-ink)">質量</text>
+  <text x="103" y="155" text-anchor="middle" font-size="13" font-weight="600" fill="var(--fig-ink)">4 g</text>
+  <text x="180" y="155" text-anchor="middle" font-size="13" font-weight="600" fill="var(--fig-ink)">32 g</text>
+  <text x="257" y="155" text-anchor="middle" font-size="13" font-weight="600" fill="var(--fig-ink)">36 g</text>
+  <rect x="8" y="179" width="344" height="28" rx="5" fill="var(--fig-cool)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <text x="180" y="197" text-anchor="middle" font-size="12" fill="var(--fig-ink)">原子量：H＝1，O＝16；反應前 4＋32＝36 g，反應後 36 g</text>
+</svg>

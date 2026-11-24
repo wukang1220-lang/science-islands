@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 210" role="img">
+  <title>葉綠體中的葉綠素吸收光能，植物利用水和二氧化碳進行光合作用，產生葡萄糖、氧氣與水。</title>
+  <defs><marker id="bio-photosyn-arr" markerWidth="6" markerHeight="6" refX="5.5" refY="3" orient="auto" markerUnits="userSpaceOnUse"><path d="M0 0L6 3L0 6Z" fill="var(--fig-ink)"/></marker></defs>
+  <text x="180" y="20" font-size="14" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">光合作用</text>
+  <circle cx="180" cy="48" r="9" fill="var(--fig-warm)" stroke="var(--fig-ink)" stroke-width="1.3"/>
+  <path d="M180 32V35 M164 48H167 M193 48H196 M169 37L171 39 M189 57L191 59 M169 59L171 57 M189 39L191 37" fill="none" stroke="var(--fig-ink)" stroke-width="1.3" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M180 61V83" fill="none" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#bio-photosyn-arr)"/>
+  <text x="191" y="75" font-size="12" text-anchor="start" fill="var(--fig-ink)">光能</text>
+  <rect x="128" y="86" width="104" height="107" rx="9" fill="var(--fig-paper)" stroke="var(--ic)" stroke-width="2"/>
+  <path d="M156 114C156 104 168 98 183 99S205 106 204 114S188 129 174 127S155 123 156 114Z" fill="var(--fig-land)" stroke="var(--fig-ink)" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M163 113H174 M163 116H174 M163 119H174 M176 114L184 110 M184 106H195 M184 109H195 M184 112H195" fill="none" stroke="var(--fig-ink)" stroke-width="1.3" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="180" y="152" font-size="14" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">葉綠體</text>
+  <text x="180" y="175" font-size="12" text-anchor="middle" fill="var(--fig-ink)">葉綠素吸收光能</text>
+  <text x="8" y="114" font-size="13" text-anchor="start" fill="var(--fig-ink)" font-weight="600">水</text>
+  <text x="8" y="131" font-size="12" text-anchor="start" fill="var(--fig-ink)">由根吸收，</text>
+  <text x="8" y="146" font-size="12" text-anchor="start" fill="var(--fig-ink)">經葉脈運送</text>
+  <path d="M46 109H125" fill="none" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#bio-photosyn-arr)"/>
+  <text x="8" y="168" font-size="13" text-anchor="start" fill="var(--fig-ink)" font-weight="600">二氧化碳</text>
+  <text x="8" y="188" font-size="12" text-anchor="start" fill="var(--fig-ink)">由氣孔進入</text>
+  <path d="M72 163H125" fill="none" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#bio-photosyn-arr)"/>
+  <path d="M234 107H250" fill="none" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#bio-photosyn-arr)"/>
+  <text x="255" y="111" font-size="13" text-anchor="start" fill="var(--fig-ink)" font-weight="600">葡萄糖</text>
+  <text x="255" y="130" font-size="12" text-anchor="start" fill="var(--fig-ink)">可轉變成澱粉儲存</text>
+  <path d="M234 149H250" fill="none" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#bio-photosyn-arr)"/>
+  <text x="255" y="153" font-size="13" text-anchor="start" fill="var(--fig-ink)" font-weight="600">氧氣</text>
+  <text x="255" y="172" font-size="12" text-anchor="start" fill="var(--fig-ink)">由氣孔釋出</text>
+  <path d="M234 185H250" fill="none" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#bio-photosyn-arr)"/>
+  <text x="255" y="190" font-size="13" text-anchor="start" fill="var(--fig-ink)" font-weight="600">水</text>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 240" role="img">
+  <title>六大類養分可依能否產生能量分組，表下列出大分子養分分解後的小分子。</title>
+  <text x="180" y="21" font-size="14" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">六大類養分</text>
+  <rect x="8" y="32" width="344" height="139" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <path d="M180 32V171 M8 65H352 M8 100H352 M8 135H352" fill="none" stroke="var(--fig-line)" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="8" y="32" width="172" height="33" rx="4" fill="none" stroke="var(--ic)" stroke-width="2"/>
+  <text x="94" y="53" font-size="13" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">能產生能量</text>
+  <text x="266" y="53" font-size="13" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">不能產生能量</text>
+  <text x="19" y="87" font-size="13" text-anchor="start" fill="var(--fig-ink)" font-weight="600">醣類</text>
+  <text x="74" y="87" font-size="12" text-anchor="start" fill="var(--fig-ink)">米飯、麵包</text>
+  <text x="191" y="87" font-size="13" text-anchor="start" fill="var(--fig-ink)" font-weight="600">水</text>
+  <text x="248" y="87" font-size="12" text-anchor="start" fill="var(--fig-ink)">體內含量最多</text>
+  <text x="19" y="122" font-size="13" text-anchor="start" fill="var(--fig-ink)" font-weight="600">蛋白質</text>
+  <text x="74" y="122" font-size="12" text-anchor="start" fill="var(--fig-ink)">蛋、豆、魚、肉</text>
+  <text x="191" y="122" font-size="13" text-anchor="start" fill="var(--fig-ink)" font-weight="600">維生素</text>
+  <text x="248" y="122" font-size="12" text-anchor="start" fill="var(--fig-ink)">調節生理機能</text>
+  <text x="19" y="157" font-size="13" text-anchor="start" fill="var(--fig-ink)" font-weight="600">脂質</text>
+  <text x="74" y="157" font-size="12" text-anchor="start" fill="var(--fig-ink)">油脂、堅果</text>
+  <text x="191" y="157" font-size="13" text-anchor="start" fill="var(--fig-ink)" font-weight="600">礦物質</text>
+  <text x="248" y="157" font-size="12" text-anchor="start" fill="var(--fig-ink)">鈣、鐵、磷等</text>
+  <rect x="8" y="181" width="344" height="51" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <text x="19" y="201" font-size="12" text-anchor="start" fill="var(--fig-ink)">大分子 → 小分子：澱粉 → 葡萄糖・</text>
+  <text x="19" y="221" font-size="12" text-anchor="start" fill="var(--fig-ink)">蛋白質 → 胺基酸・脂質 → 脂肪酸、甘油</text>
+</svg>

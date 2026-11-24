@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 237" role="img">
+  <title>量筒水位差給出石頭的體積，質量對體積圖中較陡的甲線表示密度較大。</title>
+  <defs><marker id="phy-density-ink" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto" markerUnits="userSpaceOnUse"><path d="M1 1L6 3.5L1 6" fill="none" stroke="var(--fig-ink)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>
+  <text x="180" y="20" text-anchor="middle" font-size="14" fill="var(--fig-ink)" font-weight="600">排水法與密度</text>
+  <path d="M181 34V189" fill="none" stroke="var(--fig-line)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M29 107q17 8 34 0v42h-34Z" fill="var(--fig-sea)" stroke="none" stroke-width="0" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M29 107q17 8 34 0" fill="none" stroke="var(--ic)" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M25 57l4 3v87q0 3 3 3h28q3 0 3-3V59M46 150v5m-20 1h40" fill="none" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M30 72h8 M30 85h5 M30 98h8 M30 111h5 M30 124h8 M30 137h5" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="46" y="175" text-anchor="middle" font-size="12" fill="var(--fig-ink)">V₁＝30 mL</text>
+  <path d="M114 81q17 8 34 0v68h-34Z" fill="var(--fig-sea)" stroke="none" stroke-width="0" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M114 81q17 8 34 0" fill="none" stroke="var(--ic)" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M110 57l4 3v87q0 3 3 3h28q3 0 3-3V59M131 150v5m-20 1h40" fill="none" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M115 72h8 M115 85h5 M115 98h8 M115 111h5 M115 124h8 M115 137h5" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="131" y="175" text-anchor="middle" font-size="12" fill="var(--fig-ink)">V₂＝50 mL</text>
+  <path d="M119 135q-1-7 7-13l8-3q5 0 9 6l1 9q-2 7-10 8l-10-1Z" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="62" y="43" text-anchor="middle" font-size="11" fill="var(--fig-ink)">讀凹面最低處</text>
+  <path d="M65 48l9 10v53H48" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="90" y="193" text-anchor="middle" font-size="12" fill="var(--fig-ink)">物體體積＝V₂－V₁＝20 cm³</text>
+  <path d="M207 156V59" fill="none" stroke="var(--fig-ink)" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#phy-density-ink)"/>
+  <path d="M207 156H341" fill="none" stroke="var(--fig-ink)" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#phy-density-ink)"/>
+  <text x="206" y="47" text-anchor="middle" font-size="12" fill="var(--fig-ink)">質量</text>
+  <text x="324" y="176" text-anchor="middle" font-size="12" fill="var(--fig-ink)">體積</text>
+  <path d="M207 156L258 70" fill="none" stroke="var(--ic)" stroke-width="2.3" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M207 156L323 109" fill="none" stroke="var(--fig-ink)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="262" y="58" text-anchor="middle" font-size="12" fill="var(--fig-ink)">甲：密度較大</text>
+  <text x="332" y="110" text-anchor="middle" font-size="12" fill="var(--fig-ink)">乙</text>
+  <rect x="8" y="201" width="344" height="28" rx="4" fill="var(--fig-cool)" stroke="var(--fig-line)"/>
+  <text x="180" y="220" text-anchor="middle" font-size="13" fill="var(--fig-ink)">密度＝質量÷體積（D＝M÷V）</text>
+</svg>

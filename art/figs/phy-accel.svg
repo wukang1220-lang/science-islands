@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 211" role="img">
+  <title>速度圖的斜率代表加速度，打點紙帶上的點距隨速度增加而拉大。</title>
+  <defs><marker id="phy-accel-ink" markerWidth="7" markerHeight="7" refX="6.5" refY="3.5" orient="auto" markerUnits="userSpaceOnUse"><path d="M1 1L6.5 3.5L1 6" fill="none" stroke="var(--fig-ink)" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>
+  <text x="180" y="20" font-size="14" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">等加速度運動</text>
+  <path d="M24 144L160 61V144Z" fill="var(--fig-cool)" stroke="none" stroke-width="0" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M24 144v-87" fill="none" stroke="var(--fig-ink)" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#phy-accel-ink)"/>
+  <path d="M24 144h146" fill="none" stroke="var(--fig-ink)" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#phy-accel-ink)"/>
+  <text x="24" y="49" font-size="12" text-anchor="middle" fill="var(--fig-ink)">速度</text>
+  <text x="164" y="161" font-size="12" text-anchor="middle" fill="var(--fig-ink)">時間</text>
+  <path d="M24 144L160 61" fill="none" stroke="var(--ic)" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M160 64V142" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="3 3"/>
+  <text x="79" y="77" font-size="12" text-anchor="middle" fill="var(--fig-ink)">斜率＝加速度</text>
+  <text x="119" y="133" font-size="12" text-anchor="middle" fill="var(--fig-ink)">面積＝位移</text>
+  <path d="M182 40V158" fill="none" stroke="var(--fig-line)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M193 84Q201 79 210 82T228 84H348L344 93L348 103L344 112H216Q202 108 193 112L197 103L193 95Z" fill="var(--fig-sand)" stroke="var(--fig-soft)" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="203" cy="97" r="2.4" fill="var(--fig-ink)" stroke="var(--fig-ink)" stroke-width="1"/>
+  <circle cx="210" cy="97" r="2.4" fill="var(--fig-ink)" stroke="var(--fig-ink)" stroke-width="1"/>
+  <circle cx="221" cy="97" r="2.4" fill="var(--fig-ink)" stroke="var(--fig-ink)" stroke-width="1"/>
+  <circle cx="236" cy="97" r="2.4" fill="var(--fig-ink)" stroke="var(--fig-ink)" stroke-width="1"/>
+  <circle cx="255" cy="97" r="2.4" fill="var(--fig-ink)" stroke="var(--fig-ink)" stroke-width="1"/>
+  <circle cx="278" cy="97" r="2.4" fill="var(--fig-ink)" stroke="var(--fig-ink)" stroke-width="1"/>
+  <circle cx="305" cy="97" r="2.4" fill="var(--fig-ink)" stroke="var(--fig-ink)" stroke-width="1"/>
+  <circle cx="336" cy="97" r="2.4" fill="var(--fig-ink)" stroke="var(--fig-ink)" stroke-width="1"/>
+  <text x="269" y="146" font-size="12" text-anchor="middle" fill="var(--fig-ink)">點的間隔愈來愈大：加速</text>
+  <rect x="8" y="174" width="344" height="28" rx="5" fill="var(--fig-cool)" stroke="var(--fig-line)" stroke-width="1"/>
+  <text x="180" y="193" font-size="12" text-anchor="middle" fill="var(--fig-ink)">加速度＝速度變化÷時間（m/s²）</text>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 222" role="img">
+  <title>鉛筆左端對齊零刻度，長度讀為 3.46 cm，最後一位是估計值。</title>
+  <text x="180" y="20" text-anchor="middle" font-size="14" fill="var(--fig-ink)" font-weight="600">測量與估計</text>
+  <text x="337" y="43" text-anchor="end" font-size="12" fill="var(--fig-ink)">最小刻度 1 mm</text>
+  <rect x="19" y="79" width="322" height="43" rx="3" fill="var(--fig-sand)" stroke="var(--fig-ink)"/>
+  <path d="M30 79v18 M36 79v8 M42 79v8 M48 79v8 M54 79v8 M60 79v13 M66 79v8 M72 79v8 M78 79v8 M84 79v8 M90 79v18 M96 79v8 M102 79v8 M108 79v8 M114 79v8 M120 79v13 M126 79v8 M132 79v8 M138 79v8 M144 79v8 M150 79v18 M156 79v8 M162 79v8 M168 79v8 M174 79v8 M180 79v13 M186 79v8 M192 79v8 M198 79v8 M204 79v8 M210 79v18 M216 79v8 M222 79v8 M228 79v8 M234 79v8 M240 79v13 M246 79v8 M252 79v8 M258 79v8 M264 79v8 M270 79v18 M276 79v8 M282 79v8 M288 79v8 M294 79v8 M300 79v13 M306 79v8 M312 79v8 M318 79v8 M324 79v8 M330 79v18" fill="none" stroke="var(--fig-ink)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="30" y="113" text-anchor="middle" font-size="12" fill="var(--fig-ink)">0</text>
+  <text x="90" y="113" text-anchor="middle" font-size="12" fill="var(--fig-ink)">1</text>
+  <text x="150" y="113" text-anchor="middle" font-size="12" fill="var(--fig-ink)">2</text>
+  <text x="210" y="113" text-anchor="middle" font-size="12" fill="var(--fig-ink)">3</text>
+  <text x="270" y="113" text-anchor="middle" font-size="12" fill="var(--fig-ink)">4</text>
+  <text x="330" y="113" text-anchor="middle" font-size="12" fill="var(--fig-ink)">5</text>
+  <text x="347" y="137" text-anchor="end" font-size="11" fill="var(--fig-ink)">cm</text>
+  <rect x="30" y="51" width="185" height="13" rx="2" fill="var(--fig-warm)" stroke="var(--fig-ink)"/>
+  <path d="M41 51V64M45 51V64M46 57H213" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M215 51L237.6 57.5L215 64Z" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M231 55.6L237.6 57.5L231 59.4Z" fill="var(--fig-ink)" stroke="var(--fig-ink)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M30 65V78M237.6 61V78" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="3 3"/>
+  <text x="136" y="148" text-anchor="start" font-size="14" font-weight="600" fill="var(--fig-ink)">讀數 <tspan x="169">3.46 cm</tspan></text>
+  <path d="M169 152v3h17v-3M177 155l-11 9h-15M192 153v6l10 5h10" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="128" y="174" text-anchor="middle" font-size="12" fill="var(--fig-ink)">準確值</text>
+  <text x="237" y="174" text-anchor="middle" font-size="12" fill="var(--fig-ink)">估計值</text>
+  <rect x="8" y="186" width="344" height="28" rx="4" fill="var(--fig-cool)" stroke="var(--fig-line)"/>
+  <text x="180" y="205" text-anchor="middle" font-size="13" fill="var(--fig-ink)">完整紀錄＝數字＋單位，估到最小刻度的下一位</text>
+</svg>

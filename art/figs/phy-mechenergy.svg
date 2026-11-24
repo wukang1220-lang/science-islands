@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 213" role="img">
+  <title>單擺在兩端最高處位能最大，通過最低處時動能最大。</title>
+  <text x="180" y="20" font-size="14" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">動能與位能</text>
+  <path d="M151 39h58" fill="none" stroke="var(--fig-ink)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M152 37l5 -6" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M164 37l5 -6" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M176 37l5 -6" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M188 37l5 -6" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M200 37l5 -6" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M95 124A120 120 0 0 0 265 124" fill="none" stroke="var(--fig-soft)" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="3 4"/>
+  <path d="M95 124L180 39L265 124" fill="none" stroke="var(--fig-soft)" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M180 39v120" fill="none" stroke="var(--ic)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="180" cy="39" r="3.5" fill="var(--fig-ink)" stroke="var(--fig-ink)" stroke-width="1"/>
+  <circle cx="95" cy="124" r="7" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.5"/>
+  <circle cx="180" cy="159" r="7" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.5"/>
+  <circle cx="265" cy="124" r="7" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.5"/>
+  <text x="69" y="91" font-size="12" text-anchor="middle" fill="var(--fig-ink)">位能最大，動能最小</text>
+  <path d="M76 97l13 18" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M192 158h23" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="281" y="162" font-size="12" text-anchor="middle" fill="var(--fig-ink)">動能最大，位能最小</text>
+  <rect x="8" y="179" width="344" height="28" rx="5" fill="var(--fig-cool)" stroke="var(--fig-line)" stroke-width="1"/>
+  <text x="180" y="198" font-size="12" text-anchor="middle" fill="var(--fig-ink)">重力位能 U＝m×g×h　動能 K＝½×m×v²</text>
+</svg>

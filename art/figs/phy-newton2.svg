@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 204" role="img">
+  <title>質量固定時加速度與合力成正比，合力固定時加速度與質量成反比。</title>
+  <defs><marker id="phy-newton2-ink" markerWidth="7" markerHeight="7" refX="6.5" refY="3.5" orient="auto" markerUnits="userSpaceOnUse"><path d="M1 1L6.5 3.5L1 6" fill="none" stroke="var(--fig-ink)" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>
+  <text x="180" y="20" font-size="14" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">運動定律 F＝m×a</text>
+  <path d="M180 37V157" fill="none" stroke="var(--fig-line)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M28 125v-69" fill="none" stroke="var(--fig-ink)" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#phy-newton2-ink)"/>
+  <path d="M28 125h129" fill="none" stroke="var(--fig-ink)" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#phy-newton2-ink)"/>
+  <text x="28" y="48" font-size="12" text-anchor="middle" fill="var(--fig-ink)">加速度</text>
+  <text x="151" y="142" font-size="12" text-anchor="middle" fill="var(--fig-ink)">合力</text>
+  <path d="M28 125L146 59" fill="none" stroke="var(--ic)" stroke-width="2.3" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M210 125v-69" fill="none" stroke="var(--fig-ink)" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#phy-newton2-ink)"/>
+  <path d="M210 125h127" fill="none" stroke="var(--fig-ink)" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#phy-newton2-ink)"/>
+  <text x="210" y="48" font-size="12" text-anchor="middle" fill="var(--fig-ink)">加速度</text>
+  <text x="331" y="142" font-size="12" text-anchor="middle" fill="var(--fig-ink)">質量</text>
+  <path d="M222 58C225 73 228 81 234 91C243 104 260 110 282 114C296 116 316 118 330 118.5" fill="none" stroke="var(--ic)" stroke-width="2.3" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="89" y="162" font-size="13" text-anchor="middle" fill="var(--fig-ink)">m 固定：a 和 F 成正比</text>
+  <text x="269" y="162" font-size="13" text-anchor="middle" fill="var(--fig-ink)">F 固定：a 和 m 成反比</text>
+  <rect x="8" y="171" width="344" height="28" rx="5" fill="var(--fig-cool)" stroke="var(--fig-line)" stroke-width="1"/>
+  <text x="180" y="190" font-size="12" text-anchor="middle" fill="var(--fig-ink)">1 N＝使 1 kg 產生 1 m/s² 的力</text>
+</svg>

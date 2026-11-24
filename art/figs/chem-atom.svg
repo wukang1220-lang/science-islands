@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 226" role="img">
+  <title>原子核含有質子和中子，電子在原子核外，表中列出三種粒子的電性、位置和發現者。</title>
+  <text x="180" y="20" text-anchor="middle" font-size="14" font-weight="600" fill="var(--fig-ink)">原子的構造</text>
+  <path d="M25 134A53 17 -28 1 1 119 84A53 17 -28 1 1 25 134Z M25 84A53 17 28 1 0 119 134A53 17 28 1 0 25 84Z" fill="none" stroke="var(--fig-soft)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="72" cy="109" r="20" fill="var(--fig-paper)" stroke="var(--ic)" stroke-width="1.5"/>
+  <circle cx="66" cy="102" r="7.3" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.2"/>
+  <text x="66" y="106" text-anchor="middle" font-size="11" font-weight="600" fill="var(--fig-ink)">＋</text>
+  <circle cx="79" cy="103" r="7.3" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1.2"/>
+  <circle cx="66" cy="116" r="7.3" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1.2"/>
+  <circle cx="79" cy="116" r="7.3" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.2"/>
+  <text x="79" y="120" text-anchor="middle" font-size="11" font-weight="600" fill="var(--fig-ink)">＋</text>
+  <circle cx="25" cy="84" r="7.6" fill="var(--fig-cool)" stroke="var(--fig-ink)" stroke-width="1.2"/>
+  <text x="25" y="87.8" text-anchor="middle" font-size="11" font-weight="600" fill="var(--fig-ink)">－</text>
+  <circle cx="119" cy="134" r="7.6" fill="var(--fig-cool)" stroke="var(--fig-ink)" stroke-width="1.2"/>
+  <text x="119" y="137.8" text-anchor="middle" font-size="11" font-weight="600" fill="var(--fig-ink)">－</text>
+  <path d="M22 57v14l2 5 M103 60H86L67 94 M58 147l3 -17 5 -8 M24 147v-10l29 -23" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="22" y="52" text-anchor="middle" font-size="12" fill="var(--fig-ink)">電子</text>
+  <text x="114" y="64" text-anchor="middle" font-size="12" fill="var(--fig-ink)">質子</text>
+  <text x="57" y="161" text-anchor="middle" font-size="12" fill="var(--fig-ink)">中子</text>
+  <text x="25" y="162" text-anchor="middle" font-size="12" fill="var(--fig-ink)">原子核</text>
+  <rect x="139" y="37" width="215" height="124" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <path d="M144 37H349Q354 37 354 42V68H139V42Q139 37 144 37Z" fill="var(--fig-cool)" stroke="var(--fig-line)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M177 37V161 M224 37V161 M291 37V161 M139 99H354 M139 130H354" fill="none" stroke="var(--fig-line)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="158" y="57" text-anchor="middle" font-size="12" font-weight="600" fill="var(--fig-ink)">粒子</text>
+  <text x="200.5" y="57" text-anchor="middle" font-size="12" font-weight="600" fill="var(--fig-ink)">電性</text>
+  <text x="257.5" y="57" text-anchor="middle" font-size="12" font-weight="600" fill="var(--fig-ink)">位置</text>
+  <text x="322.5" y="57" text-anchor="middle" font-size="12" font-weight="600" fill="var(--fig-ink)">發現者</text>
+  <text x="158" y="88" text-anchor="middle" font-size="12" fill="var(--fig-ink)">電子</text>
+  <text x="200.5" y="88" text-anchor="middle" font-size="12" fill="var(--fig-ink)">負電</text>
+  <text x="257.5" y="88" text-anchor="middle" font-size="12" fill="var(--fig-ink)">原子核外</text>
+  <text x="322.5" y="88" text-anchor="middle" font-size="12" fill="var(--fig-ink)">湯姆森</text>
+  <text x="158" y="119" text-anchor="middle" font-size="12" fill="var(--fig-ink)">質子</text>
+  <text x="200.5" y="119" text-anchor="middle" font-size="12" fill="var(--fig-ink)">正電</text>
+  <text x="257.5" y="119" text-anchor="middle" font-size="12" fill="var(--fig-ink)">原子核內</text>
+  <text x="322.5" y="119" text-anchor="middle" font-size="12" fill="var(--fig-ink)">拉塞福</text>
+  <text x="158" y="150" text-anchor="middle" font-size="12" fill="var(--fig-ink)">中子</text>
+  <text x="200.5" y="150" text-anchor="middle" font-size="12" fill="var(--fig-ink)">不帶電</text>
+  <text x="257.5" y="150" text-anchor="middle" font-size="12" fill="var(--fig-ink)">原子核內</text>
+  <text x="322.5" y="150" text-anchor="middle" font-size="12" fill="var(--fig-ink)">查兌克</text>
+  <rect x="8" y="175" width="344" height="28" rx="5" fill="var(--fig-cool)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <text x="180" y="193" text-anchor="middle" font-size="12" fill="var(--fig-ink)">質子數＝原子序；質子數＋中子數＝質量數</text>
+  <text x="350" y="220" text-anchor="end" font-size="11" fill="var(--fig-soft)">示意圖</text>
+</svg>

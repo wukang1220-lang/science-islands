@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 253" role="img">
+  <title>通電時陽離子移向負極，陰離子移向正極，溶液整體呈電中性。</title>
+  <text x="180" y="21" font-size="14" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">電解質溶液導電</text>
+  <defs><marker id="chem-ions-arrow" markerWidth="7" markerHeight="7" refX="6.5" refY="3.5" orient="auto" markerUnits="userSpaceOnUse"><path d="M0 0L7 3.5L0 7Z" fill="var(--fig-ink)"/></marker></defs>
+  <path d="M65 94V45H168M179 45H239M259 45H295V94M168 39V51M179 33V57" fill="none" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="249" cy="45" r="10" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.5"/>
+  <path d="M243 39l12 12m0 -12l-12 12" fill="none" stroke="var(--fig-ink)" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M34 119h292v57q0 4 -4 4h-284q-4 0 -4 -4Z" fill="var(--fig-sea)" stroke="none" stroke-width="0" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M33 119h294" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M28 101l4 3v72q0 5 5 5h286q5 0 5 -5V104" fill="none" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="60" y="89" width="10" height="73" rx="2" fill="var(--fig-cool)" stroke="var(--fig-ink)" stroke-width="1.5"/>
+  <rect x="290" y="89" width="10" height="73" rx="2" fill="var(--fig-warm)" stroke="var(--fig-ink)" stroke-width="1.5"/>
+  <text x="89" y="91" font-size="13" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">負極</text>
+  <text x="271" y="91" font-size="13" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">正極</text>
+  <circle cx="144" cy="136" r="10" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1.5"/>
+  <text x="144" y="140" font-size="12" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">＋</text>
+  <circle cx="117" cy="162" r="10" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1.5"/>
+  <text x="117" y="166" font-size="12" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">＋</text>
+  <circle cx="213" cy="136" r="10" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1.5"/>
+  <text x="213" y="140" font-size="12" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">－</text>
+  <circle cx="246" cy="162" r="10" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1.5"/>
+  <text x="246" y="166" font-size="12" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">－</text>
+  <path d="M128 136H91" fill="none" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#chem-ions-arrow)"/>
+  <path d="M101 162H80" fill="none" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#chem-ions-arrow)"/>
+  <path d="M229 136H265" fill="none" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#chem-ions-arrow)"/>
+  <path d="M262 162H279" fill="none" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#chem-ions-arrow)"/>
+  <text x="93" y="200" font-size="13" text-anchor="middle" fill="var(--fig-ink)">陽離子 → 負極</text>
+  <text x="267" y="200" font-size="13" text-anchor="middle" fill="var(--fig-ink)">陰離子 → 正極</text>
+  <rect x="8" y="209" width="344" height="28" rx="5" fill="var(--fig-cool)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <text x="180" y="228" font-size="13" text-anchor="middle" fill="var(--fig-ink)">正、負電量相等，溶液呈電中性</text>
+  <text x="350" y="249" font-size="11" text-anchor="end" fill="var(--fig-soft)">示意圖</text>
+</svg>

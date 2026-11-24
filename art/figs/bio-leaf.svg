@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 236" role="img">
+  <title>葉片剖面顯示角質層、上下表皮、含葉綠體的葉肉、葉脈及兩個保衛細胞之間的氣孔。</title>
+  <path d="M126 180H67V39H245V180H173" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1.4"/>
+  <path d="M67 39Q110 34 158 38T245 37V41Q203 45 158 42T67 43Z" fill="var(--fig-land)" stroke="var(--fig-ink)" stroke-width="1.1" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M67 43Q111 38 158 42T245 41V61H67Z" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M89 42L90 61 M115 41L114 61 M139 41L140 61 M165 43L166 61 M193 44L192 61 M219 43L221 61" fill="none" stroke="var(--fig-ink)" stroke-width="1.1" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="70" y="63" width="22" height="42" rx="9" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1.2"/>
+  <circle cx="76" cy="73" r="2.6" fill="var(--fig-land)" stroke="var(--fig-ink)" stroke-width="0.8"/>
+  <circle cx="86" cy="95" r="2.5" fill="var(--fig-land)" stroke="var(--fig-ink)" stroke-width="0.8"/>
+  <rect x="95" y="64" width="22" height="47" rx="9" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1.2"/>
+  <circle cx="101" cy="74" r="2.6" fill="var(--fig-land)" stroke="var(--fig-ink)" stroke-width="0.8"/>
+  <circle cx="111" cy="101" r="2.5" fill="var(--fig-land)" stroke="var(--fig-ink)" stroke-width="0.8"/>
+  <rect x="120" y="63" width="21" height="40" rx="9" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1.2"/>
+  <circle cx="126" cy="73" r="2.6" fill="var(--fig-land)" stroke="var(--fig-ink)" stroke-width="0.8"/>
+  <circle cx="135" cy="93" r="2.5" fill="var(--fig-land)" stroke="var(--fig-ink)" stroke-width="0.8"/>
+  <rect x="144" y="64" width="22" height="44" rx="9" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1.2"/>
+  <circle cx="150" cy="74" r="2.6" fill="var(--fig-land)" stroke="var(--fig-ink)" stroke-width="0.8"/>
+  <circle cx="160" cy="98" r="2.5" fill="var(--fig-land)" stroke="var(--fig-ink)" stroke-width="0.8"/>
+  <rect x="169" y="63" width="20" height="40" rx="9" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1.2"/>
+  <circle cx="175" cy="73" r="2.6" fill="var(--fig-land)" stroke="var(--fig-ink)" stroke-width="0.8"/>
+  <circle cx="183" cy="93" r="2.5" fill="var(--fig-land)" stroke="var(--fig-ink)" stroke-width="0.8"/>
+  <rect x="192" y="63" width="23" height="39" rx="9" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1.2"/>
+  <circle cx="198" cy="73" r="2.6" fill="var(--fig-land)" stroke="var(--fig-ink)" stroke-width="0.8"/>
+  <circle cx="209" cy="92" r="2.5" fill="var(--fig-land)" stroke="var(--fig-ink)" stroke-width="0.8"/>
+  <rect x="218" y="63" width="24" height="42" rx="9" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1.2"/>
+  <circle cx="224" cy="73" r="2.6" fill="var(--fig-land)" stroke="var(--fig-ink)" stroke-width="0.8"/>
+  <circle cx="236" cy="95" r="2.5" fill="var(--fig-land)" stroke="var(--fig-ink)" stroke-width="0.8"/>
+  <path d="M70 121Q73 111 87 113T103 124Q101 131 89 130T71 135Q66 134 70 121Z" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M113 122Q116 111 128 112Q138 111 147 121Q153 129 142 133Q134 136 126 131Q109 135 113 122Z" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M75 146Q81 137 92 138Q101 138 108 146T103 157H79Q69 156 75 146Z" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M125 148Q126 138 139 138Q146 137 155 142Q165 143 164 151Q163 158 151 158H136Q123 158 125 148Z" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M205 139Q211 132 218 136Q224 141 232 140Q243 139 242 150Q238 158 222 158Q208 157 205 151Q202 146 205 139Z" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M218 118Q223 108 233 108T243 120Q241 132 228 129Q216 127 218 118Z" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="78" cy="121" r="2.5" fill="var(--fig-land)" stroke="var(--fig-ink)" stroke-width="0.8"/>
+  <circle cx="95" cy="124" r="2.5" fill="var(--fig-land)" stroke="var(--fig-ink)" stroke-width="0.8"/>
+  <circle cx="123" cy="120" r="2.5" fill="var(--fig-land)" stroke="var(--fig-ink)" stroke-width="0.8"/>
+  <circle cx="137" cy="127" r="2.5" fill="var(--fig-land)" stroke="var(--fig-ink)" stroke-width="0.8"/>
+  <circle cx="84" cy="149" r="2.5" fill="var(--fig-land)" stroke="var(--fig-ink)" stroke-width="0.8"/>
+  <circle cx="99" cy="152" r="2.5" fill="var(--fig-land)" stroke="var(--fig-ink)" stroke-width="0.8"/>
+  <circle cx="133" cy="150" r="2.5" fill="var(--fig-land)" stroke="var(--fig-ink)" stroke-width="0.8"/>
+  <circle cx="152" cy="150" r="2.5" fill="var(--fig-land)" stroke="var(--fig-ink)" stroke-width="0.8"/>
+  <circle cx="212" cy="145" r="2.5" fill="var(--fig-land)" stroke="var(--fig-ink)" stroke-width="0.8"/>
+  <circle cx="232" cy="150" r="2.5" fill="var(--fig-land)" stroke="var(--fig-ink)" stroke-width="0.8"/>
+  <circle cx="226" cy="117" r="2.5" fill="var(--fig-land)" stroke="var(--fig-ink)" stroke-width="0.8"/>
+  <circle cx="184" cy="128" r="22" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.4"/>
+  <circle cx="178" cy="119" r="5.3" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1"/>
+  <circle cx="190" cy="119" r="5.3" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1"/>
+  <circle cx="173" cy="130" r="4.1" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1"/>
+  <circle cx="184" cy="131" r="5.1" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1"/>
+  <circle cx="195" cy="130" r="4.1" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1"/>
+  <circle cx="178" cy="140" r="3.6" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1"/>
+  <circle cx="188" cy="140" r="3.6" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1"/>
+  <rect x="67" y="160" width="60" height="20" rx="1" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1.2"/>
+  <rect x="171" y="160" width="74" height="20" rx="1" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="1.2"/>
+  <path d="M89 160L90 180 M108 160L109 180 M192 160L194 180 M217 160L218 180" fill="none" stroke="var(--fig-ink)" stroke-width="1.1" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M127 162Q139 157 146 163Q148 166 143 169Q139 172 143 177Q145 182 139 182Q125 180 125 172Q124 166 127 162Z" fill="var(--fig-land)" stroke="var(--fig-ink)" stroke-width="1.3" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M171 162Q159 157 152 163Q150 166 155 169Q159 172 155 177Q153 182 159 182Q173 180 173 172Q174 166 171 162Z" fill="var(--fig-land)" stroke="var(--fig-ink)" stroke-width="1.3" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M53 27H58L81 38 M53 56H74 M53 99H59L72 89 M53 171H77 M254 76H248L236 94 M254 123H211L203 128 M53 204H126L149 190V175 M253 205H207L165 175" fill="none" stroke="var(--fig-ink)" stroke-width="1.1" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="49" y="30" font-size="12" text-anchor="end" fill="var(--fig-ink)">角質層</text>
+  <text x="49" y="60" font-size="12" text-anchor="end" fill="var(--fig-ink)">上表皮</text>
+  <text x="49" y="103" font-size="12" text-anchor="end" fill="var(--fig-ink)">葉肉</text>
+  <text x="49" y="175" font-size="12" text-anchor="end" fill="var(--fig-ink)">下表皮</text>
+  <text x="258" y="80" font-size="12" text-anchor="start" fill="var(--fig-ink)">葉綠體</text>
+  <text x="258" y="127" font-size="13" text-anchor="start" fill="var(--fig-ink)">葉脈（維管束）</text>
+  <text x="49" y="208" font-size="12" text-anchor="end" fill="var(--fig-ink)">氣孔</text>
+  <text x="258" y="209" font-size="12" text-anchor="start" fill="var(--fig-ink)">保衛細胞</text>
+  <text x="350" y="230" font-size="11" text-anchor="end" fill="var(--fig-soft)">示意圖</text>
+</svg>

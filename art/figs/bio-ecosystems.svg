@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 259" role="img">
+  <title>表格列出六種生態系各自的環境特色與例子。</title>
+  <text x="180" y="20" font-size="14" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">生態系的類型</text>
+  <rect x="8" y="32" width="344" height="218" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.3"/>
+  <path d="M13 32H347Q352 32 352 37V64H8V37Q8 32 13 32Z" fill="var(--fig-cool)" stroke="var(--fig-line)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M70 32v218" fill="none" stroke="var(--fig-line)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M228 32v218" fill="none" stroke="var(--fig-line)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="39" y="52" font-size="13" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">生態系</text>
+  <text x="149" y="52" font-size="13" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">環境特色</text>
+  <text x="290" y="52" font-size="13" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">例子</text>
+  <path d="M8 64h344" fill="none" stroke="var(--fig-line)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="39" y="83.5" font-size="13" text-anchor="middle" fill="var(--fig-ink)">森林</text>
+  <text x="78" y="83.5" font-size="13" text-anchor="start" fill="var(--fig-ink)">雨量多，生物種類多</text>
+  <text x="236" y="83.5" font-size="13" text-anchor="start" fill="var(--fig-ink)">闊葉林、針葉林</text>
+  <path d="M8 95h344" fill="none" stroke="var(--fig-line)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="39" y="114.5" font-size="13" text-anchor="middle" fill="var(--fig-ink)">草原</text>
+  <text x="78" y="114.5" font-size="13" text-anchor="start" fill="var(--fig-ink)">雨量較少，以草為主</text>
+  <text x="236" y="114.5" font-size="13" text-anchor="start" fill="var(--fig-ink)">大型草食動物</text>
+  <path d="M8 126h344" fill="none" stroke="var(--fig-line)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="39" y="145.5" font-size="13" text-anchor="middle" fill="var(--fig-ink)">沙漠</text>
+  <text x="78" y="145.5" font-size="13" text-anchor="start" fill="var(--fig-ink)">雨量稀少，日夜溫差大</text>
+  <text x="236" y="145.5" font-size="13" text-anchor="start" fill="var(--fig-ink)">仙人掌</text>
+  <path d="M8 157h344" fill="none" stroke="var(--fig-line)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="39" y="176.5" font-size="13" text-anchor="middle" fill="var(--fig-ink)">凍原</text>
+  <text x="78" y="176.5" font-size="13" text-anchor="start" fill="var(--fig-ink)">氣溫很低，地下長年結冰</text>
+  <text x="236" y="176.5" font-size="13" text-anchor="start" fill="var(--fig-ink)">地衣、蘚苔</text>
+  <path d="M8 188h344" fill="none" stroke="var(--fig-line)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="39" y="207.5" font-size="13" text-anchor="middle" fill="var(--fig-ink)">河口</text>
+  <text x="78" y="207.5" font-size="13" text-anchor="start" fill="var(--fig-ink)">鹽度變化大，養分豐富</text>
+  <text x="236" y="207.5" font-size="13" text-anchor="start" fill="var(--fig-ink)">紅樹林（水筆仔）</text>
+  <path d="M8 219h344" fill="none" stroke="var(--fig-line)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="39" y="238.5" font-size="13" text-anchor="middle" fill="var(--fig-ink)">海洋</text>
+  <text x="78" y="238.5" font-size="13" text-anchor="start" fill="var(--fig-ink)">面積最大</text>
+  <text x="236" y="238.5" font-size="13" text-anchor="start" fill="var(--fig-ink)">浮游藻類、珊瑚礁</text>
+</svg>

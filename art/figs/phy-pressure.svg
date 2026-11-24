@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 245" role="img">
+  <title>水從不同深度的小孔流出，孔愈深水流愈快，大氣壓力能支撐約七十六公分的水銀柱。</title>
+  <defs><marker id="phy-pressure-ink" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto" markerUnits="userSpaceOnUse"><path d="M1 1L6 3.5L1 6" fill="none" stroke="var(--fig-ink)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>
+  <text x="180" y="20" text-anchor="middle" font-size="14" fill="var(--fig-ink)" font-weight="600">液體壓力與大氣壓力</text>
+  <path d="M153 33V195" fill="none" stroke="var(--fig-line)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M27 61h47v103H27Z" fill="var(--fig-sea)" stroke="none" stroke-width="0" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M26 45v119h49v-15m0-5v-29m0-5V82m0-5V45" fill="none" stroke="var(--fig-ink)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M27 61q12 2 24 0t23 0" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M75 79q14 0 28 16" fill="none" stroke="var(--ic)" stroke-width="2.3" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="105" cy="98" rx="1.5" ry="1.5" fill="var(--fig-deep)" stroke="none" stroke-width="1.5"/>
+  <path d="M75 112q23 0 46 16" fill="none" stroke="var(--ic)" stroke-width="2.3" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="123" cy="131" rx="1.5" ry="1.5" fill="var(--fig-deep)" stroke="none" stroke-width="1.5"/>
+  <path d="M75 147q31 0 62 16" fill="none" stroke="var(--ic)" stroke-width="2.3" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="139" cy="166" rx="1.5" ry="1.5" fill="var(--fig-deep)" stroke="none" stroke-width="1.5"/>
+  <text x="79" y="187" text-anchor="middle" font-size="12" fill="var(--fig-ink)">愈深，壓力愈大</text>
+  <path d="M190 151h146v19H190Z" fill="var(--fig-deep)" stroke="none" stroke-width="0" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M188 141l2 29h146l2-29" fill="none" stroke="var(--fig-ink)" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M235 161V53q0-7 7-7t7 7v108" fill="none" stroke="var(--fig-ink)" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M236 70h12v91h-12Z" fill="var(--fig-deep)" stroke="none" stroke-width="0" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M236 70h12" fill="none" stroke="var(--fig-ink)" stroke-width="1.3" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M191 151h44m15 0h85" fill="none" stroke="var(--fig-soft)" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M251 70H285M252 151H285" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="3 3"/>
+  <path d="M281 70v81m-4-81h8m-8 81h8" fill="none" stroke="var(--fig-ink)" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="289" y="114" text-anchor="start" font-size="12" fill="var(--fig-ink)">76 cm</text>
+  <text x="199" y="106" text-anchor="middle" font-size="12" fill="var(--fig-ink)">大氣壓力</text>
+  <path d="M203 115v32" fill="none" stroke="var(--fig-ink)" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#phy-pressure-ink)"/>
+  <path d="M219 115v32" fill="none" stroke="var(--fig-ink)" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#phy-pressure-ink)"/>
+  <text x="254" y="188" text-anchor="middle" font-size="12" fill="var(--fig-ink)">一大氣壓約可撐起 76 cm 水銀柱</text>
+  <rect x="8" y="209" width="344" height="28" rx="4" fill="var(--fig-cool)" stroke="var(--fig-line)"/>
+  <text x="180" y="228" text-anchor="middle" font-size="13" fill="var(--fig-ink)">壓力＝作用力÷受力面積</text>
+</svg>

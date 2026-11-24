@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 224" role="img">
+  <title>右手拇指沿直導線電流時四指沿磁場彎曲，四指沿線圈電流彎曲時拇指指向線圈北極。</title>
+  <defs><marker id="phy-electromag-ink" markerWidth="7" markerHeight="7" refX="6.5" refY="3.5" orient="auto" markerUnits="userSpaceOnUse"><path d="M1 1L6.5 3.5L1 6" fill="none" stroke="var(--fig-ink)" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/></marker><marker id="phy-electromag-ic" markerWidth="7" markerHeight="7" refX="6.5" refY="3.5" orient="auto" markerUnits="userSpaceOnUse"><path d="M1 1L6.5 3.5L1 6" fill="none" stroke="var(--ic)" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>
+  <text x="180" y="20" font-size="14" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">電流的磁效應</text>
+  <path d="M179 37V207" fill="none" stroke="var(--fig-line)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="87" cy="100" rx="62" ry="24" fill="none" stroke="var(--fig-soft)" stroke-width="1.1"/>
+  <ellipse cx="87" cy="100" rx="45" ry="16" fill="none" stroke="var(--fig-soft)" stroke-width="1.1"/>
+  <ellipse cx="87" cy="100" rx="28" ry="9" fill="none" stroke="var(--fig-soft)" stroke-width="1.1"/>
+  <path d="M85 48h4v92h-4Z" fill="var(--fig-warm)" stroke="var(--fig-ink)" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M87 78V40" fill="none" stroke="var(--fig-ink)" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#phy-electromag-ink)"/>
+  <text x="113" y="52" font-size="13" text-anchor="middle" fill="var(--fig-ink)">電流</text>
+  <path d="M25 100a62 24 0 0 0 124 0" fill="none" stroke="var(--fig-soft)" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M42 100a45 16 0 0 0 90 0" fill="none" stroke="var(--fig-soft)" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M59 100a28 9 0 0 0 56 0" fill="none" stroke="var(--fig-soft)" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M87 124q16 0 31 -3" fill="none" stroke="var(--ic)" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#phy-electromag-ic)"/>
+  <path d="M77 116q9 1 18 0" fill="none" stroke="var(--ic)" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#phy-electromag-ic)"/>
+  <text x="90" y="169" font-size="13" text-anchor="middle" fill="var(--fig-ink)">大拇指：電流方向</text>
+  <text x="90" y="192" font-size="13" text-anchor="middle" fill="var(--fig-ink)">四指彎曲：磁場方向</text>
+  <path d="M222 119C211 118 215 83 227 80" fill="none" stroke="var(--fig-soft)" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M235 119C224 118 228 83 240 80" fill="none" stroke="var(--fig-soft)" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M248 119C237 118 241 83 253 80" fill="none" stroke="var(--fig-soft)" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M261 119C250 118 254 83 266 80" fill="none" stroke="var(--fig-soft)" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M274 119C263 118 267 83 279 80" fill="none" stroke="var(--fig-soft)" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M287 119C276 118 280 83 292 80" fill="none" stroke="var(--fig-soft)" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M300 119C289 118 293 83 305 80" fill="none" stroke="var(--fig-soft)" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="206" y="86" width="129" height="27" rx="9" fill="var(--fig-cool)" stroke="var(--fig-soft)" stroke-width="1.2"/>
+  <ellipse cx="329" cy="99.5" rx="6" ry="13" fill="var(--fig-paper)" stroke="var(--fig-soft)" stroke-width="1.2"/>
+  <path d="M192 72h15q5 0 7 8" fill="none" stroke="var(--fig-ink)" stroke-width="1.7" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M192 72h13" fill="none" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#phy-electromag-ink)"/>
+  <path d="M214 80C223 85 230 118 222 119" fill="none" stroke="var(--fig-ink)" stroke-width="2.3" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M227 80C236 85 243 118 235 119" fill="none" stroke="var(--fig-ink)" stroke-width="2.3" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M240 80C249 85 256 118 248 119" fill="none" stroke="var(--fig-ink)" stroke-width="2.3" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M253 80C262 85 269 118 261 119" fill="none" stroke="var(--fig-ink)" stroke-width="2.3" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M266 80C275 85 282 118 274 119" fill="none" stroke="var(--fig-ink)" stroke-width="2.3" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M279 80C288 85 295 118 287 119" fill="none" stroke="var(--fig-ink)" stroke-width="2.3" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M292 80C301 85 308 118 300 119" fill="none" stroke="var(--fig-ink)" stroke-width="2.3" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M305 80q6 -6 9 -8h25" fill="none" stroke="var(--fig-ink)" stroke-width="1.7" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M320 72h19" fill="none" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#phy-electromag-ink)"/>
+  <path d="M244 86q4 8 6 18" fill="none" stroke="var(--ic)" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#phy-electromag-ic)"/>
+  <path d="M283 86q4 8 6 18" fill="none" stroke="var(--ic)" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#phy-electromag-ic)"/>
+  <text x="198" y="104" font-size="14" text-anchor="middle" fill="var(--fig-ink)">S</text>
+  <text x="345" y="104" font-size="14" text-anchor="middle" fill="var(--fig-ink)">N</text>
+  <text x="268" y="151" font-size="13" text-anchor="middle" fill="var(--fig-ink)">四指：電流方向</text>
+  <text x="268" y="174" font-size="13" text-anchor="middle" fill="var(--fig-ink)">大拇指：N 極</text>
+  <text x="268" y="201" font-size="13" text-anchor="middle" fill="var(--fig-ink)">放入鐵心＝電磁鐵</text>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 248" role="img">
+  <title>表中比較烴、醇、有機酸與酯的特徵和例子。</title>
+  <text x="180" y="21" font-size="14" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">常見的有機化合物</text>
+  <rect x="8" y="33" width="344" height="168" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <path d="M13 33H347Q352 33 352 38V59H8V38Q8 33 13 33Z" fill="var(--fig-cool)" stroke="none" stroke-width="0" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M65 33V201M195 33V201M8 59H352M8 91H352M8 123H352M8 165H352" fill="none" stroke="var(--fig-line)" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="36" y="52" font-size="13" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">類別</text>
+  <text x="130" y="52" font-size="13" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">特徵</text>
+  <text x="273" y="52" font-size="13" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">例子</text>
+  <text x="36" y="80" font-size="13" text-anchor="middle" fill="var(--fig-ink)">烴</text>
+  <text x="130" y="80" font-size="13" text-anchor="middle" fill="var(--fig-ink)">只含碳和氫</text>
+  <text x="273" y="80" font-size="13" text-anchor="middle" fill="var(--fig-ink)">甲烷 CH₄、丙烷</text>
+  <text x="36" y="112" font-size="13" text-anchor="middle" fill="var(--fig-ink)">醇</text>
+  <text x="130" y="112" font-size="13" text-anchor="middle" fill="var(--fig-ink)">含 −OH</text>
+  <text x="273" y="112" font-size="13" text-anchor="middle" fill="var(--fig-ink)">乙醇（酒精）、甲醇</text>
+  <text x="36" y="187" font-size="13" text-anchor="middle" fill="var(--fig-ink)">酯</text>
+  <text x="130" y="187" font-size="13" text-anchor="middle" fill="var(--fig-ink)">醇＋有機酸 → 酯＋水</text>
+  <text x="273" y="187" font-size="13" text-anchor="middle" fill="var(--fig-ink)">有香味，例如香料</text>
+  <text x="36" y="149" font-size="13" text-anchor="middle" fill="var(--fig-ink)">有機酸</text>
+  <text x="130" y="149" font-size="13" text-anchor="middle" fill="var(--fig-ink)">含 −COOH</text>
+  <text x="273" y="140" font-size="13" text-anchor="middle" fill="var(--fig-ink)">乙酸（醋酸）、</text>
+  <text x="273" y="158" font-size="13" text-anchor="middle" fill="var(--fig-ink)">甲酸（蟻酸）</text>
+  <rect x="8" y="210" width="344" height="28" rx="5" fill="var(--fig-cool)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <text x="180" y="229" font-size="13" text-anchor="middle" fill="var(--fig-ink)">油脂是甘油和脂肪酸形成的酯</text>
+</svg>

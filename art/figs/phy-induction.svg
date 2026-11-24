@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 235" role="img">
+  <title>磁鐵插入與拔出時電表指針向相反方向偏轉，磁鐵和線圈相對靜止時沒有感應電流。</title>
+  <defs><marker id="phy-induction-ic" markerWidth="7" markerHeight="7" refX="6.5" refY="3.5" orient="auto" markerUnits="userSpaceOnUse"><path d="M1 1L6.5 3.5L1 6" fill="none" stroke="var(--ic)" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>
+  <text x="180" y="20" font-size="14" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">電磁感應</text>
+  <g transform="translate(5 34)">
+  <rect x="0" y="0" width="115" height="157" rx="4" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1"/>
+  <text x="57.5" y="21" font-size="13" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">磁鐵插入</text>
+  <path d="M12 37h31" fill="none" stroke="var(--ic)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#phy-induction-ic)"/>
+  <rect x="9" y="45" width="39" height="17" rx="1" fill="var(--fig-cool)" stroke="var(--fig-ink)" stroke-width="1.2"/>
+  <rect x="29" y="45" width="19" height="17" rx="1" fill="var(--fig-warm)" stroke="var(--fig-ink)" stroke-width="1"/>
+  <text x="19" y="58" font-size="11" text-anchor="middle" fill="var(--fig-ink)">S</text>
+  <text x="38" y="58" font-size="11" text-anchor="middle" fill="var(--fig-ink)">N</text>
+  <path d="M55 79V51q1 -10 7 -10c8 0 10 25 3 27c-9 2 -7 -27 6 -27c8 0 10 25 3 27c-9 2 -7 -27 6 -27c8 0 10 25 3 27c-9 2 -7 -27 6 -27c8 0 10 25 3 27c-9 2 -7 -27 6 -27q7 1 7 14v24" fill="none" stroke="var(--fig-ink)" stroke-width="1.7" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M55 79v8H37v21m68 -29v8H78v21" fill="none" stroke="var(--fig-ink)" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M27 122v-17q31 -29 61 0v17Z" fill="var(--fig-cool)" stroke="var(--fig-ink)" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M32 106q26 -20 51 0" fill="none" stroke="var(--fig-soft)" stroke-width="1.1" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M39 102l2 3m16 -9v5m18 1l-2 3" fill="none" stroke="var(--fig-soft)" stroke-width="1.1" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M57 117l15 -14" fill="none" stroke="var(--ic)" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#phy-induction-ic)"/>
+  <circle cx="57" cy="117" r="2.3" fill="var(--fig-ink)" stroke="var(--fig-ink)" stroke-width="1"/>
+  </g>
+  <g transform="translate(122 34)">
+  <rect x="0" y="0" width="115" height="157" rx="4" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1"/>
+  <text x="57.5" y="21" font-size="13" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">磁鐵拔出</text>
+  <path d="M43 37H12" fill="none" stroke="var(--ic)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#phy-induction-ic)"/>
+  <rect x="9" y="45" width="39" height="17" rx="1" fill="var(--fig-cool)" stroke="var(--fig-ink)" stroke-width="1.2"/>
+  <rect x="29" y="45" width="19" height="17" rx="1" fill="var(--fig-warm)" stroke="var(--fig-ink)" stroke-width="1"/>
+  <text x="19" y="58" font-size="11" text-anchor="middle" fill="var(--fig-ink)">S</text>
+  <text x="38" y="58" font-size="11" text-anchor="middle" fill="var(--fig-ink)">N</text>
+  <path d="M55 79V51q1 -10 7 -10c8 0 10 25 3 27c-9 2 -7 -27 6 -27c8 0 10 25 3 27c-9 2 -7 -27 6 -27c8 0 10 25 3 27c-9 2 -7 -27 6 -27c8 0 10 25 3 27c-9 2 -7 -27 6 -27q7 1 7 14v24" fill="none" stroke="var(--fig-ink)" stroke-width="1.7" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M55 79v8H37v21m68 -29v8H78v21" fill="none" stroke="var(--fig-ink)" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M27 122v-17q31 -29 61 0v17Z" fill="var(--fig-cool)" stroke="var(--fig-ink)" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M32 106q26 -20 51 0" fill="none" stroke="var(--fig-soft)" stroke-width="1.1" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M39 102l2 3m16 -9v5m18 1l-2 3" fill="none" stroke="var(--fig-soft)" stroke-width="1.1" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M57 117l-15 -14" fill="none" stroke="var(--ic)" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#phy-induction-ic)"/>
+  <circle cx="57" cy="117" r="2.3" fill="var(--fig-ink)" stroke="var(--fig-ink)" stroke-width="1"/>
+  </g>
+  <g transform="translate(239 34)">
+  <rect x="0" y="0" width="115" height="157" rx="4" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1"/>
+  <text x="57.5" y="21" font-size="13" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">磁鐵靜止</text>
+  <rect x="9" y="45" width="39" height="17" rx="1" fill="var(--fig-cool)" stroke="var(--fig-ink)" stroke-width="1.2"/>
+  <rect x="29" y="45" width="19" height="17" rx="1" fill="var(--fig-warm)" stroke="var(--fig-ink)" stroke-width="1"/>
+  <text x="19" y="58" font-size="11" text-anchor="middle" fill="var(--fig-ink)">S</text>
+  <text x="38" y="58" font-size="11" text-anchor="middle" fill="var(--fig-ink)">N</text>
+  <path d="M55 79V51q1 -10 7 -10c8 0 10 25 3 27c-9 2 -7 -27 6 -27c8 0 10 25 3 27c-9 2 -7 -27 6 -27c8 0 10 25 3 27c-9 2 -7 -27 6 -27c8 0 10 25 3 27c-9 2 -7 -27 6 -27q7 1 7 14v24" fill="none" stroke="var(--fig-ink)" stroke-width="1.7" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M55 79v8H37v21m68 -29v8H78v21" fill="none" stroke="var(--fig-ink)" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M27 122v-17q31 -29 61 0v17Z" fill="var(--fig-cool)" stroke="var(--fig-ink)" stroke-width="1.4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M32 106q26 -20 51 0" fill="none" stroke="var(--fig-soft)" stroke-width="1.1" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M39 102l2 3m16 -9v5m18 1l-2 3" fill="none" stroke="var(--fig-soft)" stroke-width="1.1" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M57 117V99" fill="none" stroke="var(--ic)" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#phy-induction-ic)"/>
+  <circle cx="57" cy="117" r="2.3" fill="var(--fig-ink)" stroke="var(--fig-ink)" stroke-width="1"/>
+  <text x="57.5" y="146" font-size="12" text-anchor="middle" fill="var(--fig-ink)">沒有電流</text>
+  </g>
+  <rect x="8" y="199" width="344" height="28" rx="5" fill="var(--fig-cool)" stroke="var(--fig-line)" stroke-width="1"/>
+  <text x="180" y="218" font-size="12" text-anchor="middle" fill="var(--fig-ink)">磁場變化愈快，感應電流愈大；發電機：動能→電能</text>
+</svg>

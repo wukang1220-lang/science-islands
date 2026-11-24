@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 248" role="img">
+  <title>電解水時負極與正極的產氣體積比為二比一，電鍍時銅片接正極，湯匙接負極。</title>
+  <rect x="5" y="7" width="172" height="233" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <rect x="183" y="7" width="172" height="233" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <text x="91" y="29" font-size="14" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">電解水</text>
+  <text x="269" y="29" font-size="14" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">電鍍（在湯匙上鍍銅）</text>
+  <path d="M14 39H168M192 39H346" fill="none" stroke="var(--fig-line)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="55" y="60" font-size="12" text-anchor="middle" fill="var(--fig-ink)">負極：氫氣</text>
+  <text x="128" y="60" font-size="12" text-anchor="middle" fill="var(--fig-ink)">正極：氧氣</text>
+  <path d="M25 133h133v34q0 4 -4 4h-125q-4 0 -4 -4Z" fill="var(--fig-sea)" stroke="none" stroke-width="0" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M24 133h135" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M19 116l4 3v48q0 5 5 5h127q5 0 5 -5V119" fill="none" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M44 155V79a11 11 0 0 1 22 0v76" fill="var(--fig-sea)" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M45 111V79a10 10 0 0 1 20 0v32Z" fill="var(--fig-cool)" stroke="none" stroke-width="0" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M45 111h20" fill="none" stroke="var(--fig-soft)" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="53" y="139" width="4" height="33" rx="1" fill="var(--fig-ink)" stroke="var(--fig-ink)" stroke-width="1"/>
+  <circle cx="59" cy="132" r="2" fill="var(--fig-paper)" stroke="var(--fig-soft)" stroke-width="1"/>
+  <circle cx="52" cy="119" r="2.5" fill="var(--fig-paper)" stroke="var(--fig-soft)" stroke-width="1"/>
+  <path d="M117 155V79a11 11 0 0 1 22 0v76" fill="var(--fig-sea)" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M118 91V79a10 10 0 0 1 20 0v12Z" fill="var(--fig-cool)" stroke="none" stroke-width="0" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M118 91h20" fill="none" stroke="var(--fig-soft)" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="126" y="139" width="4" height="33" rx="1" fill="var(--fig-ink)" stroke="var(--fig-ink)" stroke-width="1"/>
+  <circle cx="132" cy="132" r="2" fill="var(--fig-paper)" stroke="var(--fig-soft)" stroke-width="1"/>
+  <circle cx="125" cy="122" r="2.5" fill="var(--fig-paper)" stroke="var(--fig-soft)" stroke-width="1"/>
+  <path d="M55 173V185H87M95 185H128V173M87 181V189M95 177V193" fill="none" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="91" y="211" font-size="13" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">體積比 2：1</text>
+  <text x="91" y="230" font-size="12" text-anchor="middle" fill="var(--fig-ink)">加入少量氫氧化鈉幫助導電</text>
+  <rect x="234" y="47" width="70" height="24" rx="5" fill="var(--fig-cool)" stroke="var(--fig-line)" stroke-width="1.2"/>
+  <text x="269" y="64" font-size="12" text-anchor="middle" fill="var(--fig-ink)">直流電源</text>
+  <path d="M234 58H207V135M304 58H338V121H301V130" fill="none" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="232" y="94" font-size="12" text-anchor="middle" fill="var(--fig-ink)">接正極</text>
+  <text x="280" y="112" font-size="12" text-anchor="middle" fill="var(--fig-ink)">接負極（被鍍物）</text>
+  <path d="M198 166h142v42q0 4 -4 4h-134q-4 0 -4 -4Z" fill="var(--fig-sea)" stroke="none" stroke-width="0" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M197 166h144" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M192 144l4 3v61q0 5 5 5h136q5 0 5 -5V147" fill="none" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="202" y="127" width="10" height="65" rx="2" fill="var(--fig-warm)" stroke="var(--fig-ink)" stroke-width="1.5"/>
+  <path d="M299 129Q299 126 301 126Q303 126 303 129V163Q303 168 307 173C318 191 293 199 292 182Q291 176 296 169Q299 165 299 161Z" fill="var(--fig-paper)" stroke="var(--ic)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="228" y="143" font-size="12" text-anchor="middle" fill="var(--fig-ink)">銅片</text>
+  <path d="M220 146L214 151" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="269" y="206" font-size="13" text-anchor="middle" fill="var(--fig-ink)">硫酸銅溶液</text>
+</svg>

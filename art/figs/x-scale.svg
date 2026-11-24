@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 259" role="img">
+  <title>從奈米到公里每格放大一千倍，圖上標出常見物體的大小與適用的觀察工具。</title>
+  <text x="180" y="20" text-anchor="middle" font-size="14" fill="var(--fig-ink)" font-weight="600">從奈米到公里</text>
+  <path d="M26 118H330" fill="none" stroke="var(--fig-ink)" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M26 113v12" fill="none" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M102 113v12" fill="none" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M178 113v12" fill="none" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M254 113v12" fill="none" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M330 113v12" fill="none" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M77 110V92L67 86M102 110V59M196 110V95l9-8V59M259 110V92l-5-6M322 110V59" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M128 105v4h25v-4m-12.5 3v-19" fill="none" stroke="var(--fig-soft)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="77" cy="118" r="2.8" fill="var(--fig-paper)" stroke="var(--ic)" stroke-width="1.6"/>
+  <circle cx="102" cy="118" r="2.8" fill="var(--fig-paper)" stroke="var(--ic)" stroke-width="1.6"/>
+  <circle cx="196" cy="118" r="2.8" fill="var(--fig-paper)" stroke="var(--ic)" stroke-width="1.6"/>
+  <circle cx="259" cy="118" r="2.8" fill="var(--fig-paper)" stroke="var(--ic)" stroke-width="1.6"/>
+  <circle cx="322" cy="118" r="2.8" fill="var(--fig-paper)" stroke="var(--ic)" stroke-width="1.6"/>
+  <path d="M128 118h25m-25-3v6m25-6v6" fill="none" stroke="var(--ic)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="9" y="81" text-anchor="start" font-size="11" fill="var(--fig-ink)">病毒 約 100 nm</text>
+  <text x="102" y="51" text-anchor="middle" font-size="12" fill="var(--fig-ink)">細菌 約 1 μm</text>
+  <text x="147" y="81" text-anchor="middle" font-size="11" fill="var(--fig-ink)">細胞 約 10～100 μm</text>
+  <text x="205" y="51" text-anchor="middle" font-size="12" fill="var(--fig-ink)">螞蟻 約 5 mm</text>
+  <text x="255" y="81" text-anchor="middle" font-size="12" fill="var(--fig-ink)">人 約 1.6 m</text>
+  <text x="350" y="51" text-anchor="end" font-size="11" fill="var(--fig-ink)">臺北 101 約 500 m</text>
+  <g font-size="11" text-anchor="middle" fill="var(--fig-soft)">
+    <text x="64" y="135">×1000</text>
+    <text x="140" y="135">×1000</text>
+    <text x="216" y="135">×1000</text>
+    <text x="292" y="135">×1000</text>
+  </g>
+  <text x="26" y="144" text-anchor="middle" font-size="13" fill="var(--fig-ink)" font-weight="600">1 nm</text>
+  <text x="102" y="144" text-anchor="middle" font-size="13" fill="var(--fig-ink)" font-weight="600">1 μm</text>
+  <text x="178" y="144" text-anchor="middle" font-size="13" fill="var(--fig-ink)" font-weight="600">1 mm</text>
+  <text x="254" y="144" text-anchor="middle" font-size="13" fill="var(--fig-ink)" font-weight="600">1 m</text>
+  <text x="330" y="144" text-anchor="middle" font-size="13" fill="var(--fig-ink)" font-weight="600">1 km</text>
+  <rect x="7" y="158" width="70" height="29" rx="5" fill="var(--fig-cool)" stroke="var(--fig-line)" stroke-width="1"/>
+  <text x="42" y="177" text-anchor="middle" font-size="12" fill="var(--fig-ink)">電子顯微鏡</text>
+  <rect x="79" y="158" width="70" height="29" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1"/>
+  <text x="114" y="177" text-anchor="middle" font-size="12" fill="var(--fig-ink)">複式顯微鏡</text>
+  <rect x="151" y="158" width="120" height="29" rx="5" fill="var(--fig-cool)" stroke="var(--fig-line)" stroke-width="1"/>
+  <text x="211" y="177" text-anchor="middle" font-size="11" fill="var(--fig-ink)">放大鏡、解剖顯微鏡</text>
+  <rect x="273" y="158" width="80" height="29" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1"/>
+  <text x="313" y="177" text-anchor="middle" font-size="12" fill="var(--fig-ink)">肉眼</text>
+  <text x="180" y="211" text-anchor="middle" font-size="13" fill="var(--fig-ink)">看遠方的大物體用望遠鏡</text>
+  <rect x="7" y="224" width="346" height="28" rx="5" fill="var(--fig-paper)" stroke="var(--fig-line)" stroke-width="1"/>
+  <text x="180" y="243" text-anchor="middle" font-size="12" fill="var(--fig-ink)">1 km＝1000 m　1 mm＝1000 μm　1 μm＝1000 nm</text>
+</svg>

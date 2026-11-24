@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 220" role="img">
+  <title>燭頂與燭底發出的光穿過同一針孔，在紙屏上形成上下顛倒的實像。</title>
+  <defs><marker id="phy-pinhole-ic" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto" markerUnits="userSpaceOnUse"><path d="M1 1L6 3.5L1 6" fill="none" stroke="var(--ic)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>
+  <text x="180" y="20" text-anchor="middle" font-size="14" fill="var(--fig-ink)" font-weight="600">針孔成像</text>
+  <path d="M170 98V49H296V159H170V104" fill="none" stroke="var(--fig-ink)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="293" y="48" width="6" height="112" rx="1" fill="var(--fig-cool)" stroke="var(--fig-ink)"/>
+  <text x="169" y="38" text-anchor="middle" font-size="12" fill="var(--fig-ink)">針孔</text>
+  <path d="M153 41v47l14 12" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="296" y="38" text-anchor="middle" font-size="12" fill="var(--fig-ink)">紙屏</text>
+  <rect x="39" y="81" width="10" height="57" rx="1" fill="var(--fig-sand)" stroke="var(--fig-ink)"/>
+  <path d="M44 57q-1 6-4 12t4 10q10-5 0-22Z" fill="var(--fig-warm)" stroke="var(--fig-ink)" stroke-width="1.3" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M44 77v4" fill="none" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="284" y="64" width="9" height="57" rx="1" fill="var(--fig-sand)" stroke="var(--fig-ink)"/>
+  <path d="M289 145q1-7 4-13t-4-10q-9 5 0 23Z" fill="var(--fig-warm)" stroke="var(--fig-ink)" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M44 57L170 101L293 144M44 138L170 101L293 64.9" fill="none" stroke="var(--ic)" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M88 72.4l24 8.4" fill="none" stroke="var(--ic)" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#phy-pinhole-ic)"/>
+  <path d="M88 125.1l24-7" fill="none" stroke="var(--ic)" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#phy-pinhole-ic)"/>
+  <text x="280" y="178" text-anchor="middle" font-size="12" fill="var(--fig-ink)">倒立的實像</text>
+  <rect x="8" y="186" width="344" height="28" rx="4" fill="var(--fig-cool)" stroke="var(--fig-line)"/>
+  <text x="180" y="205" text-anchor="middle" font-size="13" fill="var(--fig-ink)">物體離針孔愈近，像愈大</text>
+  <text x="350" y="20" text-anchor="end" font-size="11" fill="var(--fig-soft)">示意圖</text>
+</svg>

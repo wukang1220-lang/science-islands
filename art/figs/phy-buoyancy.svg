@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 231" role="img">
+  <title>同一物塊入水後的秤重差等於浮力，右圖比較物體密度與沉浮位置。</title>
+  <text x="180" y="20" text-anchor="middle" font-size="14" fill="var(--fig-ink)" font-weight="600">浮力</text>
+  <path d="M159 34V185" fill="none" stroke="var(--fig-line)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M18 40h115" fill="none" stroke="var(--fig-ink)" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M44 40v6" fill="none" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="34" y="47" width="20" height="48" rx="3" fill="var(--fig-paper)" stroke="var(--fig-ink)"/>
+  <path d="M44 47v4l-4 3 8 4-8 4 8 4-8 4 4 3v9" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M37 82h14" fill="none" stroke="var(--ic)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M44 83V99q0 5-3 5" fill="none" stroke="var(--fig-ink)" stroke-width="1.1" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="44" y="167" text-anchor="middle" font-size="13" fill="var(--fig-ink)" font-weight="600">50 gw</text>
+  <path d="M113 40v6" fill="none" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="103" y="47" width="20" height="48" rx="3" fill="var(--fig-paper)" stroke="var(--fig-ink)"/>
+  <path d="M113 47v4l-4 3 8 4-8 4 8 4-8 4 4 3v3" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M106 76h14" fill="none" stroke="var(--ic)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M113 77V99q0 5-3 5" fill="none" stroke="var(--fig-ink)" stroke-width="1.1" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="113" y="167" text-anchor="middle" font-size="13" fill="var(--fig-ink)" font-weight="600">30 gw</text>
+  <path d="M84 117h58v34H84Z" fill="var(--fig-sea)" stroke="none" stroke-width="0" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M83 110v42h60v-42" fill="none" stroke="var(--fig-ink)" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M84 117h58" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M41 104l3 3v17" fill="none" stroke="var(--fig-ink)" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="32" y="124" width="24" height="19" rx="1" fill="var(--fig-sand)" stroke="var(--fig-ink)"/>
+  <path d="M110 104l3 3v15" fill="none" stroke="var(--fig-ink)" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="101" y="122" width="24" height="19" rx="1" fill="var(--fig-sand)" stroke="var(--fig-ink)"/>
+  <text x="81" y="189" text-anchor="middle" font-size="13" fill="var(--fig-ink)" font-weight="600">浮力＝20 gw</text>
+  <path d="M169 73h178v95H169Z" fill="var(--fig-sea)" stroke="none" stroke-width="0" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M168 51v118h180V51" fill="none" stroke="var(--fig-ink)" stroke-width="1.7" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M169 73h25m23 0h130" fill="none" stroke="var(--fig-soft)" stroke-width="1.2" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="206" cy="72" rx="11" ry="11" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.5"/>
+  <text x="237" y="65" text-anchor="start" font-size="12" fill="var(--fig-ink)">漂浮：密度＜水</text>
+  <ellipse cx="206" cy="115" rx="11" ry="11" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.5"/>
+  <text x="237" y="119" text-anchor="start" font-size="12" fill="var(--fig-ink)">懸浮：密度＝水</text>
+  <ellipse cx="206" cy="157" rx="11" ry="11" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.5"/>
+  <text x="237" y="161" text-anchor="start" font-size="12" fill="var(--fig-ink)">下沉：密度＞水</text>
+  <rect x="8" y="196" width="344" height="28" rx="4" fill="var(--fig-cool)" stroke="var(--fig-line)"/>
+  <text x="180" y="215" text-anchor="middle" font-size="13" fill="var(--fig-ink)">浮力＝排開液體的重量</text>
+</svg>

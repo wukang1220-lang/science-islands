@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 255" role="img">
+  <title>雙子葉植物的維管束排成環狀且有形成層，單子葉植物的維管束散生且沒有形成層。</title>
+  <text x="180" y="20" font-size="14" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">莖的橫切面</text>
+  <path d="M180 33V224" fill="none" stroke="var(--fig-line)" stroke-width="1"/>
+  <text x="90" y="48" font-size="13" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">雙子葉植物</text>
+  <text x="270" y="48" font-size="13" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">單子葉植物</text>
+  <ellipse cx="88" cy="103" rx="43" ry="43" fill="var(--fig-land)" stroke="var(--fig-ink)" stroke-width="1.4"/>
+  <ellipse cx="88" cy="103" rx="38" ry="38" fill="none" stroke="var(--fig-line)" stroke-width="1"/>
+  <path d="M82.3 70.5Q88.0 64.0 93.7 70.5L92.8 78.5Q88.0 86.0 83.2 78.5Z" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1"/>
+  <path d="M82.8 73.5Q88.0 70.0 93.2 73.5L93.7 70.5Q88.0 64.0 82.3 70.5Z" fill="var(--fig-land)" stroke="var(--fig-ink)" stroke-width="0.9"/>
+  <path d="M106.9 76.0Q115.6 75.4 115.0 84.1L108.7 89.0Q100.0 91.0 102.0 82.3Z" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1"/>
+  <path d="M105.2 78.4Q111.3 79.7 112.6 85.8L115.0 84.1Q115.6 75.4 106.9 76.0Z" fill="var(--fig-land)" stroke="var(--fig-ink)" stroke-width="0.9"/>
+  <path d="M120.5 97.3Q127.0 103.0 120.5 108.7L112.5 107.8Q105.0 103.0 112.5 98.2Z" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1"/>
+  <path d="M117.5 97.8Q121.0 103.0 117.5 108.2L120.5 108.7Q127.0 103.0 120.5 97.3Z" fill="var(--fig-land)" stroke="var(--fig-ink)" stroke-width="0.9"/>
+  <path d="M115.0 121.9Q115.6 130.6 106.9 130.0L102.0 123.7Q100.0 115.0 108.7 117.0Z" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1"/>
+  <path d="M112.6 120.2Q111.3 126.3 105.2 127.6L106.9 130.0Q115.6 130.6 115.0 121.9Z" fill="var(--fig-land)" stroke="var(--fig-ink)" stroke-width="0.9"/>
+  <path d="M93.7 135.5Q88.0 142.0 82.3 135.5L83.2 127.5Q88.0 120.0 92.8 127.5Z" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1"/>
+  <path d="M93.2 132.5Q88.0 136.0 82.8 132.5L82.3 135.5Q88.0 142.0 93.7 135.5Z" fill="var(--fig-land)" stroke="var(--fig-ink)" stroke-width="0.9"/>
+  <path d="M69.1 130.0Q60.4 130.6 61.0 121.9L67.3 117.0Q76.0 115.0 74.0 123.7Z" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1"/>
+  <path d="M70.8 127.6Q64.7 126.3 63.4 120.2L61.0 121.9Q60.4 130.6 69.1 130.0Z" fill="var(--fig-land)" stroke="var(--fig-ink)" stroke-width="0.9"/>
+  <path d="M55.5 108.7Q49.0 103.0 55.5 97.3L63.5 98.2Q71.0 103.0 63.5 107.8Z" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1"/>
+  <path d="M58.5 108.2Q55.0 103.0 58.5 97.8L55.5 97.3Q49.0 103.0 55.5 108.7Z" fill="var(--fig-land)" stroke="var(--fig-ink)" stroke-width="0.9"/>
+  <path d="M61.0 84.1Q60.4 75.4 69.1 76.0L74.0 82.3Q76.0 91.0 67.3 89.0Z" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1"/>
+  <path d="M63.4 85.8Q64.7 79.7 70.8 78.4L69.1 76.0Q60.4 75.4 61.0 84.1Z" fill="var(--fig-land)" stroke="var(--fig-ink)" stroke-width="0.9"/>
+  <path d="M82 139L46 158 M94 139L73 158" fill="none" stroke="var(--fig-soft)" stroke-width="1" stroke-dasharray="3 3"/>
+  <path d="M45 181Q46 162 59 157Q73 160 75 181Z" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.5"/>
+  <path d="M45 181H75L76 188Q60 200 44 188Z" fill="var(--fig-land)" stroke="var(--fig-ink)" stroke-width="1.5"/>
+  <path d="M45 181H75" fill="none" stroke="var(--ic)" stroke-width="2.8"/>
+  <path d="M61 169L79 162H101 M76 181H101 M63 192L80 201H101" fill="none" stroke="var(--fig-soft)" stroke-width="1"/>
+  <text x="106" y="166" font-size="12" text-anchor="start" fill="var(--fig-ink)">木質部</text>
+  <text x="106" y="185" font-size="12" text-anchor="start" fill="var(--fig-ink)">形成層</text>
+  <text x="106" y="205" font-size="12" text-anchor="start" fill="var(--fig-ink)">韌皮部</text>
+  <ellipse cx="270" cy="113" rx="49" ry="49" fill="var(--fig-land)" stroke="var(--fig-ink)" stroke-width="1.4"/>
+  <ellipse cx="270" cy="113" rx="44" ry="44" fill="none" stroke="var(--fig-line)" stroke-width="1"/>
+  <ellipse cx="260" cy="76" rx="4.2" ry="5.2" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1"/>
+  <ellipse cx="259" cy="77" rx="1.3" ry="1.8" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="0.7"/>
+  <ellipse cx="280" cy="78" rx="4.2" ry="5.2" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1"/>
+  <ellipse cx="279" cy="79" rx="1.3" ry="1.8" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="0.7"/>
+  <ellipse cx="242" cy="89" rx="4.2" ry="5.2" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1"/>
+  <ellipse cx="241" cy="90" rx="1.3" ry="1.8" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="0.7"/>
+  <ellipse cx="269" cy="91" rx="4.2" ry="5.2" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1"/>
+  <ellipse cx="268" cy="92" rx="1.3" ry="1.8" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="0.7"/>
+  <ellipse cx="291" cy="96" rx="4.2" ry="5.2" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1"/>
+  <ellipse cx="290" cy="97" rx="1.3" ry="1.8" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="0.7"/>
+  <ellipse cx="234" cy="108" rx="4.2" ry="5.2" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1"/>
+  <ellipse cx="233" cy="109" rx="1.3" ry="1.8" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="0.7"/>
+  <ellipse cx="255" cy="106" rx="4.2" ry="5.2" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1"/>
+  <ellipse cx="254" cy="107" rx="1.3" ry="1.8" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="0.7"/>
+  <ellipse cx="276" cy="111" rx="4.2" ry="5.2" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1"/>
+  <ellipse cx="275" cy="112" rx="1.3" ry="1.8" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="0.7"/>
+  <ellipse cx="303" cy="113" rx="4.2" ry="5.2" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1"/>
+  <ellipse cx="302" cy="114" rx="1.3" ry="1.8" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="0.7"/>
+  <ellipse cx="242" cy="125" rx="4.2" ry="5.2" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1"/>
+  <ellipse cx="241" cy="126" rx="1.3" ry="1.8" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="0.7"/>
+  <ellipse cx="261" cy="121" rx="4.2" ry="5.2" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1"/>
+  <ellipse cx="260" cy="122" rx="1.3" ry="1.8" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="0.7"/>
+  <ellipse cx="287" cy="127" rx="4.2" ry="5.2" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1"/>
+  <ellipse cx="286" cy="128" rx="1.3" ry="1.8" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="0.7"/>
+  <ellipse cx="254" cy="143" rx="4.2" ry="5.2" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1"/>
+  <ellipse cx="253" cy="144" rx="1.3" ry="1.8" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="0.7"/>
+  <ellipse cx="273" cy="137" rx="4.2" ry="5.2" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1"/>
+  <ellipse cx="272" cy="138" rx="1.3" ry="1.8" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="0.7"/>
+  <ellipse cx="281" cy="147" rx="4.2" ry="5.2" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1"/>
+  <ellipse cx="280" cy="148" rx="1.3" ry="1.8" fill="var(--fig-paper)" stroke="var(--fig-ink)" stroke-width="0.7"/>
+  <text x="90" y="226" font-size="13" text-anchor="middle" fill="var(--fig-ink)">維管束排成環狀</text>
+  <text x="270" y="201" font-size="13" text-anchor="middle" fill="var(--fig-ink)">維管束散生</text>
+  <text x="270" y="224" font-size="12" text-anchor="middle" fill="var(--fig-soft)">沒有形成層</text>
+  <text x="350" y="249" font-size="11" text-anchor="end" fill="var(--fig-soft)">示意圖</text>
+</svg>

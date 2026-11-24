@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 230" role="img">
+  <title>伏特計並聯在燈泡兩端，三顆乾電池串聯可提高電壓，並聯則保持原電壓。</title>
+  <text x="180" y="20" font-size="14" text-anchor="middle" fill="var(--fig-ink)" font-weight="600">電壓</text>
+  <path d="M168 35V182" fill="none" stroke="var(--fig-line)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M79 150H31V63H139V150H85M31 109h108" fill="none" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M79 141v18 M85 145v10" fill="none" stroke="var(--fig-ink)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="85" cy="63" r="12" fill="var(--fig-sand)" stroke="var(--fig-ink)" stroke-width="1.4"/>
+  <path d="M77 55l16 16m0 -16l-16 16" fill="none" stroke="var(--fig-ink)" stroke-width="1.3" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="85" cy="109" r="14" fill="var(--fig-paper)" stroke="var(--ic)" stroke-width="1.7"/>
+  <text x="85" y="114" font-size="14" text-anchor="middle" fill="var(--fig-ink)">V</text>
+  <circle cx="31" cy="109" r="2.5" fill="var(--fig-ink)" stroke="var(--fig-ink)" stroke-width="1"/>
+  <circle cx="139" cy="109" r="2.5" fill="var(--fig-ink)" stroke="var(--fig-ink)" stroke-width="1"/>
+  <text x="85" y="179" font-size="13" text-anchor="middle" fill="var(--fig-ink)">伏特計並聯</text>
+  <path d="M184 55h25m6 0h40m6 0h40m6 0h35" fill="none" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M209 46v18 M215 50v10" fill="none" stroke="var(--fig-ink)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M255 46v18 M261 50v10" fill="none" stroke="var(--fig-ink)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M301 46v18 M307 50v10" fill="none" stroke="var(--fig-ink)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="263" y="84" font-size="13" text-anchor="middle" fill="var(--fig-ink)">1.5 V×3＝4.5 V</text>
+  <path d="M178 94H350" fill="none" stroke="var(--fig-line)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M185 130h24m108 0h25M209 110v40m108 -40v40" fill="none" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M209 110h51m6 0h51" fill="none" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M260 101v18 M266 105v10" fill="none" stroke="var(--fig-ink)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M209 130h51m6 0h51" fill="none" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M260 121v18 M266 125v10" fill="none" stroke="var(--fig-ink)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M209 150h51m6 0h51" fill="none" stroke="var(--fig-ink)" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M260 141v18 M266 145v10" fill="none" stroke="var(--fig-ink)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="209" cy="130" r="2.3" fill="var(--fig-ink)" stroke="var(--fig-ink)" stroke-width="1"/>
+  <circle cx="317" cy="130" r="2.3" fill="var(--fig-ink)" stroke="var(--fig-ink)" stroke-width="1"/>
+  <text x="263" y="179" font-size="13" text-anchor="middle" fill="var(--fig-ink)">仍為 1.5 V，用得較久</text>
+  <rect x="8" y="193" width="344" height="28" rx="5" fill="var(--fig-cool)" stroke="var(--fig-line)" stroke-width="1"/>
+  <text x="180" y="212" font-size="12" text-anchor="middle" fill="var(--fig-ink)">一般乾電池約 1.5 V</text>
+</svg>
